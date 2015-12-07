@@ -2,10 +2,10 @@ Diagrammes à faire
 ==================
 
 *   diagramme de séquence : 1, voire plusieurs
-*   diagramme d'activité : pour le protocole
 *   diagramme de déploiement
 *   diagramme de classe (pour le matériel et lesactions des acteurs dessus)
 *   diagramme de cas d'utilisation
+*   diagramme d'activité : pour le protocole
 
 
 
