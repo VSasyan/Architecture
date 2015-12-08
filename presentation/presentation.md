@@ -1,3 +1,5 @@
+class: center, middle
+
 # Projet Architecture
 ## Le système de fonctionnement du SAMU
 
