@@ -1,26 +1,24 @@
+# Projet Architecture
+## Le système de fonctionnement du SAMU
 
+![Logo UML](http://grssocial.com/wp-content/uploads/2014/05/UML-logo1.jpg "Logo UML")
 
-# Title
-
-1. Introduction
-2. Deep-dive
-3. ...
+**Maxwell Hountonhadja**, **Alabn Kraus**, **Valentin Sasyan**
 
 ---
 
-# Agenda
+# Plan
 
-1. Insjhdftroduction
-2. Deepjhsdf-dive
-3. ...dsjhf
+1. Instroduction
+2. Diagramme de cas d'utilisation
+3. Diagramme de séquence
+4. Diagramme d'activité
+5. Diagramme de classe
 
 ---
 
 # Introduction
 
-1. Introdsdfuction
-2. Deepdfs-dive
-3. ...sd
-
----
-
+1. Le 15
+2. Équipes mises en jeu
+3. Solutions techniques
