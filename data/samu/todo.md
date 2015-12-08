@@ -1,11 +1,11 @@
 Diagrammes à faire
 ==================
 
-*   diagramme de séquence : 1, voire plusieurs
+*   *diagramme d'activité* : en cours, Alban
 *   diagramme de déploiement
-*   diagramme de classe (pour le matériel et lesactions des acteurs dessus)
-*   diagramme de cas d'utilisation
-*   diagramme d'activité : pour le protocole
+*   diagramme de classe (pour le matériel et les actions des acteurs dessus)
+*   *diagramme de cas d'utilisation* : fait, à valider
+*   *diagramme de séquence* : fait, à relire et valider
 
 
 
@@ -14,3 +14,4 @@ Diagrammes à faire
 =================
 
 *   le contacter, mais pas tout de suite (docadrenalin(at)gmail(dot)com)
+*   réflechir à la présentation
