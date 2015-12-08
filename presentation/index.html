@@ -9,7 +9,7 @@
 			var slideshow;
 			$(document).ready(function() {
 				$.ajax({
-					url : 'presentation.md',
+					url : 'http://htmlpreview.github.io/?https://raw.githubusercontent.com/VSasyan/Architecture/master/presentation/presentation.md',
 					succes : function(data) {
 						$('#source').value(data);
 						slideshow = remark.create();
