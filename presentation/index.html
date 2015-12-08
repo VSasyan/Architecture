@@ -10,8 +10,9 @@
 			$(document).ready(function() {
 				$.ajax({
 					url : 'https://raw.githubusercontent.com/VSasyan/Architecture/master/presentation/presentation.md',
-					succes : function(data) {
-						$('#source').value(data);
+					success : function(data) {
+						$('#source').val(data);
+						console.log($('#source').val());
 						slideshow = remark.create();
 					}
 				});
