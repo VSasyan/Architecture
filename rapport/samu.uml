@@ -62,7 +62,7 @@
 			CodeGeneration
 		</plugin>
 </profile>
-<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Tue Dec 08 11:59:26 CET 2015'>
+<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Tue Dec 08 13:49:29 CET 2015'>
   <XMI.header>    <XMI.documentation>
       <XMI.exporter>ArgoUML (using Netbeans XMI Writer version 1.0)</XMI.exporter>
       <XMI.exporterVersion>0.34(6) revised on $Date: 2010-01-11 22:20:14 +0100 (Mon, 11 Jan 2010) $ </XMI.exporterVersion>
@@ -551,7 +551,7 @@
             <UML:SendAction xmi.id = '127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000AD1'
               name = 'etablissement_dossier_info' isSpecification = 'false' isAsynchronous = 'true'/>
             <UML:SendAction xmi.id = '127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000AD6'
-              name = 'consigne_premiers_gestes' isSpecification = 'false' isAsynchronous = 'true'/>
+              name = 'consignes_premiers_gestes' isSpecification = 'false' isAsynchronous = 'true'/>
             <UML:SendAction xmi.id = '127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000AD8'
               name = 'premiers_gestes_secours' isSpecification = 'false' isAsynchronous = 'true'/>
             <UML:AssociationRole xmi.id = '127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000ADB'
@@ -620,7 +620,6 @@
               </UML:Association.connection>
               <UML:AssociationRole.message>
                 <UML:Message xmi.idref = '127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000AE8'/>
-                <UML:Message xmi.idref = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D96'/>
                 <UML:Message xmi.idref = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D9D'/>
                 <UML:Message xmi.idref = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D9F'/>
               </UML:AssociationRole.message>
@@ -650,9 +649,9 @@
               </UML:AssociationRole.message>
             </UML:AssociationRole>
             <UML:SendAction xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000AD8'
-              name = 'questions_patient' isSpecification = 'false' isAsynchronous = 'true'/>
+              name = 'questions_directes_patient' isSpecification = 'false' isAsynchronous = 'true'/>
             <UML:ReturnAction xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000ADA'
-              name = 'reponse_patient' isSpecification = 'false' isAsynchronous = 'true'/>
+              name = 'reponse_directe_patient' isSpecification = 'false' isAsynchronous = 'true'/>
             <UML:AssociationRole xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000ADD'
               name = 'questions_appelant' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
               isAbstract = 'false'>
@@ -698,7 +697,8 @@
             <UML:SendAction xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D71'
               name = 'discussion_equipe' isSpecification = 'false' isAsynchronous = 'true'/>
             <UML:AssociationRole xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D74'
-              isSpecification = 'false' isRoot = 'false' isLeaf = 'false' isAbstract = 'false'>
+              name = 'transmission_dossier' isSpecification = 'false' isRoot = 'false'
+              isLeaf = 'false' isAbstract = 'false'>
               <UML:Association.connection>
                 <UML:AssociationEndRole xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D75'
                   isSpecification = 'false' isNavigable = 'false'>
@@ -720,7 +720,8 @@
             <UML:SendAction xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D73'
               name = 'transmission_dossier' isSpecification = 'false' isAsynchronous = 'true'/>
             <UML:AssociationRole xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D79'
-              isSpecification = 'false' isRoot = 'false' isLeaf = 'false' isAbstract = 'false'>
+              name = 'mobilisation_effectifs' isSpecification = 'false' isRoot = 'false'
+              isLeaf = 'false' isAbstract = 'false'>
               <UML:Association.connection>
                 <UML:AssociationEndRole xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D7A'
                   isSpecification = 'false' isNavigable = 'false'>
@@ -744,7 +745,8 @@
             <UML:SendAction xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D78'
               name = 'mobilisation_effectifs' isSpecification = 'false' isAsynchronous = 'true'/>
             <UML:AssociationRole xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D7E'
-              isSpecification = 'false' isRoot = 'false' isLeaf = 'false' isAbstract = 'false'>
+              name = 'acuse_envoie_conseil' isSpecification = 'false' isRoot = 'false'
+              isLeaf = 'false' isAbstract = 'false'>
               <UML:Association.connection>
                 <UML:AssociationEndRole xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D7F'
                   isSpecification = 'false' isNavigable = 'false'>
@@ -765,50 +767,13 @@
             </UML:AssociationRole>
             <UML:SendAction xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D7D'
               name = 'acuse_envoi_conseil' isSpecification = 'false' isAsynchronous = 'true'/>
-            <UML:AssociationRole xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D83'
-              isSpecification = 'false' isRoot = 'false' isLeaf = 'false' isAbstract = 'false'>
-              <UML:Association.connection>
-                <UML:AssociationEndRole xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D84'
-                  isSpecification = 'false' isNavigable = 'false'>
-                  <UML:AssociationEnd.participant>
-                    <UML:ClassifierRole xmi.idref = '127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000AA0'/>
-                  </UML:AssociationEnd.participant>
-                </UML:AssociationEndRole>
-                <UML:AssociationEndRole xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D85'
-                  isSpecification = 'false' isNavigable = 'false'>
-                  <UML:AssociationEnd.participant>
-                    <UML:ClassifierRole xmi.idref = '127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A9D'/>
-                  </UML:AssociationEnd.participant>
-                </UML:AssociationEndRole>
-              </UML:Association.connection>
-            </UML:AssociationRole>
             <UML:SendAction xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D82'
               name = 'envoi_bilan' isSpecification = 'false' isAsynchronous = 'true'/>
             <UML:SendAction xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D87'
               name = 'envoi_bilan_renfort' isSpecification = 'false' isAsynchronous = 'true'/>
-            <UML:ReturnAction xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D89'
-              isSpecification = 'false' isAsynchronous = 'true'/>
-            <UML:AssociationRole xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D8C'
-              isSpecification = 'false' isRoot = 'false' isLeaf = 'false' isAbstract = 'false'>
-              <UML:Association.connection>
-                <UML:AssociationEndRole xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D8D'
-                  isSpecification = 'false' isNavigable = 'false'>
-                  <UML:AssociationEnd.participant>
-                    <UML:ClassifierRole xmi.idref = '127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A9D'/>
-                  </UML:AssociationEnd.participant>
-                </UML:AssociationEndRole>
-                <UML:AssociationEndRole xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D8E'
-                  isSpecification = 'false' isNavigable = 'false'>
-                  <UML:AssociationEnd.participant>
-                    <UML:ClassifierRole xmi.idref = '127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000AA4'/>
-                  </UML:AssociationEnd.participant>
-                </UML:AssociationEndRole>
-              </UML:Association.connection>
-            </UML:AssociationRole>
-            <UML:ReturnAction xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D8B'
-              isSpecification = 'false' isAsynchronous = 'true'/>
             <UML:AssociationRole xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D91'
-              isSpecification = 'false' isRoot = 'false' isLeaf = 'false' isAbstract = 'false'>
+              name = 'verifier_dispo_lieu' isSpecification = 'false' isRoot = 'false'
+              isLeaf = 'false' isAbstract = 'false'>
               <UML:Association.connection>
                 <UML:AssociationEndRole xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D92'
                   isSpecification = 'false' isNavigable = 'false'>
@@ -828,12 +793,9 @@
                 <UML:Message xmi.idref = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000DA3'/>
               </UML:AssociationRole.message>
             </UML:AssociationRole>
-            <UML:ReturnAction xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D90'
-              isSpecification = 'false' isAsynchronous = 'true'/>
-            <UML:ReturnAction xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D95'
-              isSpecification = 'false' isAsynchronous = 'true'/>
             <UML:AssociationRole xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D98'
-              isSpecification = 'false' isRoot = 'false' isLeaf = 'false' isAbstract = 'false'>
+              name = 'transmission_bilan' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
               <UML:Association.connection>
                 <UML:AssociationEndRole xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D99'
                   isSpecification = 'false' isNavigable = 'false'>
@@ -871,25 +833,6 @@
             </UML:Comment>
             <UML:SendAction xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000DA6'
               name = 'transmission_lieu_accueil_1' isSpecification = 'false' isAsynchronous = 'true'/>
-            <UML:AssociationRole xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000DA9'
-              isSpecification = 'false' isRoot = 'false' isLeaf = 'false' isAbstract = 'false'>
-              <UML:Association.connection>
-                <UML:AssociationEndRole xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000DAA'
-                  isSpecification = 'false' isNavigable = 'false'>
-                  <UML:AssociationEnd.participant>
-                    <UML:ClassifierRole xmi.idref = '127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A9A'/>
-                  </UML:AssociationEnd.participant>
-                </UML:AssociationEndRole>
-                <UML:AssociationEndRole xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000DAB'
-                  isSpecification = 'false' isNavigable = 'false'>
-                  <UML:AssociationEnd.participant>
-                    <UML:ClassifierRole xmi.idref = '127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000AA4'/>
-                  </UML:AssociationEnd.participant>
-                </UML:AssociationEndRole>
-              </UML:Association.connection>
-            </UML:AssociationRole>
-            <UML:SendAction xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000DA8'
-              isSpecification = 'false' isAsynchronous = 'true'/>
             <UML:SendAction xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000DAD'
               name = 'transmission_lieu_accueil_2' isSpecification = 'false' isAsynchronous = 'true'/>
           </UML:Namespace.ownedElement>
@@ -1071,7 +1014,7 @@
                   </UML:Message.action>
                 </UML:Message>
                 <UML:Message xmi.id = '127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000AE3'
-                  name = 'Transfert du dossier (voir appel) au Medecin Régulateur' isSpecification = 'false'>
+                  name = 'Transfert du dossier (voire appel) au Medecin Régulateur' isSpecification = 'false'>
                   <UML:Message.sender>
                     <UML:ClassifierRole xmi.idref = '127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A92'/>
                   </UML:Message.sender>
@@ -1300,21 +1243,6 @@
                   </UML:Message.communicationConnection>
                   <UML:Message.action>
                     <UML:SendAction xmi.idref = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D87'/>
-                  </UML:Message.action>
-                </UML:Message>
-                <UML:Message xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D96'
-                  isSpecification = 'false'>
-                  <UML:Message.sender>
-                    <UML:ClassifierRole xmi.idref = '127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A9D'/>
-                  </UML:Message.sender>
-                  <UML:Message.receiver>
-                    <UML:ClassifierRole xmi.idref = '127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A97'/>
-                  </UML:Message.receiver>
-                  <UML:Message.communicationConnection>
-                    <UML:AssociationRole xmi.idref = '127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000AE5'/>
-                  </UML:Message.communicationConnection>
-                  <UML:Message.action>
-                    <UML:ReturnAction xmi.idref = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D95'/>
                   </UML:Message.action>
                 </UML:Message>
                 <UML:Message xmi.id = '127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000D9B'
@@ -3811,7 +3739,7 @@
   <rectangle name="Fig0"
     x="800"
     y="1296"
-    width="2096"
+    width="2032"
     height="184"
     fill="1"
     fillcolor="white"
@@ -3819,9 +3747,9 @@
     strokecolor="black"
   />
   <rectangle name="Fig1"
-    x="8"
+    x="56"
     y="864"
-    width="2896"
+    width="2776"
     height="168"
     fill="1"
     fillcolor="white"
@@ -3829,9 +3757,9 @@
     strokecolor="black"
   />
   <rectangle name="Fig2"
-    x="8"
+    x="56"
     y="768"
-    width="2896"
+    width="2776"
     height="96"
     fill="1"
     fillcolor="white"
@@ -3839,7 +3767,7 @@
     strokecolor="black"
   />
   <group name="Fig3"
-       description="org.argouml.sequence2.diagram.FigClassifierRole[40, 72, 176, 1720]pathVisible=false;stereotypeView=0;"
+       description="org.argouml.sequence2.diagram.FigClassifierRole[40, 72, 176, 1544]pathVisible=false;stereotypeView=0;"
        href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A8C"
        fill="1"
        fillcolor="white"
@@ -3853,7 +3781,7 @@
       x="40"
       y="72"
       width="176"
-      height="1720"
+      height="1544"
       fill="0"
       fillcolor="white"
       stroke="0"
@@ -3871,7 +3799,7 @@
       strokecolor="black"
     />
     <group name="Fig3.2"
-         description="org.argouml.sequence2.diagram.FigLifeLine[40, 121, 176, 1670]"
+         description="org.argouml.sequence2.diagram.FigLifeLine[40, 121, 176, 1494]"
          href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A8C"
          fill="1"
          fillcolor="white"
@@ -3885,7 +3813,7 @@
         x="40"
         y="121"
         width="176"
-        height="1670"
+        height="1494"
         fill="0"
         fillcolor="white"
         stroke="0"
@@ -3901,10 +3829,10 @@
         <moveto x="128"
                 y="121" />
         <lineto x="128"
-                y="1791" />
+                y="1615" />
       </path>
       <group name="Fig3.2.2"
-           description="org.argouml.sequence2.diagram.FigActivation[118, 121, 20, 1670]"
+           description="org.argouml.sequence2.diagram.FigActivation[118, 121, 20, 1494]"
            href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A8C"
            fill="1"
            fillcolor="white"
@@ -3918,7 +3846,7 @@
           x="118"
           y="121"
           width="20"
-          height="1670"
+          height="1494"
           fill="1"
           fillcolor="white"
           stroke="1"
@@ -3988,7 +3916,7 @@
     </group>
   </group>
   <group name="Fig4"
-       description="org.argouml.sequence2.diagram.FigClassifierRole[304, 72, 144, 1720]pathVisible=false;stereotypeView=0;"
+       description="org.argouml.sequence2.diagram.FigClassifierRole[304, 72, 144, 1544]pathVisible=false;stereotypeView=0;"
        href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A8F"
        fill="1"
        fillcolor="white"
@@ -4002,7 +3930,7 @@
       x="304"
       y="72"
       width="144"
-      height="1720"
+      height="1544"
       fill="0"
       fillcolor="white"
       stroke="0"
@@ -4020,7 +3948,7 @@
       strokecolor="black"
     />
     <group name="Fig4.2"
-         description="org.argouml.sequence2.diagram.FigLifeLine[304, 121, 144, 1670]"
+         description="org.argouml.sequence2.diagram.FigLifeLine[304, 121, 144, 1494]"
          href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A8F"
          fill="1"
          fillcolor="white"
@@ -4034,7 +3962,7 @@
         x="304"
         y="121"
         width="144"
-        height="1670"
+        height="1494"
         fill="0"
         fillcolor="white"
         stroke="0"
@@ -4050,10 +3978,10 @@
         <moveto x="376"
                 y="121" />
         <lineto x="376"
-                y="1791" />
+                y="1615" />
       </path>
       <group name="Fig4.2.2"
-           description="org.argouml.sequence2.diagram.FigActivation[366, 121, 20, 1670]"
+           description="org.argouml.sequence2.diagram.FigActivation[366, 121, 20, 1494]"
            href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A8F"
            fill="1"
            fillcolor="white"
@@ -4067,7 +3995,7 @@
           x="366"
           y="121"
           width="20"
-          height="1670"
+          height="1494"
           fill="1"
           fillcolor="white"
           stroke="1"
@@ -4137,7 +4065,7 @@
     </group>
   </group>
   <group name="Fig5"
-       description="org.argouml.sequence2.diagram.FigClassifierRole[609, 72, 150, 1723]pathVisible=false;stereotypeView=0;"
+       description="org.argouml.sequence2.diagram.FigClassifierRole[609, 72, 150, 1544]pathVisible=false;stereotypeView=0;"
        href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A92"
        fill="1"
        fillcolor="white"
@@ -4151,7 +4079,7 @@
       x="609"
       y="72"
       width="150"
-      height="1723"
+      height="1544"
       fill="0"
       fillcolor="white"
       stroke="0"
@@ -4169,7 +4097,7 @@
       strokecolor="black"
     />
     <group name="Fig5.2"
-         description="org.argouml.sequence2.diagram.FigLifeLine[609, 121, 150, 1673]"
+         description="org.argouml.sequence2.diagram.FigLifeLine[609, 121, 150, 1494]"
          href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A92"
          fill="1"
          fillcolor="white"
@@ -4183,7 +4111,7 @@
         x="609"
         y="121"
         width="150"
-        height="1673"
+        height="1494"
         fill="0"
         fillcolor="white"
         stroke="0"
@@ -4199,10 +4127,10 @@
         <moveto x="684"
                 y="121" />
         <lineto x="684"
-                y="1794" />
+                y="1615" />
       </path>
       <group name="Fig5.2.2"
-           description="org.argouml.sequence2.diagram.FigActivation[674, 121, 20, 1673]"
+           description="org.argouml.sequence2.diagram.FigActivation[674, 121, 20, 1494]"
            href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A92"
            fill="1"
            fillcolor="white"
@@ -4216,7 +4144,7 @@
           x="674"
           y="121"
           width="20"
-          height="1673"
+          height="1494"
           fill="1"
           fillcolor="white"
           stroke="1"
@@ -4286,7 +4214,7 @@
     </group>
   </group>
   <group name="Fig6"
-       description="org.argouml.sequence2.diagram.FigClassifierRole[860, 72, 191, 1723]pathVisible=false;stereotypeView=0;"
+       description="org.argouml.sequence2.diagram.FigClassifierRole[860, 72, 191, 1544]pathVisible=false;stereotypeView=0;"
        href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A97"
        fill="1"
        fillcolor="white"
@@ -4300,7 +4228,7 @@
       x="860"
       y="72"
       width="191"
-      height="1723"
+      height="1544"
       fill="0"
       fillcolor="white"
       stroke="0"
@@ -4318,7 +4246,7 @@
       strokecolor="black"
     />
     <group name="Fig6.2"
-         description="org.argouml.sequence2.diagram.FigLifeLine[860, 121, 191, 1673]"
+         description="org.argouml.sequence2.diagram.FigLifeLine[860, 121, 191, 1494]"
          href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A97"
          fill="1"
          fillcolor="white"
@@ -4332,7 +4260,7 @@
         x="860"
         y="121"
         width="191"
-        height="1673"
+        height="1494"
         fill="0"
         fillcolor="white"
         stroke="0"
@@ -4348,10 +4276,10 @@
         <moveto x="955"
                 y="121" />
         <lineto x="955"
-                y="1794" />
+                y="1615" />
       </path>
       <group name="Fig6.2.2"
-           description="org.argouml.sequence2.diagram.FigActivation[945, 121, 20, 1673]"
+           description="org.argouml.sequence2.diagram.FigActivation[945, 121, 20, 1494]"
            href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A97"
            fill="1"
            fillcolor="white"
@@ -4365,7 +4293,7 @@
           x="945"
           y="121"
           width="20"
-          height="1673"
+          height="1494"
           fill="1"
           fillcolor="white"
           stroke="1"
@@ -4435,7 +4363,7 @@
     </group>
   </group>
   <group name="Fig7"
-       description="org.argouml.sequence2.diagram.FigClassifierRole[1264, 72, 218, 1718]pathVisible=false;stereotypeView=0;"
+       description="org.argouml.sequence2.diagram.FigClassifierRole[1264, 72, 216, 1544]pathVisible=false;stereotypeView=0;"
        href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A9A"
        fill="1"
        fillcolor="white"
@@ -4448,8 +4376,8 @@
     <rectangle name="Fig7.0"
       x="1264"
       y="72"
-      width="218"
-      height="1718"
+      width="216"
+      height="1544"
       fill="0"
       fillcolor="white"
       stroke="0"
@@ -4459,7 +4387,7 @@
     <rectangle name="Fig7.1"
       x="1264"
       y="72"
-      width="218"
+      width="216"
       height="0"
       fill="0"
       fillcolor="white"
@@ -4467,7 +4395,7 @@
       strokecolor="black"
     />
     <group name="Fig7.2"
-         description="org.argouml.sequence2.diagram.FigLifeLine[1264, 121, 218, 1668]"
+         description="org.argouml.sequence2.diagram.FigLifeLine[1264, 121, 216, 1494]"
          href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A9A"
          fill="1"
          fillcolor="white"
@@ -4480,8 +4408,8 @@
       <rectangle name="Fig7.2.0"
         x="1264"
         y="121"
-        width="218"
-        height="1668"
+        width="216"
+        height="1494"
         fill="0"
         fillcolor="white"
         stroke="0"
@@ -4494,13 +4422,13 @@
         stroke="1"
         strokecolor="black"
       >
-        <moveto x="1373"
+        <moveto x="1372"
                 y="121" />
-        <lineto x="1373"
-                y="1789" />
+        <lineto x="1372"
+                y="1615" />
       </path>
       <group name="Fig7.2.2"
-           description="org.argouml.sequence2.diagram.FigActivation[1363, 121, 20, 1668]"
+           description="org.argouml.sequence2.diagram.FigActivation[1362, 121, 20, 1494]"
            href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A9A"
            fill="1"
            fillcolor="white"
@@ -4511,10 +4439,10 @@
         </private>
         
         <rectangle name="Fig7.2.2.0"
-          x="1363"
+          x="1362"
           y="121"
           width="20"
-          height="1668"
+          height="1494"
           fill="1"
           fillcolor="white"
           stroke="1"
@@ -4523,7 +4451,7 @@
       </group>
     </group>
     <group name="Fig7.3"
-         description="org.argouml.sequence2.diagram.FigHead[1264, 72, 218, 50]"
+         description="org.argouml.sequence2.diagram.FigHead[1264, 72, 216, 50]"
          href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A9A"
          fill="1"
          fillcolor="white"
@@ -4536,7 +4464,7 @@
       <rectangle name="Fig7.3.0"
         x="1264"
         y="72"
-        width="218"
+        width="216"
         height="50"
         fill="1"
         fillcolor="white"
@@ -4546,7 +4474,7 @@
       <text name="Fig7.3.1"
         x="1264"
         y="72"
-        width="218"
+        width="216"
         height="23"
         fill="0"
         fillcolor="white"
@@ -4560,7 +4488,7 @@
         justification="Center"
       >:ARM Gestionnaire des moyens</text>
       <group name="Fig7.3.2"
-           description="org.argouml.uml.diagram.ui.FigStereotypesGroup[1264, 72, 218, 0]"
+           description="org.argouml.uml.diagram.ui.FigStereotypesGroup[1264, 72, 216, 0]"
            href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A9A"
            fill="0"
            fillcolor="white"
@@ -4573,7 +4501,7 @@
         <rectangle name="Fig7.3.2.0"
           x="1264"
           y="72"
-          width="218"
+          width="216"
           height="0"
           fill="0"
           fillcolor="white"
@@ -4584,7 +4512,7 @@
     </group>
   </group>
   <group name="Fig8"
-       description="org.argouml.sequence2.diagram.FigClassifierRole[1609, 72, 150, 1708]pathVisible=false;stereotypeView=0;"
+       description="org.argouml.sequence2.diagram.FigClassifierRole[1609, 72, 150, 1544]pathVisible=false;stereotypeView=0;"
        href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A9D"
        fill="1"
        fillcolor="white"
@@ -4598,7 +4526,7 @@
       x="1609"
       y="72"
       width="150"
-      height="1708"
+      height="1544"
       fill="0"
       fillcolor="white"
       stroke="0"
@@ -4616,7 +4544,7 @@
       strokecolor="black"
     />
     <group name="Fig8.2"
-         description="org.argouml.sequence2.diagram.FigLifeLine[1609, 121, 150, 1658]"
+         description="org.argouml.sequence2.diagram.FigLifeLine[1609, 121, 150, 1494]"
          href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A9D"
          fill="1"
          fillcolor="white"
@@ -4630,7 +4558,7 @@
         x="1609"
         y="121"
         width="150"
-        height="1658"
+        height="1494"
         fill="0"
         fillcolor="white"
         stroke="0"
@@ -4646,10 +4574,10 @@
         <moveto x="1684"
                 y="121" />
         <lineto x="1684"
-                y="1779" />
+                y="1615" />
       </path>
       <group name="Fig8.2.2"
-           description="org.argouml.sequence2.diagram.FigActivation[1674, 121, 20, 1658]"
+           description="org.argouml.sequence2.diagram.FigActivation[1674, 121, 20, 1494]"
            href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000A9D"
            fill="1"
            fillcolor="white"
@@ -4663,7 +4591,7 @@
           x="1674"
           y="121"
           width="20"
-          height="1658"
+          height="1494"
           fill="1"
           fillcolor="white"
           stroke="1"
@@ -4733,7 +4661,7 @@
     </group>
   </group>
   <group name="Fig9"
-       description="org.argouml.sequence2.diagram.FigClassifierRole[1933, 72, 150, 1721]pathVisible=false;stereotypeView=0;"
+       description="org.argouml.sequence2.diagram.FigClassifierRole[1933, 72, 150, 1544]pathVisible=false;stereotypeView=0;"
        href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000AA0"
        fill="1"
        fillcolor="white"
@@ -4747,7 +4675,7 @@
       x="1933"
       y="72"
       width="150"
-      height="1721"
+      height="1544"
       fill="0"
       fillcolor="white"
       stroke="0"
@@ -4765,7 +4693,7 @@
       strokecolor="black"
     />
     <group name="Fig9.2"
-         description="org.argouml.sequence2.diagram.FigLifeLine[1933, 121, 150, 1671]"
+         description="org.argouml.sequence2.diagram.FigLifeLine[1933, 121, 150, 1494]"
          href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000AA0"
          fill="1"
          fillcolor="white"
@@ -4779,7 +4707,7 @@
         x="1933"
         y="121"
         width="150"
-        height="1671"
+        height="1494"
         fill="0"
         fillcolor="white"
         stroke="0"
@@ -4795,10 +4723,10 @@
         <moveto x="2008"
                 y="121" />
         <lineto x="2008"
-                y="1792" />
+                y="1615" />
       </path>
       <group name="Fig9.2.2"
-           description="org.argouml.sequence2.diagram.FigActivation[1998, 121, 20, 1671]"
+           description="org.argouml.sequence2.diagram.FigActivation[1998, 121, 20, 1494]"
            href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000AA0"
            fill="1"
            fillcolor="white"
@@ -4812,7 +4740,7 @@
           x="1998"
           y="121"
           width="20"
-          height="1671"
+          height="1494"
           fill="1"
           fillcolor="white"
           stroke="1"
@@ -4882,7 +4810,7 @@
     </group>
   </group>
   <group name="Fig10"
-       description="org.argouml.sequence2.diagram.FigClassifierRole[2250, 72, 309, 1724]pathVisible=false;stereotypeView=0;"
+       description="org.argouml.sequence2.diagram.FigClassifierRole[2250, 72, 309, 1544]pathVisible=false;stereotypeView=0;"
        href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000AA4"
        fill="1"
        fillcolor="white"
@@ -4896,7 +4824,7 @@
       x="2250"
       y="72"
       width="309"
-      height="1724"
+      height="1544"
       fill="0"
       fillcolor="white"
       stroke="0"
@@ -4914,7 +4842,7 @@
       strokecolor="black"
     />
     <group name="Fig10.2"
-         description="org.argouml.sequence2.diagram.FigLifeLine[2250, 121, 309, 1674]"
+         description="org.argouml.sequence2.diagram.FigLifeLine[2250, 121, 309, 1494]"
          href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000AA4"
          fill="1"
          fillcolor="white"
@@ -4928,7 +4856,7 @@
         x="2250"
         y="121"
         width="309"
-        height="1674"
+        height="1494"
         fill="0"
         fillcolor="white"
         stroke="0"
@@ -4944,10 +4872,10 @@
         <moveto x="2404"
                 y="121" />
         <lineto x="2404"
-                y="1795" />
+                y="1615" />
       </path>
       <group name="Fig10.2.2"
-           description="org.argouml.sequence2.diagram.FigActivation[2394, 121, 20, 1674]"
+           description="org.argouml.sequence2.diagram.FigActivation[2394, 121, 20, 1494]"
            href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000AA4"
            fill="1"
            fillcolor="white"
@@ -4961,7 +4889,7 @@
           x="2394"
           y="121"
           width="20"
-          height="1674"
+          height="1494"
           fill="1"
           fillcolor="white"
           stroke="1"
@@ -5031,7 +4959,7 @@
     </group>
   </group>
   <group name="Fig11"
-       description="org.argouml.sequence2.diagram.FigClassifierRole[2692, 72, 150, 1723]pathVisible=false;stereotypeView=0;"
+       description="org.argouml.sequence2.diagram.FigClassifierRole[2696, 72, 150, 1544]pathVisible=false;stereotypeView=0;"
        href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000AA8"
        fill="1"
        fillcolor="white"
@@ -5042,10 +4970,10 @@
     </private>
     
     <rectangle name="Fig11.0"
-      x="2692"
+      x="2696"
       y="72"
       width="150"
-      height="1723"
+      height="1544"
       fill="0"
       fillcolor="white"
       stroke="0"
@@ -5053,7 +4981,7 @@
       visibility="0"
     />
     <rectangle name="Fig11.1"
-      x="2692"
+      x="2696"
       y="72"
       width="150"
       height="0"
@@ -5063,7 +4991,7 @@
       strokecolor="black"
     />
     <group name="Fig11.2"
-         description="org.argouml.sequence2.diagram.FigLifeLine[2692, 121, 150, 1673]"
+         description="org.argouml.sequence2.diagram.FigLifeLine[2696, 121, 150, 1494]"
          href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000AA8"
          fill="1"
          fillcolor="white"
@@ -5074,10 +5002,10 @@
       </private>
       
       <rectangle name="Fig11.2.0"
-        x="2692"
+        x="2696"
         y="121"
         width="150"
-        height="1673"
+        height="1494"
         fill="0"
         fillcolor="white"
         stroke="0"
@@ -5090,13 +5018,13 @@
         stroke="1"
         strokecolor="black"
       >
-        <moveto x="2767"
+        <moveto x="2771"
                 y="121" />
-        <lineto x="2767"
-                y="1794" />
+        <lineto x="2771"
+                y="1615" />
       </path>
       <group name="Fig11.2.2"
-           description="org.argouml.sequence2.diagram.FigActivation[2757, 121, 20, 1673]"
+           description="org.argouml.sequence2.diagram.FigActivation[2761, 121, 20, 1494]"
            href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000AA8"
            fill="1"
            fillcolor="white"
@@ -5107,10 +5035,10 @@
         </private>
         
         <rectangle name="Fig11.2.2.0"
-          x="2757"
+          x="2761"
           y="121"
           width="20"
-          height="1673"
+          height="1494"
           fill="1"
           fillcolor="white"
           stroke="1"
@@ -5119,7 +5047,7 @@
       </group>
     </group>
     <group name="Fig11.3"
-         description="org.argouml.sequence2.diagram.FigHead[2692, 72, 150, 50]"
+         description="org.argouml.sequence2.diagram.FigHead[2696, 72, 150, 50]"
          href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000AA8"
          fill="1"
          fillcolor="white"
@@ -5130,7 +5058,7 @@
       </private>
       
       <rectangle name="Fig11.3.0"
-        x="2692"
+        x="2696"
         y="72"
         width="150"
         height="50"
@@ -5140,7 +5068,7 @@
         strokecolor="black"
       />
       <text name="Fig11.3.1"
-        x="2692"
+        x="2696"
         y="72"
         width="150"
         height="23"
@@ -5156,7 +5084,7 @@
         justification="Center"
       >:Structure d&apos;acceuil</text>
       <group name="Fig11.3.2"
-           description="org.argouml.uml.diagram.ui.FigStereotypesGroup[2692, 72, 150, 0]"
+           description="org.argouml.uml.diagram.ui.FigStereotypesGroup[2696, 72, 150, 0]"
            href="127-0-1-1--38ccada:1517cca5ec3:-8000:0000000000000AA8"
            fill="0"
            fillcolor="white"
@@ -5167,7 +5095,7 @@
         </private>
         
         <rectangle name="Fig11.3.2.0"
-          x="2692"
+          x="2696"
           y="72"
           width="150"
           height="0"
@@ -5552,7 +5480,7 @@
     </path>
   </group>
   <text name="Fig24"
-    x="8"
+    x="56"
     y="768"
     width="179"
     height="17"
@@ -5630,7 +5558,7 @@
     </path>
   </group>
   <text name="Fig27"
-    x="8"
+    x="56"
     y="864"
     width="36"
     height="17"
@@ -5757,7 +5685,7 @@
                         offset="11" />
     </private>
     <path name="Fig31.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
@@ -5788,7 +5716,7 @@
                         offset="56" />
     </private>
     <path name="Fig32.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
@@ -5819,7 +5747,7 @@
                         offset="10" />
     </private>
     <path name="Fig33.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
@@ -5827,7 +5755,7 @@
     >
       <moveto x="694"
               y="1117" />
-      <lineto x="1363"
+      <lineto x="1362"
               y="1117" />
     </path>
   </group>
@@ -5850,13 +5778,13 @@
                         offset="39" />
     </private>
     <path name="Fig34.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
       strokecolor="black"
     >
-      <moveto x="1383"
+      <moveto x="1382"
               y="1160" />
       <lineto x="1998"
               y="1160" />
@@ -5881,13 +5809,13 @@
                         offset="166" />
     </private>
     <path name="Fig35.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
       strokecolor="black"
     >
-      <moveto x="1363"
+      <moveto x="1362"
               y="1192" />
       <lineto x="386"
               y="1192" />
@@ -5912,7 +5840,7 @@
                         offset="77" />
     </private>
     <path name="Fig36.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
@@ -5920,7 +5848,7 @@
     >
       <moveto x="1998"
               y="1223" />
-      <lineto x="1383"
+      <lineto x="1382"
               y="1223" />
     </path>
   </group>
@@ -5943,13 +5871,13 @@
                         offset="10" />
     </private>
     <path name="Fig37.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
       strokecolor="black"
     >
-      <moveto x="1383"
+      <moveto x="1382"
               y="1263" />
       <lineto x="1674"
               y="1263" />
@@ -5974,7 +5902,7 @@
                         offset="40" />
     </private>
     <path name="Fig38.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
@@ -6005,7 +5933,7 @@
                         offset="67" />
     </private>
     <path name="Fig39.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
@@ -6036,7 +5964,7 @@
                         offset="41" />
     </private>
     <path name="Fig40.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
@@ -6044,7 +5972,7 @@
     >
       <moveto x="1694"
               y="1414" />
-      <lineto x="2757"
+      <lineto x="2761"
               y="1414" />
     </path>
   </group>
@@ -6067,13 +5995,13 @@
                         offset="44" />
     </private>
     <path name="Fig41.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
       strokecolor="black"
     >
-      <moveto x="2757"
+      <moveto x="2761"
               y="1450" />
       <lineto x="1694"
               y="1450" />
@@ -6082,8 +6010,8 @@
   <text name="Fig42"
     x="800"
     y="1296"
-    width="219"
-    height="19"
+    width="217"
+    height="17"
     fill="1"
     fillcolor="white"
     stroke="1"
@@ -6110,11 +6038,11 @@
                         classname="org.argouml.uml.diagram.ui.PathItemPlacement"
                         figclassname="org.argouml.uml.diagram.ui.FigTextGroup"
                         ownerhref="127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000DA7"
-                        angle="270.0"
-                        offset="10" />
+                        angle="-14.0"
+                        offset="16" />
     </private>
     <path name="Fig43.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
@@ -6122,7 +6050,7 @@
     >
       <moveto x="1674"
               y="1528" />
-      <lineto x="1383"
+      <lineto x="1382"
               y="1528" />
     </path>
   </group>
@@ -6141,17 +6069,17 @@
                         classname="org.argouml.uml.diagram.ui.PathItemPlacement"
                         figclassname="org.argouml.uml.diagram.ui.FigTextGroup"
                         ownerhref="127-0-1-1-58b651f6:15180e1cd61:-8000:0000000000000DAE"
-                        angle="270.0"
-                        offset="10" />
+                        angle="191.0"
+                        offset="49" />
     </private>
     <path name="Fig44.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
       strokecolor="black"
     >
-      <moveto x="1383"
+      <moveto x="1382"
               y="1576" />
       <lineto x="1998"
               y="1576" />
