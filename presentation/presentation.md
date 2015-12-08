@@ -5,7 +5,7 @@ class: center, middle
 
 ![Logo UML](http://grssocial.com/wp-content/uploads/2014/05/UML-logo1.jpg "Logo UML")
 
-**Maxwell Hountonhadja**, **Alabn Kraus**, **Valentin Sasyan**
+**Maxwell Hountonhadja**, **Alban Kraus**, **Valentin Sasyan**
 
 ---
 
