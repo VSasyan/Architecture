@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="641" version="1.1" width="810" xmlns="http://www.w3.org/2000/svg">
+<text font-family="Dialog" font-size="12" x="100" y="258">
+ARM</text>
+<ellipse cx="113" cy="207" fill="#000000" rx="8.0" ry="7.5" stroke="#000000" stroke-width="1"/>
+<ellipse cx="113" cy="207" fill="#ffffff" rx="7.0" ry="6.5" stroke="#ffffff" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="113" x2="113" y1="215" y2="230"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="103" x2="123" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="113" x2="108" y1="230" y2="245"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="113" x2="118" y1="230" y2="245"/>
+<text font-family="Dialog" font-size="12" x="19" y="381">
+ARM Gestionnaire des moyens</text>
+<ellipse cx="113" cy="330" fill="#000000" rx="8.0" ry="7.5" stroke="#000000" stroke-width="1"/>
+<ellipse cx="113" cy="330" fill="#ffffff" rx="7.0" ry="6.5" stroke="#ffffff" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="113" x2="113" y1="338" y2="353"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="103" x2="123" y1="343" y2="343"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="113" x2="108" y1="353" y2="368"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="113" x2="118" y1="353" y2="368"/>
+<polyline fill="none" points="110,322 108,268" stroke="#333399" stroke-width="1"/>
+<polygon fill="#ffffff" points="108,268 115,279 101,280" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="108,268 115,279 101,280" stroke="#333399" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="87" y="108">
+Médecin</text>
+<ellipse cx="113" cy="57" fill="#000000" rx="8.0" ry="7.5" stroke="#000000" stroke-width="1"/>
+<ellipse cx="113" cy="57" fill="#ffffff" rx="7.0" ry="6.5" stroke="#ffffff" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="113" x2="113" y1="65" y2="80"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="103" x2="123" y1="70" y2="70"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="113" x2="108" y1="80" y2="95"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="113" x2="118" y1="80" y2="95"/>
+<polyline fill="none" points="110,199 108,118" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="108,118 115,129 101,130" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="108,118 115,129 101,130" stroke="#000000" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="667" y="258">
+Patient</text>
+<ellipse cx="689" cy="207" fill="#000000" rx="8.0" ry="7.5" stroke="#000000" stroke-width="1"/>
+<ellipse cx="689" cy="207" fill="#ffffff" rx="7.0" ry="6.5" stroke="#ffffff" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="689" x2="689" y1="215" y2="230"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="679" x2="699" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="689" x2="684" y1="230" y2="245"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="689" x2="694" y1="230" y2="245"/>
+<text font-family="Dialog" font-size="12" x="661" y="108">
+Appelant</text>
+<ellipse cx="689" cy="57" fill="#000000" rx="8.0" ry="7.5" stroke="#000000" stroke-width="1"/>
+<ellipse cx="689" cy="57" fill="#ffffff" rx="7.0" ry="6.5" stroke="#ffffff" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="689" x2="689" y1="65" y2="80"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="679" x2="699" y1="70" y2="70"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="689" x2="684" y1="80" y2="95"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="689" x2="694" y1="80" y2="95"/>
+<text font-family="Dialog" font-size="12" x="628" y="381">
+Médecin régulateur</text>
+<ellipse cx="689" cy="330" fill="#000000" rx="8.0" ry="7.5" stroke="#000000" stroke-width="1"/>
+<ellipse cx="689" cy="330" fill="#ffffff" rx="7.0" ry="6.5" stroke="#ffffff" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="689" x2="689" y1="338" y2="353"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="679" x2="699" y1="343" y2="343"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="689" x2="684" y1="353" y2="368"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="689" x2="694" y1="353" y2="368"/>
+<text font-family="Dialog" font-size="12" x="386" y="513">
+Secours</text>
+<ellipse cx="411" cy="462" fill="#000000" rx="8.0" ry="7.5" stroke="#000000" stroke-width="1"/>
+<ellipse cx="411" cy="462" fill="#ffffff" rx="7.0" ry="6.5" stroke="#ffffff" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="411" x2="411" y1="470" y2="485"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="401" x2="421" y1="475" y2="475"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="411" x2="406" y1="485" y2="500"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="411" x2="416" y1="485" y2="500"/>
+<text font-family="Dialog" font-size="12" x="560" y="617">
+Pompier</text>
+<ellipse cx="585" cy="566" fill="#000000" rx="8.0" ry="7.5" stroke="#000000" stroke-width="1"/>
+<ellipse cx="585" cy="566" fill="#ffffff" rx="7.0" ry="6.5" stroke="#ffffff" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="585" x2="585" y1="574" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="575" x2="595" y1="579" y2="579"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="585" x2="580" y1="589" y2="604"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="585" x2="590" y1="589" y2="604"/>
+<polyline fill="none" points="582,558 582,475 421,475" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="421,475 433,468 433,482" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="421,475 433,468 433,482" stroke="#000000" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="396" y="617">
+Privé</text>
+<ellipse cx="411" cy="566" fill="#000000" rx="8.0" ry="7.5" stroke="#000000" stroke-width="1"/>
+<ellipse cx="411" cy="566" fill="#ffffff" rx="7.0" ry="6.5" stroke="#ffffff" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="411" x2="411" y1="574" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="401" x2="421" y1="579" y2="579"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="411" x2="406" y1="589" y2="604"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="411" x2="416" y1="589" y2="604"/>
+<polyline fill="none" points="408,558 406,523" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="406,523 413,534 399,535" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="406,523 413,534 399,535" stroke="#000000" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="224" y="617">
+SMUR</text>
+<ellipse cx="241" cy="566" fill="#000000" rx="8.0" ry="7.5" stroke="#000000" stroke-width="1"/>
+<ellipse cx="241" cy="566" fill="#ffffff" rx="7.0" ry="6.5" stroke="#ffffff" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="241" x2="241" y1="574" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="231" x2="251" y1="579" y2="579"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="241" x2="236" y1="589" y2="604"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="241" x2="246" y1="589" y2="604"/>
+<polyline fill="none" points="238,558 238,475 401,475" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="401,475 389,482 389,468" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="401,475 389,482 389,468" stroke="#000000" stroke-width="1"/>
+<rect fill="#ffffff" height="400" stroke="#ffffff" stroke-width="1" width="344" x="239" y="14"/>
+<rect fill="none" height="400" stroke="#000000" stroke-width="1" width="344" x="239" y="14"/>
+<text font-family="Dialog" font-size="18" x="387" y="38">
+Le 15</text>
+<ellipse cx="411" cy="69" fill="#000000" rx="43.0" ry="18.0" stroke="#000000" stroke-width="1"/>
+<ellipse cx="411" cy="69" fill="#ffffff" rx="42.0" ry="17.0" stroke="#ffffff" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="387" y="70">
+Appeler</text>
+<ellipse cx="411" cy="122" fill="#000000" rx="87.0" ry="27.0" stroke="#000000" stroke-width="1"/>
+<ellipse cx="411" cy="122" fill="#ffffff" rx="86.0" ry="26.0" stroke="#ffffff" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="337" y="123">
+Récupérer informations</text>
+<ellipse cx="411" cy="180" fill="#000000" rx="66.0" ry="23.0" stroke="#000000" stroke-width="1"/>
+<ellipse cx="411" cy="180" fill="#ffffff" rx="65.0" ry="22.0" stroke="#ffffff" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="359" y="181">
+Créer un dossier</text>
+<ellipse cx="411" cy="245" fill="#000000" rx="117.0" ry="33.0" stroke="#000000" stroke-width="1"/>
+<ellipse cx="411" cy="245" fill="#ffffff" rx="116.0" ry="32.0" stroke="#ffffff" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="307" y="246">
+Envoyer une équipe dimensionée</text>
+<ellipse cx="415" cy="384" fill="#000000" rx="57.0" ry="21.0" stroke="#000000" stroke-width="1"/>
+<ellipse cx="415" cy="384" fill="#ffffff" rx="56.0" ry="20.0" stroke="#ffffff" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="372" y="385">
+Faire un bilan</text>
+<ellipse cx="418" cy="323" fill="#000000" rx="116.0" ry="33.0" stroke="#000000" stroke-width="1"/>
+<ellipse cx="418" cy="323" fill="#ffffff" rx="115.0" ry="32.0" stroke="#ffffff" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="314" y="324">
+Trouver un place dans un hopital</text>
+<polyline fill="none" points="679,70 453,69" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="465" x2="453" y1="62" y2="69"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="464" x2="453" y1="76" y2="69"/>
+<polyline fill="none" points="122,207 347,140" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="337" x2="347" y1="150" y2="140"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="333" x2="347" y1="136" y2="140"/>
+<polyline fill="none" points="122,207 347,185" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="335" x2="347" y1="193" y2="185"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="334" x2="347" y1="179" y2="185"/>
+<polyline fill="none" points="122,330 330,268" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="320" x2="330" y1="278" y2="268"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="316" x2="330" y1="264" y2="268"/>
+<polyline fill="none" points="679,343 530,331" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="542" x2="530" y1="324" y2="331"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="541" x2="530" y1="338" y2="331"/>
+<polyline fill="none" points="413,454 414,404" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="420" x2="414" y1="416" y2="404"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="406" x2="414" y1="415" y2="404"/>
+<polyline fill="none" points="691,199 694,118" stroke="#000000" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="707" y="166">
+Secourt</text>
+</svg>
