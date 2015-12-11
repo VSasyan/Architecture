@@ -1,17 +1,18 @@
-Diagrammes à faire
-==================
+À faire
+=======
 
-*   *diagramme d'activité* : en cours, Alban
-*   diagramme de déploiement
-*   diagramme de classe (pour le matériel et les actions des acteurs dessus)
-*   *diagramme de cas d'utilisation* : fait, explications à valider
-*   *diagramme de séquence* : fait, à relire et valider
+Tâches
+------
 
-
+* contacter docadrenalin, mais pas tout de suite (docadrenalin(at)gmail(dot)com)
+* réflechir à la présentation
 
 
-À faire (général)
-=================
+Diagrammes
+----------
 
-*   le contacter, mais pas tout de suite (docadrenalin(at)gmail(dot)com)
-*   réflechir à la présentation
+* *diagramme d'activité* : en cours, Alban
+* *diagramme de déploiement* : en cours, Maxwell
+* *diagramme de classe* (pour le matériel et les actions des acteurs dessus) : en cours, Valentin
+* diagramme de cas d'utilisation : exporté, explications à valider
+* diagramme de séquence : fait, à relire et valider
