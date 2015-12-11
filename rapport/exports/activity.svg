@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="1188" version="1.1" width="1531" xmlns="http://www.w3.org/2000/svg">
+<rect fill="none" height="1000" stroke="#000000" stroke-width="1" width="960" x="422" y="14"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="773" x2="773" y1="14" y2="1014"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="422" x2="422" y1="14" y2="1014"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="422" x2="773" y1="14" y2="14"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="422" x2="773" y1="1014" y2="1014"/>
+<text font-family="Dialog" font-size="12" x="580" y="27">
+SAMU</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="422" x2="773" y1="39" y2="39"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1381" x2="1381" y1="14" y2="1014"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="774" x2="1381" y1="14" y2="14"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="774" x2="1381" y1="1014" y2="1014"/>
+<text font-family="Dialog" font-size="12" x="1064" y="27">
+SDIS</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="774" x2="1381" y1="39" y2="39"/>
+<ellipse cx="654" cy="78" fill="#000000" rx="8.0" ry="8.0" stroke="#000000" stroke-width="1"/>
+<rect fill="none" height="31" stroke="#000000" stroke-width="1" width="31" x="638" y="54"/>
+<text font-family="Dialog" font-size="12" x="646" y="67">
+15</text>
+<ellipse cx="838" cy="78" fill="#000000" rx="8.0" ry="8.0" stroke="#000000" stroke-width="1"/>
+<rect fill="none" height="31" stroke="#000000" stroke-width="1" width="31" x="822" y="54"/>
+<text font-family="Dialog" font-size="12" x="830" y="67">
+18</text>
+<ellipse cx="1334" cy="78" fill="#000000" rx="8.0" ry="8.0" stroke="#000000" stroke-width="1"/>
+<rect fill="none" height="31" stroke="#000000" stroke-width="1" width="31" x="1318" y="54"/>
+<text font-family="Dialog" font-size="12" x="1322" y="67">
+112</text>
+<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="157" x="575" y="119"/>
+<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="159" x="574" y="118"/>
+<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="157" x="575" y="119"/>
+<text font-family="Dialog" font-size="12" x="586" y="137">
+Prise en charge CRRA</text>
+<polyline fill="none" points="653,85 653,119" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="646" x2="653" y1="107" y2="119"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="660" x2="653" y1="107" y2="119"/>
+<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="334" x="927" y="63"/>
+<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="336" x="926" y="62"/>
+<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="334" x="927" y="63"/>
+<text font-family="Dialog" font-size="12" x="1031" y="81">
+Prise en charge CTA</text>
+<polyline fill="none" points="846,78 927,78" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="915" x2="927" y1="85" y2="78"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="915" x2="927" y1="71" y2="78"/>
+<polyline fill="none" points="1326,78 1260,78" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1272" x2="1260" y1="71" y2="78"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1272" x2="1260" y1="85" y2="78"/>
+<polyline fill="none" points="731,142 862,142 927,95" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="921" x2="927" y1="107" y2="95"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="913" x2="927" y1="96" y2="95"/>
+<text font-family="Dialog" font-size="12" x="725" y="160">
+ [Pas besoin de médecin]</text>
+<polyline fill="none" points="927,94 774,94 731,119" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="737" x2="731" y1="106" y2="119"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="744" x2="731" y1="119" y2="119"/>
+<text font-family="Dialog" font-size="12" x="781" y="111">
+ [Pas d'urgence]</text>
+<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="374" x="871" y="279"/>
+<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="376" x="870" y="278"/>
+<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="374" x="871" y="279"/>
+<text font-family="Dialog" font-size="12" x="1005" y="297">
+Prompts secours</text>
+<polyline fill="none" points="1014,95 1014,279" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1007" x2="1014" y1="267" y2="279"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1021" x2="1014" y1="267" y2="279"/>
+<text font-family="Dialog" font-size="12" x="892" y="255">
+ [Urgence vitale,</text>
+<text font-family="Dialog" font-size="12" x="875" y="270">
+Besoin de secouriste]</text>
+<polyline fill="none" points="1222,95 1222,158" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1215" x2="1222" y1="146" y2="158"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1229" x2="1222" y1="146" y2="158"/>
+<text font-family="Dialog" font-size="12" x="1224" y="129">
+ [Lieu public]</text>
+<polyline fill="none" points="1198,164 1198,279" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1191" x2="1198" y1="267" y2="279"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1205" x2="1198" y1="267" y2="279"/>
+<text font-family="Dialog" font-size="12" x="1201" y="238">
+ [Non protégé]</text>
+<rect fill="#000000" height="7" stroke="#000000" stroke-width="1" width="80" x="1070" y="158"/>
+<polyline fill="none" points="1110,95 1110,158" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1103" x2="1110" y1="146" y2="158"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1117" x2="1110" y1="146" y2="158"/>
+<text font-family="Dialog" font-size="12" x="1107" y="131">
+ [Voie publique]</text>
+<polyline fill="none" points="1086,164 1086,279" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1079" x2="1086" y1="267" y2="279"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1093" x2="1086" y1="267" y2="279"/>
+<rect fill="#000000" height="7" stroke="#000000" stroke-width="1" width="80" x="1190" y="158"/>
+<polyline fill="none" points="1246,164 1246,182 1334,182 1398,182" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1386" x2="1398" y1="189" y2="182"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1386" x2="1398" y1="175" y2="182"/>
+<polyline fill="none" points="1126,164 1126,198 1398,198" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1386" x2="1398" y1="205" y2="198"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1386" x2="1398" y1="191" y2="198"/>
+<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="117" x="1399" y="175"/>
+<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="119" x="1398" y="174"/>
+<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="117" x="1399" y="175"/>
+<text font-family="Dialog" font-size="12" x="1410" y="193">
+Autres secours</text>
+<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="158" x="575" y="183"/>
+<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="160" x="574" y="182"/>
+<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="158" x="575" y="183"/>
+<text font-family="Dialog" font-size="12" x="605" y="201">
+Régulation ARM</text>
+<polygon fill="#ffffff" points="942,182 958,198 942,214 926,198" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="942,182 958,198 942,214 926,198" stroke="#000000" stroke-width="1"/>
+<polyline fill="none" points="942,95 942,182" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="935" x2="942" y1="170" y2="182"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="949" x2="942" y1="170" y2="182"/>
+<ellipse cx="994" cy="194" fill="#000000" rx="12.0" ry="12.0" stroke="#000000" stroke-width="1"/>
+<ellipse cx="994" cy="194" fill="#ffffff" rx="11.0" ry="11.0" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="993" cy="193" fill="#000000" rx="7.5" ry="7.5" stroke="#000000" stroke-width="1"/>
+<polyline fill="none" points="958,198 982,195" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="970" x2="982" y1="203" y2="195"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="969" x2="982" y1="189" y2="195"/>
+<polyline fill="none" points="926,198 732,198" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="744" x2="732" y1="191" y2="198"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="744" x2="732" y1="205" y2="198"/>
+<text font-family="Dialog" font-size="12" x="772" y="189">
+ [Assistance médicale]</text>
+<polyline fill="none" points="646,151 646,183" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="639" x2="646" y1="171" y2="183"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="653" x2="646" y1="171" y2="183"/>
+<polyline fill="none" points="710,215 710,294 871,294" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="859" x2="871" y1="301" y2="294"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="859" x2="871" y1="287" y2="294"/>
+<text font-family="Dialog" font-size="12" x="768" y="286">
+ [Urgence vitale]</text>
+<rect fill="#00ff" height="48" rx="50" ry="50" stroke="#00ff" stroke-width="1" width="145" x="423" y="471"/>
+<rect fill="#ffffff" height="50" rx="50" ry="50" stroke="#000000" stroke-width="1" width="147" x="422" y="470"/>
+<rect fill="#ffffff" height="48" rx="50" ry="50" stroke="#ffffff" stroke-width="1" width="145" x="423" y="471"/>
+<text font-family="Dialog" font-size="12" x="440" y="489">
+Entretien avec le </text>
+<text font-family="Dialog" font-size="12" x="434" y="504">
+médecin régulateur</text>
+<polyline fill="none" points="575,215 494,342 494,471" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="487" x2="494" y1="459" y2="471"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="501" x2="494" y1="459" y2="471"/>
+<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="115" x="967" y="631"/>
+<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="117" x="966" y="630"/>
+<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="115" x="967" y="631"/>
+<text font-family="Dialog" font-size="12" x="978" y="649">
+Secours (SDIS)</text>
+<polyline fill="none" points="680,639 967,639" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="955" x2="967" y1="646" y2="639"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="955" x2="967" y1="632" y2="639"/>
+<text font-family="Dialog" font-size="12" x="813" y="633">
+ [Compétence]</text>
+<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="99" x="15" y="671"/>
+<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="101" x="14" y="670"/>
+<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="99" x="15" y="671"/>
+<text font-family="Dialog" font-size="12" x="47" y="689">
+SMUR</text>
+<polyline fill="none" points="606,664 606,686 113,686" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="125" x2="113" y1="679" y2="686"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="125" x2="113" y1="693" y2="686"/>
+<text font-family="Dialog" font-size="12" x="196" y="680">
+ [Besoin réanimation et matériel]</text>
+<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="133" x="119" y="719"/>
+<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="135" x="118" y="718"/>
+<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="133" x="119" y="719"/>
+<text font-family="Dialog" font-size="12" x="130" y="737">
+Ambulance privée</text>
+<polyline fill="none" points="630,664 630,734 251,734" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="263" x2="251" y1="727" y2="734"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="263" x2="251" y1="741" y2="734"/>
+<text font-family="Dialog" font-size="12" x="342" y="726">
+ [Autre]</text>
+<polyline fill="none" points="680,654 967,654" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="955" x2="967" y1="661" y2="654"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="955" x2="967" y1="647" y2="654"/>
+<text font-family="Dialog" font-size="12" x="818" y="671">
+ [Carence]</text>
+<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="99" x="431" y="551"/>
+<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="101" x="430" y="550"/>
+<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="99" x="431" y="551"/>
+<text font-family="Dialog" font-size="12" x="458" y="569">
+Conseil</text>
+<polyline fill="none" points="486,518 486,551" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="479" x2="486" y1="539" y2="551"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="493" x2="486" y1="539" y2="551"/>
+<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="106" x="927" y="391"/>
+<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="108" x="926" y="390"/>
+<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="106" x="927" y="391"/>
+<text font-family="Dialog" font-size="12" x="938" y="409">
+Bilan complet</text>
+<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="106" x="799" y="391"/>
+<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="108" x="798" y="390"/>
+<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="106" x="799" y="391"/>
+<text font-family="Dialog" font-size="12" x="810" y="409">
+Bilan simplifié</text>
+<rect fill="#000000" height="7" stroke="#000000" stroke-width="1" width="112" x="990" y="350"/>
+<polyline fill="none" points="1046,311 1046,350" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1039" x2="1046" y1="338" y2="350"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1053" x2="1046" y1="338" y2="350"/>
+<text font-family="Dialog" font-size="12" x="1045" y="335">
+ [≥ 1 critère de gravité]</text>
+<polyline fill="none" points="998,356 998,391" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="991" x2="998" y1="379" y2="391"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1005" x2="998" y1="379" y2="391"/>
+<polyline fill="none" points="1086,356 1086,391" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1079" x2="1086" y1="379" y2="391"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1093" x2="1086" y1="379" y2="391"/>
+<text font-family="Dialog" font-size="12" x="1027" y="376">
+ [Besoin]</text>
+<polyline fill="none" points="888,311 888,391" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="881" x2="888" y1="379" y2="391"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="895" x2="888" y1="379" y2="391"/>
+<text font-family="Dialog" font-size="12" x="890" y="334">
+ [Sinon]</text>
+<rect fill="#00ff" height="48" rx="50" ry="50" stroke="#00ff" stroke-width="1" width="165" x="607" y="471"/>
+<rect fill="#ffffff" height="50" rx="50" ry="50" stroke="#000000" stroke-width="1" width="167" x="606" y="470"/>
+<rect fill="#ffffff" height="48" rx="50" ry="50" stroke="#ffffff" stroke-width="1" width="165" x="607" y="471"/>
+<text font-family="Dialog" font-size="12" x="645" y="489">
+Compte-rendu</text>
+<text font-family="Dialog" font-size="12" x="618" y="504">
+au médecin régulateur</text>
+<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="129" x="551" y="631"/>
+<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="131" x="550" y="630"/>
+<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="129" x="551" y="631"/>
+<text font-family="Dialog" font-size="12" x="562" y="649">
+Envoi de secours</text>
+<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="158" x="879" y="503"/>
+<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="160" x="878" y="502"/>
+<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="158" x="879" y="503"/>
+<text font-family="Dialog" font-size="12" x="890" y="521">
+Compte-rendu au CTA</text>
+<rect fill="#000000" height="7" stroke="#000000" stroke-width="1" width="104" x="862" y="462"/>
+<polyline fill="none" points="950,423 950,462" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="943" x2="950" y1="450" y2="462"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="957" x2="950" y1="450" y2="462"/>
+<polyline fill="none" points="878,423 878,462" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="871" x2="878" y1="450" y2="462"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="885" x2="878" y1="450" y2="462"/>
+<polyline fill="none" points="870,468 870,494 771,494" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="783" x2="771" y1="487" y2="494"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="783" x2="771" y1="501" y2="494"/>
+<polyline fill="none" points="958,468 958,503" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="951" x2="958" y1="491" y2="503"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="965" x2="958" y1="491" y2="503"/>
+<polyline fill="none" points="558,518 558,558" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="551" x2="558" y1="546" y2="558"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="565" x2="558" y1="546" y2="558"/>
+<polyline fill="none" points="662,518 662,558" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="655" x2="662" y1="546" y2="558"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="669" x2="662" y1="546" y2="558"/>
+<rect fill="#000000" height="7" stroke="#000000" stroke-width="1" width="120" x="550" y="558"/>
+<polyline fill="none" points="610,564 610,631" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="603" x2="610" y1="619" y2="631"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="617" x2="610" y1="619" y2="631"/>
+<polygon fill="#ffffff" points="494,782 510,798 494,814 478,798" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="494,782 510,798 494,814 478,798" stroke="#000000" stroke-width="1"/>
+<polyline fill="none" points="574,564 574,606 494,606 494,782" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="487" x2="494" y1="770" y2="782"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="501" x2="494" y1="770" y2="782"/>
+<rect fill="#00ff" height="48" rx="50" ry="50" stroke="#00ff" stroke-width="1" width="113" x="639" y="775"/>
+<rect fill="#ffffff" height="50" rx="50" ry="50" stroke="#000000" stroke-width="1" width="115" x="638" y="774"/>
+<rect fill="#ffffff" height="48" rx="50" ry="50" stroke="#ffffff" stroke-width="1" width="113" x="639" y="775"/>
+<text font-family="Dialog" font-size="12" x="650" y="793">
+Entretien avec</text>
+<text font-family="Dialog" font-size="12" x="666" y="808">
+la victime</text>
+<polyline fill="none" points="510,798 639,798" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="627" x2="639" y1="805" y2="798"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="627" x2="639" y1="791" y2="798"/>
+<text font-family="Dialog" font-size="12" x="502" y="790">
+ [Refus d'évacuation]</text>
+<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="133" x="431" y="919"/>
+<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="135" x="430" y="918"/>
+<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="133" x="431" y="919"/>
+<text font-family="Dialog" font-size="12" x="442" y="937">
+Choix d'un hôpital</text>
+<polyline fill="none" points="494,814 494,919" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="487" x2="494" y1="907" y2="919"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="501" x2="494" y1="907" y2="919"/>
+<text font-family="Dialog" font-size="12" x="442" y="869">
+ [Sinon]</text>
+<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="196" x="799" y="783"/>
+<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="198" x="798" y="782"/>
+<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="196" x="799" y="783"/>
+<text font-family="Dialog" font-size="12" x="810" y="801">
+Décharge de responsabilité</text>
+<polyline fill="none" points="751,799 799,799" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="787" x2="799" y1="806" y2="799"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="787" x2="799" y1="792" y2="799"/>
+<text font-family="Dialog" font-size="12" x="751" y="794">
+ [Sinon]</text>
+<polyline fill="none" points="639,814 510,814 510,919" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="503" x2="510" y1="907" y2="919"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="517" x2="510" y1="907" y2="919"/>
+<text font-family="Dialog" font-size="12" x="511" y="829">
+ [Change d'avis]</text>
+<rect fill="#00ff" height="48" rx="50" ry="50" stroke="#00ff" stroke-width="1" width="121" x="639" y="911"/>
+<rect fill="#ffffff" height="50" rx="50" ry="50" stroke="#000000" stroke-width="1" width="123" x="638" y="910"/>
+<rect fill="#ffffff" height="48" rx="50" ry="50" stroke="#ffffff" stroke-width="1" width="121" x="639" y="911"/>
+<text font-family="Dialog" font-size="12" x="653" y="929">
+Hospitalisation</text>
+<text font-family="Dialog" font-size="12" x="650" y="944">
+sous contrainte</text>
+<polyline fill="none" points="646,822 646,911" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="639" x2="646" y1="899" y2="911"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="653" x2="646" y1="899" y2="911"/>
+<text font-family="Dialog" font-size="12" x="566" y="873">
+ [État grave]</text>
+<polyline fill="none" points="662,822 662,911" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="655" x2="662" y1="899" y2="911"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="669" x2="662" y1="899" y2="911"/>
+<text font-family="Dialog" font-size="12" x="663" y="855">
+ [Demande</text>
+<text font-family="Dialog" font-size="12" x="684" y="870">
+d'un</text>
+<text font-family="Dialog" font-size="12" x="681" y="885">
+tiers]</text>
+<polyline fill="none" points="742,822 742,911" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="735" x2="742" y1="899" y2="911"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="749" x2="742" y1="899" y2="911"/>
+<text font-family="Dialog" font-size="12" x="743" y="846">
+ [Menace</text>
+<text font-family="Dialog" font-size="12" x="751" y="861">
+l'ordre</text>
+<text font-family="Dialog" font-size="12" x="750" y="876">
+public]</text>
+<polyline fill="none" points="639,935 563,935" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="575" x2="563" y1="928" y2="935"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="575" x2="563" y1="942" y2="935"/>
+<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="99" x="775" y="967"/>
+<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="101" x="774" y="966"/>
+<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="99" x="775" y="967"/>
+<text font-family="Dialog" font-size="12" x="790" y="985">
+Évacuation</text>
+<polyline fill="none" points="502,951 502,982 775,982" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="763" x2="775" y1="989" y2="982"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="763" x2="775" y1="975" y2="982"/>
+<rect fill="#00ff" height="63" rx="65" ry="65" stroke="#00ff" stroke-width="1" width="147" x="263" y="903"/>
+<rect fill="#ffffff" height="65" rx="65" ry="65" stroke="#000000" stroke-width="1" width="149" x="262" y="902"/>
+<rect fill="#ffffff" height="63" rx="65" ry="65" stroke="#ffffff" stroke-width="1" width="147" x="263" y="903"/>
+<text font-family="Dialog" font-size="12" x="299" y="921">
+Annonce de</text>
+<text font-family="Dialog" font-size="12" x="312" y="936">
+l'arrivée</text>
+<text font-family="Dialog" font-size="12" x="304" y="951">
+du patient</text>
+<polyline fill="none" points="431,934 409,934" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="421" x2="409" y1="927" y2="934"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="421" x2="409" y1="941" y2="934"/>
+<rect fill="#000000" height="7" stroke="#000000" stroke-width="1" width="1200" x="46" y="1054"/>
+<polyline fill="none" points="64,703 64,1054" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="57" x2="64" y1="1042" y2="1054"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="71" x2="64" y1="1042" y2="1054"/>
+<polyline fill="none" points="185,751 185,1054" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="178" x2="185" y1="1042" y2="1054"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="192" x2="185" y1="1042" y2="1054"/>
+<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="156" x="1055" y="391"/>
+<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="158" x="1054" y="390"/>
+<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="156" x="1055" y="391"/>
+<text font-family="Dialog" font-size="12" x="1066" y="409">
+Demande de renforts</text>
+<polyline fill="none" points="824,999 824,1054" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="817" x2="824" y1="1042" y2="1054"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="831" x2="824" y1="1042" y2="1054"/>
+<polyline fill="none" points="897,815 897,1054" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="890" x2="897" y1="1042" y2="1054"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="904" x2="897" y1="1042" y2="1054"/>
+<polyline fill="none" points="1024,663 1024,1054" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1017" x2="1024" y1="1042" y2="1054"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1031" x2="1024" y1="1042" y2="1054"/>
+<polyline fill="none" points="1133,423 1133,1054" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1126" x2="1133" y1="1042" y2="1054"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1140" x2="1133" y1="1042" y2="1054"/>
+<polyline fill="none" points="1230,311 1230,1054" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1223" x2="1230" y1="1042" y2="1054"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1237" x2="1230" y1="1042" y2="1054"/>
+<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="145" x="575" y="1087"/>
+<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="147" x="574" y="1086"/>
+<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="145" x="575" y="1087"/>
+<text font-family="Dialog" font-size="12" x="586" y="1105">
+Fin de l'intervention</text>
+<polyline fill="none" points="646,1060 646,1087" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="639" x2="646" y1="1075" y2="1087"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="653" x2="646" y1="1075" y2="1087"/>
+<ellipse cx="642" cy="1162" fill="#000000" rx="12.0" ry="12.0" stroke="#000000" stroke-width="1"/>
+<ellipse cx="642" cy="1162" fill="#ffffff" rx="11.0" ry="11.0" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="641" cy="1161" fill="#000000" rx="7.5" ry="7.5" stroke="#000000" stroke-width="1"/>
+<polyline fill="none" points="642,1119 642,1150" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="635" x2="642" y1="1138" y2="1150"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="649" x2="642" y1="1138" y2="1150"/>
+</svg>
