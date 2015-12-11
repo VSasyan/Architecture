@@ -4,7 +4,7 @@ Diagrammes à faire
 *   *diagramme d'activité* : en cours, Alban
 *   diagramme de déploiement
 *   diagramme de classe (pour le matériel et les actions des acteurs dessus)
-*   *diagramme de cas d'utilisation* : fait, à valider
+*   *diagramme de cas d'utilisation* : fait, explications à valider
 *   *diagramme de séquence* : fait, à relire et valider
 
 
