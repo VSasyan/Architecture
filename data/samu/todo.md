@@ -13,7 +13,7 @@ Diagrammes
 ----------
 
 * *diagramme de classe* (pour le matériel et les actions des acteurs dessus) : en cours, Valentin
-* diagramme d'activité : fait, à **relire**, **valider** et **expliquer** (Alban)
+* diagramme d'activité : fait, à **relire**, **valider**
 * diagramme de séquence : fait, à **expliquer**
 * diagramme de cas d'utilisation : exporté, explications à **valider**
 
