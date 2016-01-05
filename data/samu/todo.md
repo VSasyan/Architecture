@@ -1,6 +1,7 @@
 À faire
 =======
 
+
 Tâches
 ------
 
@@ -11,8 +12,13 @@ Tâches
 Diagrammes
 ----------
 
-* *diagramme d'activité* : en cours, Alban
-* *diagramme de déploiement* : en cours, Maxwell
 * *diagramme de classe* (pour le matériel et les actions des acteurs dessus) : en cours, Valentin
-* diagramme de cas d'utilisation : exporté, explications à valider
-* diagramme de séquence : fait, à relire et valider
+* diagramme d'activité : fait, à **relire**, **valider** et **expliquer** (Alban)
+* diagramme de séquence : fait, à **expliquer**
+* diagramme de cas d'utilisation : exporté, explications à **valider**
+
+
+Annulation
+----------
+
+* diagramme de déploiement : finalement pas très adapté à ce qu'on voulait représenter.
