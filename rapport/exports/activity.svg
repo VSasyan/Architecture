@@ -1,389 +1,410 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg height="1188" version="1.1" width="1531" xmlns="http://www.w3.org/2000/svg">
-<rect fill="none" height="1000" stroke="#000000" stroke-width="1" width="960" x="422" y="14"/>
-<line fill="#000000" stroke="#000000" stroke-width="1" x1="773" x2="773" y1="14" y2="1014"/>
-<line fill="#000000" stroke="#000000" stroke-width="1" x1="422" x2="422" y1="14" y2="1014"/>
-<line fill="#000000" stroke="#000000" stroke-width="1" x1="422" x2="773" y1="14" y2="14"/>
-<line fill="#000000" stroke="#000000" stroke-width="1" x1="422" x2="773" y1="1014" y2="1014"/>
-<text font-family="Dialog" font-size="12" x="580" y="27">
-SAMU</text>
-<line fill="#000000" stroke="#000000" stroke-width="1" x1="422" x2="773" y1="39" y2="39"/>
-<line fill="#000000" stroke="#000000" stroke-width="1" x1="1381" x2="1381" y1="14" y2="1014"/>
-<line fill="#000000" stroke="#000000" stroke-width="1" x1="774" x2="1381" y1="14" y2="14"/>
-<line fill="#000000" stroke="#000000" stroke-width="1" x1="774" x2="1381" y1="1014" y2="1014"/>
-<text font-family="Dialog" font-size="12" x="1064" y="27">
-SDIS</text>
-<line fill="#000000" stroke="#000000" stroke-width="1" x1="774" x2="1381" y1="39" y2="39"/>
-<ellipse cx="654" cy="78" fill="#000000" rx="8.0" ry="8.0" stroke="#000000" stroke-width="1"/>
-<rect fill="none" height="31" stroke="#000000" stroke-width="1" width="31" x="638" y="54"/>
-<text font-family="Dialog" font-size="12" x="646" y="67">
-15</text>
-<ellipse cx="838" cy="78" fill="#000000" rx="8.0" ry="8.0" stroke="#000000" stroke-width="1"/>
-<rect fill="none" height="31" stroke="#000000" stroke-width="1" width="31" x="822" y="54"/>
-<text font-family="Dialog" font-size="12" x="830" y="67">
-18</text>
-<ellipse cx="1334" cy="78" fill="#000000" rx="8.0" ry="8.0" stroke="#000000" stroke-width="1"/>
-<rect fill="none" height="31" stroke="#000000" stroke-width="1" width="31" x="1318" y="54"/>
-<text font-family="Dialog" font-size="12" x="1322" y="67">
-112</text>
-<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="157" x="575" y="119"/>
-<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="159" x="574" y="118"/>
-<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="157" x="575" y="119"/>
-<text font-family="Dialog" font-size="12" x="586" y="137">
-Prise en charge CRRA</text>
-<polyline fill="none" points="653,85 653,119" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="646" x2="653" y1="107" y2="119"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="660" x2="653" y1="107" y2="119"/>
-<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="334" x="927" y="63"/>
-<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="336" x="926" y="62"/>
-<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="334" x="927" y="63"/>
-<text font-family="Dialog" font-size="12" x="1031" y="81">
-Prise en charge CTA</text>
-<polyline fill="none" points="846,78 927,78" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="915" x2="927" y1="85" y2="78"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="915" x2="927" y1="71" y2="78"/>
-<polyline fill="none" points="1326,78 1260,78" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1272" x2="1260" y1="71" y2="78"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1272" x2="1260" y1="85" y2="78"/>
-<polyline fill="none" points="731,142 862,142 927,95" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="921" x2="927" y1="107" y2="95"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="913" x2="927" y1="96" y2="95"/>
-<text font-family="Dialog" font-size="12" x="725" y="160">
- [Pas besoin de médecin]</text>
-<polyline fill="none" points="927,94 774,94 731,119" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="737" x2="731" y1="106" y2="119"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="744" x2="731" y1="119" y2="119"/>
-<text font-family="Dialog" font-size="12" x="781" y="111">
- [Pas d'urgence]</text>
-<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="374" x="871" y="279"/>
-<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="376" x="870" y="278"/>
-<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="374" x="871" y="279"/>
-<text font-family="Dialog" font-size="12" x="1005" y="297">
-Prompts secours</text>
-<polyline fill="none" points="1014,95 1014,279" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1007" x2="1014" y1="267" y2="279"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1021" x2="1014" y1="267" y2="279"/>
-<text font-family="Dialog" font-size="12" x="892" y="255">
- [Urgence vitale,</text>
-<text font-family="Dialog" font-size="12" x="875" y="270">
-Besoin de secouriste]</text>
-<polyline fill="none" points="1222,95 1222,158" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1215" x2="1222" y1="146" y2="158"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1229" x2="1222" y1="146" y2="158"/>
-<text font-family="Dialog" font-size="12" x="1224" y="129">
- [Lieu public]</text>
-<polyline fill="none" points="1198,164 1198,279" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1191" x2="1198" y1="267" y2="279"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1205" x2="1198" y1="267" y2="279"/>
-<text font-family="Dialog" font-size="12" x="1201" y="238">
- [Non protégé]</text>
-<rect fill="#000000" height="7" stroke="#000000" stroke-width="1" width="80" x="1070" y="158"/>
-<polyline fill="none" points="1110,95 1110,158" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1103" x2="1110" y1="146" y2="158"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1117" x2="1110" y1="146" y2="158"/>
-<text font-family="Dialog" font-size="12" x="1107" y="131">
- [Voie publique]</text>
-<polyline fill="none" points="1086,164 1086,279" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1079" x2="1086" y1="267" y2="279"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1093" x2="1086" y1="267" y2="279"/>
-<rect fill="#000000" height="7" stroke="#000000" stroke-width="1" width="80" x="1190" y="158"/>
-<polyline fill="none" points="1246,164 1246,182 1334,182 1398,182" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1386" x2="1398" y1="189" y2="182"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1386" x2="1398" y1="175" y2="182"/>
-<polyline fill="none" points="1126,164 1126,198 1398,198" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1386" x2="1398" y1="205" y2="198"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1386" x2="1398" y1="191" y2="198"/>
-<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="117" x="1399" y="175"/>
-<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="119" x="1398" y="174"/>
-<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="117" x="1399" y="175"/>
-<text font-family="Dialog" font-size="12" x="1410" y="193">
-Autres secours</text>
-<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="158" x="575" y="183"/>
-<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="160" x="574" y="182"/>
-<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="158" x="575" y="183"/>
-<text font-family="Dialog" font-size="12" x="605" y="201">
-Régulation ARM</text>
-<polygon fill="#ffffff" points="942,182 958,198 942,214 926,198" stroke="#ffffff" stroke-width="1"/>
-<polygon fill="none" points="942,182 958,198 942,214 926,198" stroke="#000000" stroke-width="1"/>
-<polyline fill="none" points="942,95 942,182" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="935" x2="942" y1="170" y2="182"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="949" x2="942" y1="170" y2="182"/>
-<ellipse cx="994" cy="194" fill="#000000" rx="12.0" ry="12.0" stroke="#000000" stroke-width="1"/>
-<ellipse cx="994" cy="194" fill="#ffffff" rx="11.0" ry="11.0" stroke="#ffffff" stroke-width="1"/>
-<ellipse cx="993" cy="193" fill="#000000" rx="7.5" ry="7.5" stroke="#000000" stroke-width="1"/>
-<polyline fill="none" points="958,198 982,195" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="970" x2="982" y1="203" y2="195"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="969" x2="982" y1="189" y2="195"/>
-<polyline fill="none" points="926,198 732,198" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="744" x2="732" y1="191" y2="198"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="744" x2="732" y1="205" y2="198"/>
-<text font-family="Dialog" font-size="12" x="772" y="189">
- [Assistance médicale]</text>
-<polyline fill="none" points="646,151 646,183" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="639" x2="646" y1="171" y2="183"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="653" x2="646" y1="171" y2="183"/>
-<polyline fill="none" points="710,215 710,294 871,294" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="859" x2="871" y1="301" y2="294"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="859" x2="871" y1="287" y2="294"/>
-<text font-family="Dialog" font-size="12" x="768" y="286">
- [Urgence vitale]</text>
-<rect fill="#00ff" height="48" rx="50" ry="50" stroke="#00ff" stroke-width="1" width="145" x="423" y="471"/>
-<rect fill="#ffffff" height="50" rx="50" ry="50" stroke="#000000" stroke-width="1" width="147" x="422" y="470"/>
-<rect fill="#ffffff" height="48" rx="50" ry="50" stroke="#ffffff" stroke-width="1" width="145" x="423" y="471"/>
-<text font-family="Dialog" font-size="12" x="440" y="489">
-Entretien avec le </text>
-<text font-family="Dialog" font-size="12" x="434" y="504">
-médecin régulateur</text>
-<polyline fill="none" points="575,215 494,342 494,471" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="487" x2="494" y1="459" y2="471"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="501" x2="494" y1="459" y2="471"/>
-<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="115" x="967" y="631"/>
-<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="117" x="966" y="630"/>
-<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="115" x="967" y="631"/>
-<text font-family="Dialog" font-size="12" x="978" y="649">
-Secours (SDIS)</text>
-<polyline fill="none" points="680,639 967,639" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="955" x2="967" y1="646" y2="639"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="955" x2="967" y1="632" y2="639"/>
-<text font-family="Dialog" font-size="12" x="813" y="633">
- [Compétence]</text>
-<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="99" x="15" y="671"/>
-<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="101" x="14" y="670"/>
-<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="99" x="15" y="671"/>
-<text font-family="Dialog" font-size="12" x="47" y="689">
-SMUR</text>
-<polyline fill="none" points="606,664 606,686 113,686" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="125" x2="113" y1="679" y2="686"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="125" x2="113" y1="693" y2="686"/>
-<text font-family="Dialog" font-size="12" x="196" y="680">
- [Besoin réanimation et matériel]</text>
-<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="133" x="119" y="719"/>
-<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="135" x="118" y="718"/>
-<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="133" x="119" y="719"/>
-<text font-family="Dialog" font-size="12" x="130" y="737">
-Ambulance privée</text>
-<polyline fill="none" points="630,664 630,734 251,734" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="263" x2="251" y1="727" y2="734"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="263" x2="251" y1="741" y2="734"/>
-<text font-family="Dialog" font-size="12" x="342" y="726">
- [Autre]</text>
-<polyline fill="none" points="680,654 967,654" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="955" x2="967" y1="661" y2="654"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="955" x2="967" y1="647" y2="654"/>
-<text font-family="Dialog" font-size="12" x="818" y="671">
- [Carence]</text>
-<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="99" x="431" y="551"/>
-<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="101" x="430" y="550"/>
-<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="99" x="431" y="551"/>
-<text font-family="Dialog" font-size="12" x="458" y="569">
-Conseil</text>
-<polyline fill="none" points="486,518 486,551" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="479" x2="486" y1="539" y2="551"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="493" x2="486" y1="539" y2="551"/>
-<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="106" x="927" y="391"/>
-<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="108" x="926" y="390"/>
-<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="106" x="927" y="391"/>
-<text font-family="Dialog" font-size="12" x="938" y="409">
-Bilan complet</text>
-<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="106" x="799" y="391"/>
-<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="108" x="798" y="390"/>
-<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="106" x="799" y="391"/>
-<text font-family="Dialog" font-size="12" x="810" y="409">
-Bilan simplifié</text>
-<rect fill="#000000" height="7" stroke="#000000" stroke-width="1" width="112" x="990" y="350"/>
-<polyline fill="none" points="1046,311 1046,350" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1039" x2="1046" y1="338" y2="350"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1053" x2="1046" y1="338" y2="350"/>
-<text font-family="Dialog" font-size="12" x="1045" y="335">
- [≥ 1 critère de gravité]</text>
-<polyline fill="none" points="998,356 998,391" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="991" x2="998" y1="379" y2="391"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1005" x2="998" y1="379" y2="391"/>
-<polyline fill="none" points="1086,356 1086,391" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1079" x2="1086" y1="379" y2="391"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1093" x2="1086" y1="379" y2="391"/>
-<text font-family="Dialog" font-size="12" x="1027" y="376">
- [Besoin]</text>
-<polyline fill="none" points="888,311 888,391" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="881" x2="888" y1="379" y2="391"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="895" x2="888" y1="379" y2="391"/>
-<text font-family="Dialog" font-size="12" x="890" y="334">
- [Sinon]</text>
-<rect fill="#00ff" height="48" rx="50" ry="50" stroke="#00ff" stroke-width="1" width="165" x="607" y="471"/>
-<rect fill="#ffffff" height="50" rx="50" ry="50" stroke="#000000" stroke-width="1" width="167" x="606" y="470"/>
-<rect fill="#ffffff" height="48" rx="50" ry="50" stroke="#ffffff" stroke-width="1" width="165" x="607" y="471"/>
-<text font-family="Dialog" font-size="12" x="645" y="489">
-Compte-rendu</text>
-<text font-family="Dialog" font-size="12" x="618" y="504">
-au médecin régulateur</text>
-<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="129" x="551" y="631"/>
-<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="131" x="550" y="630"/>
-<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="129" x="551" y="631"/>
-<text font-family="Dialog" font-size="12" x="562" y="649">
-Envoi de secours</text>
-<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="158" x="879" y="503"/>
-<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="160" x="878" y="502"/>
-<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="158" x="879" y="503"/>
-<text font-family="Dialog" font-size="12" x="890" y="521">
-Compte-rendu au CTA</text>
-<rect fill="#000000" height="7" stroke="#000000" stroke-width="1" width="104" x="862" y="462"/>
-<polyline fill="none" points="950,423 950,462" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="943" x2="950" y1="450" y2="462"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="957" x2="950" y1="450" y2="462"/>
-<polyline fill="none" points="878,423 878,462" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="871" x2="878" y1="450" y2="462"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="885" x2="878" y1="450" y2="462"/>
-<polyline fill="none" points="870,468 870,494 771,494" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="783" x2="771" y1="487" y2="494"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="783" x2="771" y1="501" y2="494"/>
-<polyline fill="none" points="958,468 958,503" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="951" x2="958" y1="491" y2="503"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="965" x2="958" y1="491" y2="503"/>
-<polyline fill="none" points="558,518 558,558" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="551" x2="558" y1="546" y2="558"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="565" x2="558" y1="546" y2="558"/>
-<polyline fill="none" points="662,518 662,558" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="655" x2="662" y1="546" y2="558"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="669" x2="662" y1="546" y2="558"/>
-<rect fill="#000000" height="7" stroke="#000000" stroke-width="1" width="120" x="550" y="558"/>
-<polyline fill="none" points="610,564 610,631" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="603" x2="610" y1="619" y2="631"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="617" x2="610" y1="619" y2="631"/>
-<polygon fill="#ffffff" points="494,782 510,798 494,814 478,798" stroke="#ffffff" stroke-width="1"/>
-<polygon fill="none" points="494,782 510,798 494,814 478,798" stroke="#000000" stroke-width="1"/>
-<polyline fill="none" points="574,564 574,606 494,606 494,782" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="487" x2="494" y1="770" y2="782"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="501" x2="494" y1="770" y2="782"/>
-<rect fill="#00ff" height="48" rx="50" ry="50" stroke="#00ff" stroke-width="1" width="113" x="639" y="775"/>
-<rect fill="#ffffff" height="50" rx="50" ry="50" stroke="#000000" stroke-width="1" width="115" x="638" y="774"/>
-<rect fill="#ffffff" height="48" rx="50" ry="50" stroke="#ffffff" stroke-width="1" width="113" x="639" y="775"/>
-<text font-family="Dialog" font-size="12" x="650" y="793">
-Entretien avec</text>
-<text font-family="Dialog" font-size="12" x="666" y="808">
-la victime</text>
-<polyline fill="none" points="510,798 639,798" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="627" x2="639" y1="805" y2="798"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="627" x2="639" y1="791" y2="798"/>
-<text font-family="Dialog" font-size="12" x="502" y="790">
- [Refus d'évacuation]</text>
-<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="133" x="431" y="919"/>
-<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="135" x="430" y="918"/>
-<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="133" x="431" y="919"/>
-<text font-family="Dialog" font-size="12" x="442" y="937">
-Choix d'un hôpital</text>
-<polyline fill="none" points="494,814 494,919" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="487" x2="494" y1="907" y2="919"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="501" x2="494" y1="907" y2="919"/>
-<text font-family="Dialog" font-size="12" x="442" y="869">
- [Sinon]</text>
-<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="196" x="799" y="783"/>
-<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="198" x="798" y="782"/>
-<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="196" x="799" y="783"/>
-<text font-family="Dialog" font-size="12" x="810" y="801">
-Décharge de responsabilité</text>
-<polyline fill="none" points="751,799 799,799" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="787" x2="799" y1="806" y2="799"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="787" x2="799" y1="792" y2="799"/>
-<text font-family="Dialog" font-size="12" x="751" y="794">
- [Sinon]</text>
-<polyline fill="none" points="639,814 510,814 510,919" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="503" x2="510" y1="907" y2="919"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="517" x2="510" y1="907" y2="919"/>
-<text font-family="Dialog" font-size="12" x="511" y="829">
- [Change d'avis]</text>
-<rect fill="#00ff" height="48" rx="50" ry="50" stroke="#00ff" stroke-width="1" width="121" x="639" y="911"/>
-<rect fill="#ffffff" height="50" rx="50" ry="50" stroke="#000000" stroke-width="1" width="123" x="638" y="910"/>
-<rect fill="#ffffff" height="48" rx="50" ry="50" stroke="#ffffff" stroke-width="1" width="121" x="639" y="911"/>
-<text font-family="Dialog" font-size="12" x="653" y="929">
-Hospitalisation</text>
-<text font-family="Dialog" font-size="12" x="650" y="944">
-sous contrainte</text>
-<polyline fill="none" points="646,822 646,911" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="639" x2="646" y1="899" y2="911"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="653" x2="646" y1="899" y2="911"/>
-<text font-family="Dialog" font-size="12" x="566" y="873">
- [État grave]</text>
-<polyline fill="none" points="662,822 662,911" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="655" x2="662" y1="899" y2="911"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="669" x2="662" y1="899" y2="911"/>
-<text font-family="Dialog" font-size="12" x="663" y="855">
- [Demande</text>
-<text font-family="Dialog" font-size="12" x="684" y="870">
-d'un</text>
-<text font-family="Dialog" font-size="12" x="681" y="885">
-tiers]</text>
-<polyline fill="none" points="742,822 742,911" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="735" x2="742" y1="899" y2="911"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="749" x2="742" y1="899" y2="911"/>
-<text font-family="Dialog" font-size="12" x="743" y="846">
- [Menace</text>
-<text font-family="Dialog" font-size="12" x="751" y="861">
-l'ordre</text>
-<text font-family="Dialog" font-size="12" x="750" y="876">
-public]</text>
-<polyline fill="none" points="639,935 563,935" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="575" x2="563" y1="928" y2="935"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="575" x2="563" y1="942" y2="935"/>
-<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="99" x="775" y="967"/>
-<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="101" x="774" y="966"/>
-<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="99" x="775" y="967"/>
-<text font-family="Dialog" font-size="12" x="790" y="985">
-Évacuation</text>
-<polyline fill="none" points="502,951 502,982 775,982" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="763" x2="775" y1="989" y2="982"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="763" x2="775" y1="975" y2="982"/>
-<rect fill="#00ff" height="63" rx="65" ry="65" stroke="#00ff" stroke-width="1" width="147" x="263" y="903"/>
-<rect fill="#ffffff" height="65" rx="65" ry="65" stroke="#000000" stroke-width="1" width="149" x="262" y="902"/>
-<rect fill="#ffffff" height="63" rx="65" ry="65" stroke="#ffffff" stroke-width="1" width="147" x="263" y="903"/>
-<text font-family="Dialog" font-size="12" x="299" y="921">
-Annonce de</text>
-<text font-family="Dialog" font-size="12" x="312" y="936">
-l'arrivée</text>
-<text font-family="Dialog" font-size="12" x="304" y="951">
-du patient</text>
-<polyline fill="none" points="431,934 409,934" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="421" x2="409" y1="927" y2="934"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="421" x2="409" y1="941" y2="934"/>
-<rect fill="#000000" height="7" stroke="#000000" stroke-width="1" width="1200" x="46" y="1054"/>
-<polyline fill="none" points="64,703 64,1054" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="57" x2="64" y1="1042" y2="1054"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="71" x2="64" y1="1042" y2="1054"/>
-<polyline fill="none" points="185,751 185,1054" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="178" x2="185" y1="1042" y2="1054"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="192" x2="185" y1="1042" y2="1054"/>
-<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="156" x="1055" y="391"/>
-<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="158" x="1054" y="390"/>
-<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="156" x="1055" y="391"/>
-<text font-family="Dialog" font-size="12" x="1066" y="409">
-Demande de renforts</text>
-<polyline fill="none" points="824,999 824,1054" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="817" x2="824" y1="1042" y2="1054"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="831" x2="824" y1="1042" y2="1054"/>
-<polyline fill="none" points="897,815 897,1054" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="890" x2="897" y1="1042" y2="1054"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="904" x2="897" y1="1042" y2="1054"/>
-<polyline fill="none" points="1024,663 1024,1054" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1017" x2="1024" y1="1042" y2="1054"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1031" x2="1024" y1="1042" y2="1054"/>
-<polyline fill="none" points="1133,423 1133,1054" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1126" x2="1133" y1="1042" y2="1054"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1140" x2="1133" y1="1042" y2="1054"/>
-<polyline fill="none" points="1230,311 1230,1054" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1223" x2="1230" y1="1042" y2="1054"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="1237" x2="1230" y1="1042" y2="1054"/>
-<rect fill="#00ff" height="33" rx="35" ry="35" stroke="#00ff" stroke-width="1" width="145" x="575" y="1087"/>
-<rect fill="#ffffff" height="35" rx="35" ry="35" stroke="#000000" stroke-width="1" width="147" x="574" y="1086"/>
-<rect fill="#ffffff" height="33" rx="35" ry="35" stroke="#ffffff" stroke-width="1" width="145" x="575" y="1087"/>
-<text font-family="Dialog" font-size="12" x="586" y="1105">
-Fin de l'intervention</text>
-<polyline fill="none" points="646,1060 646,1087" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="639" x2="646" y1="1075" y2="1087"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="653" x2="646" y1="1075" y2="1087"/>
-<ellipse cx="642" cy="1162" fill="#000000" rx="12.0" ry="12.0" stroke="#000000" stroke-width="1"/>
-<ellipse cx="642" cy="1162" fill="#ffffff" rx="11.0" ry="11.0" stroke="#ffffff" stroke-width="1"/>
-<ellipse cx="641" cy="1161" fill="#000000" rx="7.5" ry="7.5" stroke="#000000" stroke-width="1"/>
-<polyline fill="none" points="642,1119 642,1150" stroke="#333399" stroke-width="1"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="635" x2="642" y1="1138" y2="1150"/>
-<line fill="#333399" stroke="#333399" stroke-width="1" x1="649" x2="642" y1="1138" y2="1150"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="624 -452.5 1531 1188" style="enable-background:new 624 -452.5 1531 1188;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;}
+	.st1{font-family:'ArialMT';}
+	.st2{font-size:12px;}
+	.st3{stroke:#000000;}
+	.st4{fill:#FFFFFF;stroke:#000000;}
+	.st5{fill:#FFFFFF;stroke:#FFFFFF;}
+	.st6{fill:none;stroke:#333399;}
+</style>
+<g>
+	<rect x="1046" y="-438.8" class="st0" width="960" height="1000"/>
+	<line class="st0" x1="1397" y1="-438.8" x2="1397" y2="561.2"/>
+	<line class="st0" x1="1046" y1="-438.8" x2="1046" y2="561.2"/>
+	<line class="st0" x1="1046" y1="-438.8" x2="1397" y2="-438.8"/>
+	<line class="st0" x1="1046" y1="561.2" x2="1397" y2="561.2"/>
+	<text transform="matrix(1 0 0 1 1205 -424.9199)" class="st1 st2">SAMU</text>
+	<line class="st0" x1="1046" y1="-413.8" x2="1397" y2="-413.8"/>
+	<line class="st0" x1="2005" y1="-438.8" x2="2005" y2="561.2"/>
+	<line class="st0" x1="1398" y1="-438.8" x2="2005" y2="-438.8"/>
+	<line class="st0" x1="1398" y1="561.2" x2="2005" y2="561.2"/>
+	<text transform="matrix(1 0 0 1 1688 -424.9199)" class="st1 st2">SDIS</text>
+	<line class="st0" x1="1398" y1="-413.8" x2="2005" y2="-413.8"/>
+	<ellipse class="st3" cx="1278" cy="-374.8" rx="8" ry="8"/>
+	<rect x="1262" y="-398.8" class="st0" width="31" height="17"/>
+	<text transform="matrix(1 0 0 1 1271 -384.9199)" class="st1 st2">15</text>
+	<ellipse class="st3" cx="1462" cy="-374.8" rx="8" ry="8"/>
+	<rect x="1446" y="-398.8" class="st0" width="31" height="17"/>
+	<text transform="matrix(1 0 0 1 1455 -384.9199)" class="st1 st2">18</text>
+	<ellipse class="st3" cx="1958" cy="-374.8" rx="8" ry="8"/>
+	<rect x="1942" y="-398.8" class="st0" width="31" height="17"/>
+	<text transform="matrix(1 0 0 1 1947 -384.9199)" class="st1 st2">112</text>
+	<path class="st3" d="M1235-333.8h85c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-85c-19.9,0-36-7.6-36-17l0,0
+		C1199-326.2,1215.1-333.8,1235-333.8z"/>
+	<path class="st4" d="M1234-334.8h87c19.9,0,36,8.1,36,18l0,0c0,9.9-16.1,18-36,18h-87c-19.9,0-36-8.1-36-18l0,0
+		C1198-326.8,1214.1-334.8,1234-334.8z"/>
+	<path class="st5" d="M1235-333.8h85c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-85c-19.9,0-36-7.6-36-17l0,0
+		C1199-326.2,1215.1-333.8,1235-333.8z"/>
+	<text transform="matrix(1 0 0 1 1215 -314.9199)" class="st1 st2">Prise en charge CRRA</text>
+	<line class="st6" x1="1277" y1="-367.8" x2="1277" y2="-333.8"/>
+	<line class="st6" x1="1270" y1="-345.8" x2="1277" y2="-333.8"/>
+	<line class="st6" x1="1284" y1="-345.8" x2="1277" y2="-333.8"/>
+	<path class="st3" d="M1587-389.8h262c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-262c-19.9,0-36-7.6-36-17l0,0
+		C1551-382.2,1567.1-389.8,1587-389.8z"/>
+	<path class="st4" d="M1586-390.8h264c19.9,0,36,8.1,36,18l0,0c0,9.9-16.1,18-36,18h-264c-19.9,0-36-8.1-36-18l0,0
+		C1550-382.8,1566.1-390.8,1586-390.8z"/>
+	<path class="st5" d="M1587-389.8h262c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-262c-19.9,0-36-7.6-36-17l0,0
+		C1551-382.2,1567.1-389.8,1587-389.8z"/>
+	<text transform="matrix(1 0 0 1 1661 -370.9199)" class="st1 st2">Prise en charge CTA</text>
+	<line class="st6" x1="1470" y1="-374.8" x2="1551" y2="-374.8"/>
+	<line class="st6" x1="1539" y1="-367.8" x2="1551" y2="-374.8"/>
+	<line class="st6" x1="1539" y1="-381.8" x2="1551" y2="-374.8"/>
+	<line class="st6" x1="1950" y1="-374.8" x2="1884" y2="-374.8"/>
+	<line class="st6" x1="1896" y1="-381.8" x2="1884" y2="-374.8"/>
+	<line class="st6" x1="1896" y1="-367.8" x2="1884" y2="-374.8"/>
+	<polyline class="st6" points="1355,-310.8 1486,-310.8 1551,-356.8 	"/>
+	<line class="st6" x1="1545" y1="-344.8" x2="1551" y2="-356.8"/>
+	<line class="st6" x1="1537" y1="-355.8" x2="1551" y2="-356.8"/>
+	<text transform="matrix(1 0 0 1 1359 -292.9199)" class="st1 st2">[Pas besoin de médecin]</text>
+	<polyline class="st6" points="1551,-358.8 1398,-358.8 1355,-333.8 	"/>
+	<line class="st6" x1="1361" y1="-346.8" x2="1355" y2="-333.8"/>
+	<line class="st6" x1="1368" y1="-333.8" x2="1355" y2="-333.8"/>
+	<text transform="matrix(1 0 0 1 1413 -341.9199)" class="st1 st2">[Pas d&apos;urgence]</text>
+	<path class="st3" d="M1531-173.8h302c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-302c-19.9,0-36-7.6-36-17l0,0
+		C1495-166.2,1511.1-173.8,1531-173.8z"/>
+	<path class="st4" d="M1530-174.8h304c19.9,0,36,8.1,36,18l0,0c0,9.9-16.1,18-36,18h-304c-19.9,0-36-8.1-36-18l0,0
+		C1494-166.8,1510.1-174.8,1530-174.8z"/>
+	<path class="st5" d="M1531-173.8h302c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-302c-19.9,0-36-7.6-36-17l0,0
+		C1495-166.2,1511.1-173.8,1531-173.8z"/>
+	<text transform="matrix(1 0 0 1 1634 -154.9198)" class="st1 st2">Prompts secours</text>
+	<line class="st6" x1="1670" y1="-356.8" x2="1670" y2="-173.8"/>
+	<line class="st6" x1="1663" y1="-185.8" x2="1670" y2="-173.8"/>
+	<line class="st6" x1="1677" y1="-185.8" x2="1670" y2="-173.8"/>
+	<text transform="matrix(1 0 0 1 1564 -206.9198)" class="st1 st2">[Urgence vitale,</text>
+	<text transform="matrix(1 0 0 1 1548 -190.9198)" class="st1 st2">Besoin de secouriste]</text>
+	<line class="st6" x1="1846" y1="-356.8" x2="1846" y2="-294.8"/>
+	<line class="st6" x1="1839" y1="-306.8" x2="1846" y2="-294.8"/>
+	<line class="st6" x1="1853" y1="-306.8" x2="1846" y2="-294.8"/>
+	<text transform="matrix(1 0 0 1 1848 -321.9199)" class="st1 st2">[Lieu public]</text>
+	<line class="st6" x1="1822" y1="-288.8" x2="1822" y2="-173.8"/>
+	<line class="st6" x1="1815" y1="-185.8" x2="1822" y2="-173.8"/>
+	<line class="st6" x1="1829" y1="-185.8" x2="1822" y2="-173.8"/>
+	<text transform="matrix(1 0 0 1 1829 -215.9198)" class="st1 st2">[Non protégé]</text>
+	<rect x="1694" y="-294.8" class="st3" width="80" height="7"/>
+	<line class="st6" x1="1734" y1="-356.8" x2="1734" y2="-294.8"/>
+	<line class="st6" x1="1727" y1="-306.8" x2="1734" y2="-294.8"/>
+	<line class="st6" x1="1741" y1="-306.8" x2="1734" y2="-294.8"/>
+	<text transform="matrix(1 0 0 1 1736 -320.9199)" class="st1 st2">[Voie publique]</text>
+	<line class="st6" x1="1710" y1="-288.8" x2="1710" y2="-173.8"/>
+	<line class="st6" x1="1703" y1="-185.8" x2="1710" y2="-173.8"/>
+	<line class="st6" x1="1717" y1="-185.8" x2="1710" y2="-173.8"/>
+	<rect x="1814" y="-294.8" class="st3" width="80" height="7"/>
+	<polyline class="st6" points="1870,-288.8 1870,-270.8 1958,-270.8 2022,-270.8 	"/>
+	<line class="st6" x1="2010" y1="-263.8" x2="2022" y2="-270.8"/>
+	<line class="st6" x1="2010" y1="-277.8" x2="2022" y2="-270.8"/>
+	<polyline class="st6" points="1750,-288.8 1750,-254.8 2022,-254.8 	"/>
+	<line class="st6" x1="2010" y1="-247.8" x2="2022" y2="-254.8"/>
+	<line class="st6" x1="2010" y1="-261.8" x2="2022" y2="-254.8"/>
+	<path class="st3" d="M2059-277.8h45c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-45c-19.9,0-36-7.6-36-17l0,0
+		C2023-270.2,2039.1-277.8,2059-277.8z"/>
+	<path class="st4" d="M2058-278.8h47c19.9,0,36,8.1,36,18l0,0c0,9.9-16.1,18-36,18h-47c-19.9,0-36-8.1-36-18l0,0
+		C2022-270.8,2038.1-278.8,2058-278.8z"/>
+	<path class="st5" d="M2059-277.8h45c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-45c-19.9,0-36-7.6-36-17l0,0
+		C2023-270.2,2039.1-277.8,2059-277.8z"/>
+	<text transform="matrix(1 0 0 1 2040 -258.9199)" class="st1 st2">Autres secours</text>
+	<path class="st3" d="M1235-269.8h86c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-86c-19.9,0-36-7.6-36-17l0,0
+		C1199-262.2,1215.1-269.8,1235-269.8z"/>
+	<path class="st4" d="M1234-270.8h88c19.9,0,36,8.1,36,18l0,0c0,9.9-16.1,18-36,18h-88c-19.9,0-36-8.1-36-18l0,0
+		C1198-262.8,1214.1-270.8,1234-270.8z"/>
+	<path class="st5" d="M1235-269.8h86c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-86c-19.9,0-36-7.6-36-17l0,0
+		C1199-262.2,1215.1-269.8,1235-269.8z"/>
+	<text transform="matrix(1 0 0 1 1234 -250.9199)" class="st1 st2">Régulation ARM</text>
+	<polygon class="st5" points="1566,-270.8 1582,-254.8 1566,-238.8 1550,-254.8 	"/>
+	<polygon class="st0" points="1566,-270.8 1582,-254.8 1566,-238.8 1550,-254.8 	"/>
+	<line class="st6" x1="1566" y1="-356.8" x2="1566" y2="-270.8"/>
+	<line class="st6" x1="1559" y1="-282.8" x2="1566" y2="-270.8"/>
+	<line class="st6" x1="1573" y1="-282.8" x2="1566" y2="-270.8"/>
+	<text transform="matrix(1 0 0 1 1568 -308.9199)" class="st1 st2">[Toujours]</text>
+	<ellipse class="st3" cx="1617.7" cy="-254.8" rx="12" ry="12"/>
+	<ellipse class="st5" cx="1617.7" cy="-254.8" rx="11" ry="11"/>
+	<ellipse class="st3" cx="1617.7" cy="-254.8" rx="7.5" ry="7.5"/>
+	<line class="st6" x1="1582" y1="-254.8" x2="1605.7" y2="-254.8"/>
+	<line class="st6" x1="1592.4" y1="-246.3" x2="1605.4" y2="-254.8"/>
+	<line class="st6" x1="1592.4" y1="-260.8" x2="1605.4" y2="-254.8"/>
+	<line class="st6" x1="1550" y1="-254.8" x2="1356" y2="-254.8"/>
+	<line class="st6" x1="1368" y1="-261.8" x2="1356" y2="-254.8"/>
+	<line class="st6" x1="1368" y1="-247.8" x2="1356" y2="-254.8"/>
+	<text transform="matrix(1 0 0 1 1405 -263.9199)" class="st1 st2">[Assistance médicale]</text>
+	<line class="st6" x1="1270" y1="-300.8" x2="1270" y2="-269.8"/>
+	<line class="st6" x1="1263" y1="-281.8" x2="1270" y2="-269.8"/>
+	<line class="st6" x1="1277" y1="-281.8" x2="1270" y2="-269.8"/>
+	<polyline class="st6" points="1334,-236.8 1334,-158.8 1495,-158.8 	"/>
+	<line class="st6" x1="1483" y1="-151.8" x2="1495" y2="-158.8"/>
+	<line class="st6" x1="1483" y1="-165.8" x2="1495" y2="-158.8"/>
+	<text transform="matrix(1 0 0 1 1401 -166.9198)" class="st1 st2">[Urgence vitale]</text>
+	<path class="st3" d="M1099,18.2h41c28.7,0,52,11.2,52,25l0,0c0,13.8-23.3,25-52,25h-41c-28.7,0-52-11.2-52-25l0,0
+		C1047,29.4,1070.3,18.2,1099,18.2z"/>
+	<path class="st4" d="M1098,17.2h43c28.7,0,52,11.6,52,26l0,0c0,14.4-23.3,26-52,26h-43c-28.7,0-52-11.6-52-26l0,0
+		C1046,28.8,1069.3,17.2,1098,17.2z"/>
+	<path class="st5" d="M1099,18.2h41c28.7,0,52,11.2,52,25l0,0c0,13.8-23.3,25-52,25h-41c-28.7,0-52-11.2-52-25l0,0
+		C1047,29.4,1070.3,18.2,1099,18.2z"/>
+	<text transform="matrix(1 0 0 1 1073 37.08)" class="st1 st2">Entretien avec le</text>
+	<text transform="matrix(1 0 0 1 1066 53.08)" class="st1 st2">médecin régulateur</text>
+	<polyline class="st6" points="1199,-236.8 1118,-110.8 1118,18.2 	"/>
+	<line class="st6" x1="1111" y1="6.2" x2="1118" y2="18.2"/>
+	<line class="st6" x1="1125" y1="6.2" x2="1118" y2="18.2"/>
+	<path class="st3" d="M1627,178.2h43c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-43c-19.9,0-36-7.6-36-17l0,0
+		C1591,185.8,1607.1,178.2,1627,178.2z"/>
+	<path class="st4" d="M1626,177.2h45c19.9,0,36,8.1,36,18l0,0c0,9.9-16.1,18-36,18h-45c-19.9,0-36-8.1-36-18l0,0
+		C1590,185.2,1606.1,177.2,1626,177.2z"/>
+	<path class="st5" d="M1627,178.2h43c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-43c-19.9,0-36-7.6-36-17l0,0
+		C1591,185.8,1607.1,178.2,1627,178.2z"/>
+	<text transform="matrix(1 0 0 1 1606 197.0801)" class="st1 st2">Secours (SDIS)</text>
+	<line class="st6" x1="1304" y1="186.2" x2="1591" y2="186.2"/>
+	<line class="st6" x1="1579" y1="193.2" x2="1591" y2="186.2"/>
+	<line class="st6" x1="1579" y1="179.2" x2="1591" y2="186.2"/>
+	<text transform="matrix(1 0 0 1 1443 180.0801)" class="st1 st2">[Compétence]</text>
+	<path class="st3" d="M675,218.2h27c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-27c-19.9,0-36-7.6-36-17l0,0
+		C639,225.8,655.1,218.2,675,218.2z"/>
+	<path class="st4" d="M674,217.2h29c19.9,0,36,8.1,36,18l0,0c0,9.9-16.1,18-36,18h-29c-19.9,0-36-8.1-36-18l0,0
+		C638,225.2,654.1,217.2,674,217.2z"/>
+	<path class="st5" d="M675,218.2h27c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-27c-19.9,0-36-7.6-36-17l0,0
+		C639,225.8,655.1,218.2,675,218.2z"/>
+	<text transform="matrix(1 0 0 1 671 237.0801)" class="st1 st2">SMUR</text>
+	<polyline class="st6" points="1230,212.2 1230,233.2 737,233.2 	"/>
+	<line class="st6" x1="749" y1="226.2" x2="737" y2="233.2"/>
+	<line class="st6" x1="749" y1="240.2" x2="737" y2="233.2"/>
+	<text transform="matrix(1 0 0 1 833 227.0801)" class="st1 st2">[Besoin réanimation et matériel]</text>
+	<path class="st3" d="M779,266.2h61c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-61c-19.9,0-36-7.6-36-17l0,0
+		C743,273.8,759.1,266.2,779,266.2z"/>
+	<path class="st4" d="M778,265.2h63c19.9,0,36,8.1,36,18l0,0c0,9.9-16.1,18-36,18h-63c-19.9,0-36-8.1-36-18l0,0
+		C742,273.2,758.1,265.2,778,265.2z"/>
+	<path class="st5" d="M779,266.2h61c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-61c-19.9,0-36-7.6-36-17l0,0
+		C743,273.8,759.1,266.2,779,266.2z"/>
+	<text transform="matrix(1 0 0 1 760 285.08)" class="st1 st2">Ambulance privée</text>
+	<polyline class="st6" points="1254,212.2 1254,281.2 875,281.2 	"/>
+	<line class="st6" x1="887" y1="274.2" x2="875" y2="281.2"/>
+	<line class="st6" x1="887" y1="288.2" x2="875" y2="281.2"/>
+	<text transform="matrix(1 0 0 1 971 273.08)" class="st1 st2">[Autre]</text>
+	<line class="st6" x1="1304" y1="201.2" x2="1591" y2="201.2"/>
+	<line class="st6" x1="1579" y1="208.2" x2="1591" y2="201.2"/>
+	<line class="st6" x1="1579" y1="194.2" x2="1591" y2="201.2"/>
+	<text transform="matrix(1 0 0 1 1447 218.0801)" class="st1 st2">[Carence]</text>
+	<path class="st3" d="M1091,98.2h27c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-27c-19.9,0-36-7.6-36-17l0,0
+		C1055,105.8,1071.1,98.2,1091,98.2z"/>
+	<path class="st4" d="M1090,97.2h29c19.9,0,36,8.1,36,18l0,0c0,9.9-16.1,18-36,18h-29c-19.9,0-36-8.1-36-18l0,0
+		C1054,105.2,1070.1,97.2,1090,97.2z"/>
+	<path class="st5" d="M1091,98.2h27c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-27c-19.9,0-36-7.6-36-17l0,0
+		C1055,105.8,1071.1,98.2,1091,98.2z"/>
+	<text transform="matrix(1 0 0 1 1083 117.08)" class="st1 st2">Conseil</text>
+	<line class="st6" x1="1110" y1="67.2" x2="1110" y2="98.2"/>
+	<line class="st6" x1="1103" y1="86.2" x2="1110" y2="98.2"/>
+	<line class="st6" x1="1117" y1="86.2" x2="1110" y2="98.2"/>
+	<path class="st3" d="M1587-61.8h34c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-34c-19.9,0-36-7.6-36-17l0,0
+		C1551-54.2,1567.1-61.8,1587-61.8z"/>
+	<path class="st4" d="M1586-62.8h36c19.9,0,36,8.1,36,18l0,0c0,9.9-16.1,18-36,18h-36c-19.9,0-36-8.1-36-18l0,0
+		C1550-54.8,1566.1-62.8,1586-62.8z"/>
+	<path class="st5" d="M1587-61.8h34c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-34c-19.9,0-36-7.6-36-17l0,0
+		C1551-54.2,1567.1-61.8,1587-61.8z"/>
+	<text transform="matrix(1 0 0 1 1566 -42.92)" class="st1 st2">Bilan complet</text>
+	<path class="st3" d="M1459-61.8h34c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-34c-19.9,0-36-7.6-36-17l0,0
+		C1423-54.2,1439.1-61.8,1459-61.8z"/>
+	<path class="st4" d="M1458-62.8h36c19.9,0,36,8.1,36,18l0,0c0,9.9-16.1,18-36,18h-36c-19.9,0-36-8.1-36-18l0,0
+		C1422-54.8,1438.1-62.8,1458-62.8z"/>
+	<path class="st5" d="M1459-61.8h34c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-34c-19.9,0-36-7.6-36-17l0,0
+		C1423-54.2,1439.1-61.8,1459-61.8z"/>
+	<text transform="matrix(1 0 0 1 1437 -42.92)" class="st1 st2">Bilan simplifié</text>
+	<rect x="1614" y="-102.8" class="st3" width="112" height="7"/>
+	<line class="st6" x1="1670" y1="-140.8" x2="1670" y2="-102.8"/>
+	<line class="st6" x1="1663" y1="-114.8" x2="1670" y2="-102.8"/>
+	<line class="st6" x1="1677" y1="-114.8" x2="1670" y2="-102.8"/>
+	<text transform="matrix(1 0 0 1 1672 -116.92)" class="st1 st2">[≥ 1 critère de gravité]</text>
+	<line class="st6" x1="1622" y1="-96.8" x2="1622" y2="-61.8"/>
+	<line class="st6" x1="1615" y1="-73.8" x2="1622" y2="-61.8"/>
+	<line class="st6" x1="1629" y1="-73.8" x2="1622" y2="-61.8"/>
+	<line class="st6" x1="1710" y1="-96.8" x2="1710" y2="-61.8"/>
+	<line class="st6" x1="1703" y1="-73.8" x2="1710" y2="-61.8"/>
+	<line class="st6" x1="1717" y1="-73.8" x2="1710" y2="-61.8"/>
+	<text transform="matrix(1 0 0 1 1659 -76.92)" class="st1 st2">[Besoin]</text>
+	<line class="st6" x1="1512" y1="-140.8" x2="1512" y2="-61.8"/>
+	<line class="st6" x1="1505" y1="-73.8" x2="1512" y2="-61.8"/>
+	<line class="st6" x1="1519" y1="-73.8" x2="1512" y2="-61.8"/>
+	<text transform="matrix(1 0 0 1 1515 -116.92)" class="st1 st2">[Sinon]</text>
+	<path class="st3" d="M1283,18.2h61c28.7,0,52,11.2,52,25l0,0c0,13.8-23.3,25-52,25h-61c-28.7,0-52-11.2-52-25l0,0
+		C1231,29.4,1254.3,18.2,1283,18.2z"/>
+	<path class="st4" d="M1282,17.2h63c28.7,0,52,11.6,52,26l0,0c0,14.4-23.3,26-52,26h-63c-28.7,0-52-11.6-52-26l0,0
+		C1230,28.8,1253.3,17.2,1282,17.2z"/>
+	<path class="st5" d="M1283,18.2h61c28.7,0,52,11.2,52,25l0,0c0,13.8-23.3,25-52,25h-61c-28.7,0-52-11.2-52-25l0,0
+		C1231,29.4,1254.3,18.2,1283,18.2z"/>
+	<text transform="matrix(1 0 0 1 1273 37.08)" class="st1 st2">Compte-rendu</text>
+	<text transform="matrix(1 0 0 1 1251 53.08)" class="st1 st2">au médecin régulateur</text>
+	<path class="st3" d="M1211,178.2h57c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-57c-19.9,0-36-7.6-36-17l0,0
+		C1175,185.8,1191.1,178.2,1211,178.2z"/>
+	<path class="st4" d="M1210,177.2h59c19.9,0,36,8.1,36,18l0,0c0,9.9-16.1,18-36,18h-59c-19.9,0-36-8.1-36-18l0,0
+		C1174,185.2,1190.1,177.2,1210,177.2z"/>
+	<path class="st5" d="M1211,178.2h57c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-57c-19.9,0-36-7.6-36-17l0,0
+		C1175,185.8,1191.1,178.2,1211,178.2z"/>
+	<text transform="matrix(1 0 0 1 1192 197.0801)" class="st1 st2">Envoi de secours</text>
+	<path class="st3" d="M1539,50.2h86c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-86c-19.9,0-36-7.6-36-17l0,0
+		C1503,57.8,1519.1,50.2,1539,50.2z"/>
+	<path class="st4" d="M1538,49.2h88c19.9,0,36,8.1,36,18l0,0c0,9.9-16.1,18-36,18h-88c-19.9,0-36-8.1-36-18l0,0
+		C1502,57.2,1518.1,49.2,1538,49.2z"/>
+	<path class="st5" d="M1539,50.2h86c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-86c-19.9,0-36-7.6-36-17l0,0
+		C1503,57.8,1519.1,50.2,1539,50.2z"/>
+	<text transform="matrix(1 0 0 1 1520 69.08)" class="st1 st2">Compte-rendu au CTA</text>
+	<rect x="1486" y="9.2" class="st3" width="104" height="7"/>
+	<line class="st6" x1="1574" y1="-28.8" x2="1574" y2="9.2"/>
+	<line class="st6" x1="1567" y1="-2.8" x2="1574" y2="9.2"/>
+	<line class="st6" x1="1581" y1="-2.8" x2="1574" y2="9.2"/>
+	<line class="st6" x1="1502" y1="-28.8" x2="1502" y2="9.2"/>
+	<line class="st6" x1="1495" y1="-2.8" x2="1502" y2="9.2"/>
+	<line class="st6" x1="1509" y1="-2.8" x2="1502" y2="9.2"/>
+	<polyline class="st6" points="1494,15.2 1494,41.2 1395,41.2 	"/>
+	<line class="st6" x1="1407" y1="34.2" x2="1395" y2="41.2"/>
+	<line class="st6" x1="1407" y1="48.2" x2="1395" y2="41.2"/>
+	<line class="st6" x1="1582" y1="15.2" x2="1582" y2="50.2"/>
+	<line class="st6" x1="1575" y1="38.2" x2="1582" y2="50.2"/>
+	<line class="st6" x1="1589" y1="38.2" x2="1582" y2="50.2"/>
+	<line class="st6" x1="1182" y1="67.2" x2="1182" y2="105.2"/>
+	<line class="st6" x1="1175" y1="93.2" x2="1182" y2="105.2"/>
+	<line class="st6" x1="1189" y1="93.2" x2="1182" y2="105.2"/>
+	<line class="st6" x1="1286" y1="67.2" x2="1286" y2="105.2"/>
+	<line class="st6" x1="1279" y1="93.2" x2="1286" y2="105.2"/>
+	<line class="st6" x1="1293" y1="93.2" x2="1286" y2="105.2"/>
+	<rect x="1174" y="105.2" class="st3" width="120" height="7"/>
+	<line class="st6" x1="1234" y1="111.2" x2="1234" y2="178.2"/>
+	<line class="st6" x1="1227" y1="166.2" x2="1234" y2="178.2"/>
+	<line class="st6" x1="1241" y1="166.2" x2="1234" y2="178.2"/>
+	<polygon class="st5" points="1118,329.2 1134,345.2 1118,361.2 1102,345.2 	"/>
+	<polygon class="st0" points="1118,329.2 1134,345.2 1118,361.2 1102,345.2 	"/>
+	<polyline class="st6" points="1198,111.2 1198,153.2 1118,153.2 1118,329.2 	"/>
+	<line class="st6" x1="1111" y1="317.2" x2="1118" y2="329.2"/>
+	<line class="st6" x1="1125" y1="317.2" x2="1118" y2="329.2"/>
+	<path class="st3" d="M1315,322.2h9c28.7,0,52,11.2,52,25l0,0c0,13.8-23.3,25-52,25h-9c-28.7,0-52-11.2-52-25l0,0
+		C1263,333.4,1286.3,322.2,1315,322.2z"/>
+	<path class="st4" d="M1314,321.2h11c28.7,0,52,11.6,52,26l0,0c0,14.4-23.3,26-52,26h-11c-28.7,0-52-11.6-52-26l0,0
+		C1262,332.8,1285.3,321.2,1314,321.2z"/>
+	<path class="st5" d="M1315,322.2h9c28.7,0,52,11.2,52,25l0,0c0,13.8-23.3,25-52,25h-9c-28.7,0-52-11.2-52-25l0,0
+		C1263,333.4,1286.3,322.2,1315,322.2z"/>
+	<text transform="matrix(1 0 0 1 1281 341.08)" class="st1 st2">Entretien avec</text>
+	<text transform="matrix(1 0 0 1 1294 357.0801)" class="st1 st2">la victime</text>
+	<polyline class="st6" points="1134,345.2 1262,345.2 1134,345.2 1263,345.2 	"/>
+	<line class="st6" x1="1251" y1="352.2" x2="1263" y2="345.2"/>
+	<line class="st6" x1="1251" y1="338.2" x2="1263" y2="345.2"/>
+	<text transform="matrix(1 0 0 1 1148 337.08)" class="st1 st2">[Refus d&apos;évacuation]</text>
+	<path class="st3" d="M1091,466.2h61c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-61c-19.9,0-36-7.6-36-17l0,0
+		C1055,473.8,1071.1,466.2,1091,466.2z"/>
+	<path class="st4" d="M1090,465.2h63c19.9,0,36,8.1,36,18l0,0c0,9.9-16.1,18-36,18h-63c-19.9,0-36-8.1-36-18l0,0
+		C1054,473.2,1070.1,465.2,1090,465.2z"/>
+	<path class="st5" d="M1091,466.2h61c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-61c-19.9,0-36-7.6-36-17l0,0
+		C1055,473.8,1071.1,466.2,1091,466.2z"/>
+	<text transform="matrix(1 0 0 1 1073 485.0801)" class="st1 st2">Choix d&apos;un hôpital</text>
+	<line class="st6" x1="1118" y1="361.2" x2="1118" y2="466.2"/>
+	<line class="st6" x1="1111" y1="454.2" x2="1118" y2="466.2"/>
+	<line class="st6" x1="1125" y1="454.2" x2="1118" y2="466.2"/>
+	<text transform="matrix(1 0 0 1 1070 416.0801)" class="st1 st2">[Sinon]</text>
+	<path class="st3" d="M1459,330.2h124c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-124c-19.9,0-36-7.6-36-17l0,0
+		C1423,337.8,1439.1,330.2,1459,330.2z"/>
+	<path class="st4" d="M1458,329.2h126c19.9,0,36,8.1,36,18l0,0c0,9.9-16.1,18-36,18h-126c-19.9,0-36-8.1-36-18l0,0
+		C1422,337.2,1438.1,329.2,1458,329.2z"/>
+	<path class="st5" d="M1459,330.2h124c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-124c-19.9,0-36-7.6-36-17l0,0
+		C1423,337.8,1439.1,330.2,1459,330.2z"/>
+	<text transform="matrix(1 0 0 1 1444 349.0801)" class="st1 st2">Décharge de responsabilité</text>
+	<line class="st6" x1="1375" y1="346.2" x2="1423" y2="346.2"/>
+	<line class="st6" x1="1411" y1="353.2" x2="1423" y2="346.2"/>
+	<line class="st6" x1="1411" y1="339.2" x2="1423" y2="346.2"/>
+	<text transform="matrix(1 0 0 1 1379 341.08)" class="st1 st2">[Sinon]</text>
+	<polyline class="st6" points="1263,361.2 1134,361.2 1134,466.2 	"/>
+	<line class="st6" x1="1127" y1="454.2" x2="1134" y2="466.2"/>
+	<line class="st6" x1="1141" y1="454.2" x2="1134" y2="466.2"/>
+	<text transform="matrix(1 0 0 1 1140 376.0801)" class="st1 st2">[Change d&apos;avis]</text>
+	<path class="st3" d="M1315,458.2h17c28.7,0,52,11.2,52,25l0,0c0,13.8-23.3,25-52,25h-17c-28.7,0-52-11.2-52-25l0,0
+		C1263,469.4,1286.3,458.2,1315,458.2z"/>
+	<path class="st4" d="M1314,457.2h19c28.7,0,52,11.6,52,26l0,0c0,14.4-23.3,26-52,26h-19c-28.7,0-52-11.6-52-26l0,0
+		C1262,468.8,1285.3,457.2,1314,457.2z"/>
+	<path class="st5" d="M1315,458.2h17c28.7,0,52,11.2,52,25l0,0c0,13.8-23.3,25-52,25h-17c-28.7,0-52-11.2-52-25l0,0
+		C1263,469.4,1286.3,458.2,1315,458.2z"/>
+	<text transform="matrix(1 0 0 1 1282 477.0801)" class="st1 st2">Hospitalisation</text>
+	<text transform="matrix(1 0 0 1 1281 493.0801)" class="st1 st2">sous contrainte</text>
+	<line class="st6" x1="1270" y1="371.2" x2="1270" y2="458.2"/>
+	<line class="st6" x1="1263" y1="446.2" x2="1270" y2="458.2"/>
+	<line class="st6" x1="1277" y1="446.2" x2="1270" y2="458.2"/>
+	<text transform="matrix(1 0 0 1 1204 421.0801)" class="st1 st2">[État grave]</text>
+	<line class="st6" x1="1286" y1="371.2" x2="1286" y2="458.2"/>
+	<line class="st6" x1="1279" y1="446.2" x2="1286" y2="458.2"/>
+	<line class="st6" x1="1293" y1="446.2" x2="1286" y2="458.2"/>
+	<text transform="matrix(1 0 0 1 1289 402.0801)" class="st1 st2">[Demande</text>
+	<text transform="matrix(1 0 0 1 1308 418.0801)" class="st1 st2">d&apos;un</text>
+	<text transform="matrix(1 0 0 1 1306 434.0801)" class="st1 st2">tiers]</text>
+	<line class="st6" x1="1366" y1="371.2" x2="1366" y2="458.2"/>
+	<line class="st6" x1="1359" y1="446.2" x2="1366" y2="458.2"/>
+	<line class="st6" x1="1373" y1="446.2" x2="1366" y2="458.2"/>
+	<text transform="matrix(1 0 0 1 1369 394.0801)" class="st1 st2">[Menace</text>
+	<text transform="matrix(1 0 0 1 1376 410.0801)" class="st1 st2">l&apos;ordre</text>
+	<text transform="matrix(1 0 0 1 1375 426.0801)" class="st1 st2">public]</text>
+	<line class="st6" x1="1263" y1="482.2" x2="1187" y2="482.2"/>
+	<line class="st6" x1="1199" y1="475.2" x2="1187" y2="482.2"/>
+	<line class="st6" x1="1199" y1="489.2" x2="1187" y2="482.2"/>
+	<path class="st3" d="M1435,514.2h27c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-27c-19.9,0-36-7.6-36-17l0,0
+		C1399,521.8,1415.1,514.2,1435,514.2z"/>
+	<path class="st4" d="M1434,513.2h29c19.9,0,36,8.1,36,18l0,0c0,9.9-16.1,18-36,18h-29c-19.9,0-36-8.1-36-18l0,0
+		C1398,521.2,1414.1,513.2,1434,513.2z"/>
+	<path class="st5" d="M1435,514.2h27c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-27c-19.9,0-36-7.6-36-17l0,0
+		C1399,521.8,1415.1,514.2,1435,514.2z"/>
+	<text transform="matrix(1 0 0 1 1418 533.0801)" class="st1 st2">Évacuation</text>
+	<polyline class="st6" points="1126,499.2 1126,529.2 1399,529.2 	"/>
+	<line class="st6" x1="1387" y1="536.2" x2="1399" y2="529.2"/>
+	<line class="st6" x1="1387" y1="522.2" x2="1399" y2="529.2"/>
+	<path class="st3" d="M955,450.2h11c37.6,0,68,14.8,68,33l0,0c0,18.2-30.4,33-68,33h-11c-37.6,0-68-14.8-68-33l0,0
+		C887,464.9,917.4,450.2,955,450.2z"/>
+	<path class="st4" d="M954,449.2h13c37.6,0,68,15.2,68,34l0,0c0,18.8-30.4,34-68,34h-13c-37.6,0-68-15.2-68-34l0,0
+		C886,464.4,916.4,449.2,954,449.2z"/>
+	<path class="st5" d="M955,450.2h11c37.6,0,68,14.8,68,33l0,0c0,18.2-30.4,33-68,33h-11c-37.6,0-68-14.8-68-33l0,0
+		C887,464.9,917.4,450.2,955,450.2z"/>
+	<text transform="matrix(1 0 0 1 928 469.0801)" class="st1 st2">Annonce de</text>
+	<text transform="matrix(1 0 0 1 939 485.0801)" class="st1 st2">l&apos;arrivée</text>
+	<text transform="matrix(1 0 0 1 933 501.0801)" class="st1 st2">du patient</text>
+	<line class="st6" x1="1055" y1="481.2" x2="1033" y2="481.2"/>
+	<line class="st6" x1="1045" y1="474.2" x2="1033" y2="481.2"/>
+	<line class="st6" x1="1045" y1="488.2" x2="1033" y2="481.2"/>
+	<rect x="670" y="601.2" class="st3" width="1200" height="7"/>
+	<line class="st6" x1="688" y1="251.2" x2="688" y2="601.2"/>
+	<line class="st6" x1="681" y1="589.2" x2="688" y2="601.2"/>
+	<line class="st6" x1="695" y1="589.2" x2="688" y2="601.2"/>
+	<line class="st6" x1="809" y1="299.2" x2="809" y2="601.2"/>
+	<line class="st6" x1="802" y1="589.2" x2="809" y2="601.2"/>
+	<line class="st6" x1="816" y1="589.2" x2="809" y2="601.2"/>
+	<path class="st3" d="M1715-61.8h84c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-84c-19.9,0-36-7.6-36-17l0,0
+		C1679-54.2,1695.1-61.8,1715-61.8z"/>
+	<path class="st4" d="M1714-62.8h86c19.9,0,36,8.1,36,18l0,0c0,9.9-16.1,18-36,18h-86c-19.9,0-36-8.1-36-18l0,0
+		C1678-54.8,1694.1-62.8,1714-62.8z"/>
+	<path class="st5" d="M1715-61.8h84c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-84c-19.9,0-36-7.6-36-17l0,0
+		C1679-54.2,1695.1-61.8,1715-61.8z"/>
+	<text transform="matrix(1 0 0 1 1698 -42.92)" class="st1 st2">Demande de renforts</text>
+	<line class="st6" x1="1448" y1="547.2" x2="1448" y2="601.2"/>
+	<line class="st6" x1="1441" y1="589.2" x2="1448" y2="601.2"/>
+	<line class="st6" x1="1455" y1="589.2" x2="1448" y2="601.2"/>
+	<line class="st6" x1="1521" y1="363.2" x2="1521" y2="601.2"/>
+	<line class="st6" x1="1514" y1="589.2" x2="1521" y2="601.2"/>
+	<line class="st6" x1="1528" y1="589.2" x2="1521" y2="601.2"/>
+	<line class="st6" x1="1648" y1="211.2" x2="1648" y2="601.2"/>
+	<line class="st6" x1="1641" y1="589.2" x2="1648" y2="601.2"/>
+	<line class="st6" x1="1655" y1="589.2" x2="1648" y2="601.2"/>
+	<line class="st6" x1="1757" y1="-28.8" x2="1757" y2="601.2"/>
+	<line class="st6" x1="1750" y1="589.2" x2="1757" y2="601.2"/>
+	<line class="st6" x1="1764" y1="589.2" x2="1757" y2="601.2"/>
+	<line class="st6" x1="1854" y1="-140.8" x2="1854" y2="601.2"/>
+	<line class="st6" x1="1847" y1="589.2" x2="1854" y2="601.2"/>
+	<line class="st6" x1="1861" y1="589.2" x2="1854" y2="601.2"/>
+	<path class="st3" d="M1235,634.2h73c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-73c-19.9,0-36-7.6-36-17l0,0
+		C1199,641.8,1215.1,634.2,1235,634.2z"/>
+	<path class="st4" d="M1234,633.2h75c19.9,0,36,8.1,36,18l0,0c0,9.9-16.1,18-36,18h-75c-19.9,0-36-8.1-36-18l0,0
+		C1198,641.2,1214.1,633.2,1234,633.2z"/>
+	<path class="st5" d="M1235,634.2h73c19.9,0,36,7.6,36,17l0,0c0,9.4-16.1,17-36,17h-73c-19.9,0-36-7.6-36-17l0,0
+		C1199,641.8,1215.1,634.2,1235,634.2z"/>
+	<text transform="matrix(1 0 0 1 1219 653.0801)" class="st1 st2">Fin de l&apos;intervention</text>
+	<line class="st6" x1="1270" y1="607.2" x2="1270" y2="634.2"/>
+	<line class="st6" x1="1263" y1="622.2" x2="1270" y2="634.2"/>
+	<line class="st6" x1="1277" y1="622.2" x2="1270" y2="634.2"/>
+	<ellipse class="st3" cx="1270" cy="709.8" rx="12" ry="12"/>
+	<ellipse class="st5" cx="1270" cy="709.8" rx="11" ry="11"/>
+	<ellipse class="st3" cx="1270" cy="709.8" rx="7.5" ry="7.5"/>
+	<line class="st6" x1="1270" y1="667.2" x2="1270" y2="697.2"/>
+	<line class="st6" x1="1263" y1="685.2" x2="1270" y2="697.2"/>
+	<line class="st6" x1="1277" y1="685.2" x2="1270" y2="697.2"/>
+</g>
 </svg>

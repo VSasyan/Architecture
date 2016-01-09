@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg height="1554" version="1.1" width="2852" xmlns="http://www.w3.org/2000/svg">
+<svg height="1550" version="1.1" width="2852" xmlns="http://www.w3.org/2000/svg">
 <rect fill="#ffffff" height="64" stroke="#ffffff" stroke-width="1" width="1832" x="606" y="422"/>
 <rect fill="none" height="64" stroke="#000000" stroke-width="1" width="1832" x="606" y="422"/>
 <rect fill="#ffffff" height="216" stroke="#ffffff" stroke-width="1" width="2032" x="806" y="1166"/>
@@ -156,12 +156,12 @@
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="102" x2="102" y1="1503" y2="1508"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="102" x2="102" y1="1513" y2="1518"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="102" x2="102" y1="1523" y2="1528"/>
-<line fill="#000000" stroke="#000000" stroke-width="1" x1="102" x2="102" y1="1533" y2="1538"/>
-<rect fill="#ffffff" height="1476" stroke="#ffffff" stroke-width="1" width="20" x="92" y="63"/>
-<rect fill="none" height="1476" stroke="#000000" stroke-width="1" width="20" x="92" y="63"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="102" x2="102" y1="1533" y2="1535"/>
+<rect fill="#ffffff" height="1472" stroke="#ffffff" stroke-width="1" width="20" x="92" y="63"/>
+<rect fill="none" height="1472" stroke="#000000" stroke-width="1" width="20" x="92" y="63"/>
 <rect fill="#ffffff" height="50" stroke="#ffffff" stroke-width="1" width="176" x="14" y="14"/>
 <rect fill="none" height="50" stroke="#000000" stroke-width="1" width="176" x="14" y="14"/>
-<text font-family="Dialog" font-size="12" x="77" y="27">
+<text font-family="Dialog" font-size="12" x="81" y="28">
 :Patient</text>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="350" x2="350" y1="63" y2="68"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="350" x2="350" y1="73" y2="78"/>
@@ -310,12 +310,12 @@
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="350" x2="350" y1="1503" y2="1508"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="350" x2="350" y1="1513" y2="1518"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="350" x2="350" y1="1523" y2="1528"/>
-<line fill="#000000" stroke="#000000" stroke-width="1" x1="350" x2="350" y1="1533" y2="1538"/>
-<rect fill="#ffffff" height="1476" stroke="#ffffff" stroke-width="1" width="20" x="340" y="63"/>
-<rect fill="none" height="1476" stroke="#000000" stroke-width="1" width="20" x="340" y="63"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="350" x2="350" y1="1533" y2="1535"/>
+<rect fill="#ffffff" height="1472" stroke="#ffffff" stroke-width="1" width="20" x="340" y="63"/>
+<rect fill="none" height="1472" stroke="#000000" stroke-width="1" width="20" x="340" y="63"/>
 <rect fill="#ffffff" height="50" stroke="#ffffff" stroke-width="1" width="144" x="278" y="14"/>
 <rect fill="none" height="50" stroke="#000000" stroke-width="1" width="144" x="278" y="14"/>
-<text font-family="Dialog" font-size="12" x="320" y="27">
+<text font-family="Dialog" font-size="12" x="324" y="28">
 :Appelant</text>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="658" x2="658" y1="63" y2="68"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="658" x2="658" y1="73" y2="78"/>
@@ -464,12 +464,12 @@
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="658" x2="658" y1="1503" y2="1508"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="658" x2="658" y1="1513" y2="1518"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="658" x2="658" y1="1523" y2="1528"/>
-<line fill="#000000" stroke="#000000" stroke-width="1" x1="658" x2="658" y1="1533" y2="1538"/>
-<rect fill="#ffffff" height="1437" stroke="#ffffff" stroke-width="1" width="20" x="648" y="102"/>
-<rect fill="none" height="1437" stroke="#000000" stroke-width="1" width="20" x="648" y="102"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="658" x2="658" y1="1533" y2="1535"/>
+<rect fill="#ffffff" height="1433" stroke="#ffffff" stroke-width="1" width="20" x="648" y="102"/>
+<rect fill="none" height="1433" stroke="#000000" stroke-width="1" width="20" x="648" y="102"/>
 <rect fill="#ffffff" height="50" stroke="#ffffff" stroke-width="1" width="150" x="583" y="14"/>
 <rect fill="none" height="50" stroke="#000000" stroke-width="1" width="150" x="583" y="14"/>
-<text font-family="Dialog" font-size="12" x="643" y="27">
+<text font-family="Dialog" font-size="12" x="644" y="28">
 :ARM</text>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="925" x2="925" y1="63" y2="68"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="925" x2="925" y1="73" y2="78"/>
@@ -618,12 +618,12 @@
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="925" x2="925" y1="1503" y2="1508"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="925" x2="925" y1="1513" y2="1518"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="925" x2="925" y1="1523" y2="1528"/>
-<line fill="#000000" stroke="#000000" stroke-width="1" x1="925" x2="925" y1="1533" y2="1538"/>
-<rect fill="#ffffff" height="1197" stroke="#ffffff" stroke-width="1" width="20" x="915" y="342"/>
-<rect fill="none" height="1197" stroke="#000000" stroke-width="1" width="20" x="915" y="342"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="925" x2="925" y1="1533" y2="1535"/>
+<rect fill="#ffffff" height="1193" stroke="#ffffff" stroke-width="1" width="20" x="915" y="342"/>
+<rect fill="none" height="1193" stroke="#000000" stroke-width="1" width="20" x="915" y="342"/>
 <rect fill="#ffffff" height="50" stroke="#ffffff" stroke-width="1" width="191" x="830" y="14"/>
 <rect fill="none" height="50" stroke="#000000" stroke-width="1" width="191" x="830" y="14"/>
-<text font-family="Dialog" font-size="12" x="834" y="27">
+<text font-family="Dialog" font-size="12" x="846" y="28">
 :Systeme d'information du 15</text>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1346" x2="1346" y1="63" y2="68"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1346" x2="1346" y1="73" y2="78"/>
@@ -772,12 +772,12 @@
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1346" x2="1346" y1="1503" y2="1508"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1346" x2="1346" y1="1513" y2="1518"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1346" x2="1346" y1="1523" y2="1528"/>
-<line fill="#000000" stroke="#000000" stroke-width="1" x1="1346" x2="1346" y1="1533" y2="1538"/>
-<rect fill="#ffffff" height="573" stroke="#ffffff" stroke-width="1" width="20" x="1336" y="966"/>
-<rect fill="none" height="573" stroke="#000000" stroke-width="1" width="20" x="1336" y="966"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1346" x2="1346" y1="1533" y2="1535"/>
+<rect fill="#ffffff" height="1472" stroke="#ffffff" stroke-width="1" width="20" x="1336" y="63"/>
+<rect fill="none" height="1472" stroke="#000000" stroke-width="1" width="20" x="1336" y="63"/>
 <rect fill="#ffffff" height="50" stroke="#ffffff" stroke-width="1" width="216" x="1238" y="14"/>
 <rect fill="none" height="50" stroke="#000000" stroke-width="1" width="216" x="1238" y="14"/>
-<text font-family="Dialog" font-size="12" x="1253" y="27">
+<text font-family="Dialog" font-size="12" x="1263" y="28">
 :ARM Gestionnaire de moyens</text>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1658" x2="1658" y1="63" y2="68"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1658" x2="1658" y1="73" y2="78"/>
@@ -926,12 +926,12 @@
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1658" x2="1658" y1="1503" y2="1508"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1658" x2="1658" y1="1513" y2="1518"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1658" x2="1658" y1="1523" y2="1528"/>
-<line fill="#000000" stroke="#000000" stroke-width="1" x1="1658" x2="1658" y1="1533" y2="1538"/>
-<rect fill="#ffffff" height="1005" stroke="#ffffff" stroke-width="1" width="20" x="1648" y="534"/>
-<rect fill="none" height="1005" stroke="#000000" stroke-width="1" width="20" x="1648" y="534"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1658" x2="1658" y1="1533" y2="1535"/>
+<rect fill="#ffffff" height="1001" stroke="#ffffff" stroke-width="1" width="20" x="1648" y="534"/>
+<rect fill="none" height="1001" stroke="#000000" stroke-width="1" width="20" x="1648" y="534"/>
 <rect fill="#ffffff" height="50" stroke="#ffffff" stroke-width="1" width="150" x="1583" y="14"/>
 <rect fill="none" height="50" stroke="#000000" stroke-width="1" width="150" x="1583" y="14"/>
-<text font-family="Dialog" font-size="12" x="1595" y="27">
+<text font-family="Dialog" font-size="12" x="1604" y="28">
 :Médecin régulateur</text>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1982" x2="1982" y1="63" y2="68"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1982" x2="1982" y1="73" y2="78"/>
@@ -1080,12 +1080,12 @@
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1982" x2="1982" y1="1503" y2="1508"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1982" x2="1982" y1="1513" y2="1518"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1982" x2="1982" y1="1523" y2="1528"/>
-<line fill="#000000" stroke="#000000" stroke-width="1" x1="1982" x2="1982" y1="1533" y2="1538"/>
-<rect fill="#ffffff" height="520" stroke="#ffffff" stroke-width="1" width="20" x="1972" y="1018"/>
-<rect fill="none" height="520" stroke="#000000" stroke-width="1" width="20" x="1972" y="1018"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1982" x2="1982" y1="1533" y2="1534"/>
+<rect fill="#ffffff" height="516" stroke="#ffffff" stroke-width="1" width="20" x="1972" y="1018"/>
+<rect fill="none" height="516" stroke="#000000" stroke-width="1" width="20" x="1972" y="1018"/>
 <rect fill="#ffffff" height="50" stroke="#ffffff" stroke-width="1" width="150" x="1907" y="14"/>
 <rect fill="none" height="50" stroke="#000000" stroke-width="1" width="150" x="1907" y="14"/>
-<text font-family="Dialog" font-size="12" x="1954" y="27">
+<text font-family="Dialog" font-size="12" x="1957" y="28">
 :Secours</text>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="2378" x2="2378" y1="63" y2="68"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="2378" x2="2378" y1="73" y2="78"/>
@@ -1234,12 +1234,12 @@
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="2378" x2="2378" y1="1503" y2="1508"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="2378" x2="2378" y1="1513" y2="1518"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="2378" x2="2378" y1="1523" y2="1528"/>
-<line fill="#000000" stroke="#000000" stroke-width="1" x1="2378" x2="2378" y1="1533" y2="1538"/>
-<rect fill="#ffffff" height="1077" stroke="#ffffff" stroke-width="1" width="20" x="2368" y="462"/>
-<rect fill="none" height="1077" stroke="#000000" stroke-width="1" width="20" x="2368" y="462"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="2378" x2="2378" y1="1533" y2="1535"/>
+<rect fill="#ffffff" height="1073" stroke="#ffffff" stroke-width="1" width="20" x="2368" y="462"/>
+<rect fill="none" height="1073" stroke="#000000" stroke-width="1" width="20" x="2368" y="462"/>
 <rect fill="#ffffff" height="50" stroke="#ffffff" stroke-width="1" width="309" x="2224" y="14"/>
 <rect fill="none" height="50" stroke="#000000" stroke-width="1" width="309" x="2224" y="14"/>
-<text font-family="Dialog" font-size="12" x="2228" y="27">
+<text font-family="Dialog" font-size="12" x="2245" y="28">
 :Autres Secours (Gendamerie, Pompiers, Police)</text>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="2745" x2="2745" y1="63" y2="68"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="2745" x2="2745" y1="73" y2="78"/>
@@ -1388,19 +1388,19 @@
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="2745" x2="2745" y1="1503" y2="1508"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="2745" x2="2745" y1="1513" y2="1518"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="2745" x2="2745" y1="1523" y2="1528"/>
-<line fill="#000000" stroke="#000000" stroke-width="1" x1="2745" x2="2745" y1="1533" y2="1538"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="2745" x2="2745" y1="1533" y2="1534"/>
 <rect fill="#ffffff" height="40" stroke="#ffffff" stroke-width="1" width="20" x="2735" y="1290"/>
 <rect fill="none" height="40" stroke="#000000" stroke-width="1" width="20" x="2735" y="1290"/>
-<rect fill="#ffffff" height="60" stroke="#ffffff" stroke-width="1" width="20" x="2735" y="1478"/>
-<rect fill="none" height="60" stroke="#000000" stroke-width="1" width="20" x="2735" y="1478"/>
+<rect fill="#ffffff" height="56" stroke="#ffffff" stroke-width="1" width="20" x="2735" y="1478"/>
+<rect fill="none" height="56" stroke="#000000" stroke-width="1" width="20" x="2735" y="1478"/>
 <rect fill="#ffffff" height="50" stroke="#ffffff" stroke-width="1" width="150" x="2670" y="14"/>
 <rect fill="none" height="50" stroke="#000000" stroke-width="1" width="150" x="2670" y="14"/>
-<text font-family="Dialog" font-size="12" x="2684" y="27">
+<text font-family="Dialog" font-size="12" x="2693" y="28">
 :Structure d'accueil</text>
 <polyline fill="none" points="648,182 360,182" stroke="#000000" stroke-width="1"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="372" x2="360" y1="175" y2="182"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="372" x2="360" y1="189" y2="182"/>
-<text font-family="Dialog" font-size="12" x="373" y="177">
+<text font-family="Dialog" font-size="12" x="378" y="177">
 Prise de l'appel, demande d'informations</text>
 <polyline fill="none" points="340,222 112,222" stroke="#000000" stroke-width="1"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="124" x2="112" y1="215" y2="222"/>
@@ -1465,17 +1465,17 @@ Description du ressenti</text>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="640" x2="645" y1="302" y2="302"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="636" x2="648" y1="309" y2="302"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="636" x2="648" y1="295" y2="302"/>
-<text font-family="Dialog" font-size="12" x="453" y="293">
+<text font-family="Dialog" font-size="12" x="455" y="293">
 Renseignements</text>
 <polyline fill="none" points="648,382 360,382" stroke="#000000" stroke-width="1"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="372" x2="360" y1="375" y2="382"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="372" x2="360" y1="389" y2="382"/>
-<text font-family="Dialog" font-size="12" x="372" y="377">
+<text font-family="Dialog" font-size="12" x="378" y="377">
 Donne les premiers conseils de secourisme</text>
 <polyline fill="none" points="340,422 112,422" stroke="#000000" stroke-width="1"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="124" x2="112" y1="415" y2="422"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="124" x2="112" y1="429" y2="422"/>
-<text font-family="Dialog" font-size="12" x="118" y="417">
+<text font-family="Dialog" font-size="12" x="124" y="417">
 Effectue les gestes de secourisme</text>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1648" x2="1643" y1="574" y2="574"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1638" x2="1633" y1="574" y2="574"/>
@@ -1553,9 +1553,9 @@ Effectue les gestes de secourisme</text>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="947" x2="935" y1="581" y2="574"/>
 <text font-family="Dialog" font-size="12" x="1200" y="569">
 Consultation du dossier informatique patient</text>
-<rect fill="#ffffff" height="17" stroke="#ffffff" stroke-width="1" width="179" x="30" y="614"/>
-<rect fill="none" height="16" stroke="#000000" stroke-width="1" width="178" x="30" y="614"/>
-<text font-family="Dialog" font-size="12" x="31" y="627">
+<rect fill="#ffffff" height="18" stroke="#ffffff" stroke-width="1" width="149" x="30" y="614"/>
+<rect fill="none" height="17" stroke="#000000" stroke-width="1" width="148" x="30" y="614"/>
+<text font-family="Dialog" font-size="12" x="31" y="628">
 patient en état de répondre</text>
 <polyline fill="none" points="1648,646 112,646" stroke="#000000" stroke-width="1"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="124" x2="112" y1="639" y2="646"/>
@@ -1718,11 +1718,11 @@ Questions directes au patient</text>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1642" x2="1647" y1="686" y2="686"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1636" x2="1648" y1="693" y2="686"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1636" x2="1648" y1="679" y2="686"/>
-<text font-family="Dialog" font-size="12" x="967" y="682">
+<text font-family="Dialog" font-size="12" x="972" y="682">
 Réponses directes du patient</text>
-<rect fill="#ffffff" height="17" stroke="#ffffff" stroke-width="1" width="36" x="30" y="710"/>
-<rect fill="none" height="16" stroke="#000000" stroke-width="1" width="35" x="30" y="710"/>
-<text font-family="Dialog" font-size="12" x="31" y="723">
+<rect fill="#ffffff" height="18" stroke="#ffffff" stroke-width="1" width="33" x="30" y="710"/>
+<rect fill="none" height="17" stroke="#000000" stroke-width="1" width="32" x="30" y="710"/>
+<text font-family="Dialog" font-size="12" x="31" y="724">
 sinon</text>
 <polyline fill="none" points="1648,758 360,758" stroke="#000000" stroke-width="1"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="372" x2="360" y1="751" y2="758"/>
@@ -1897,17 +1897,17 @@ Réponse du patient</text>
 <polyline fill="none" points="1648,926 668,926" stroke="#000000" stroke-width="1"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="680" x2="668" y1="919" y2="926"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="680" x2="668" y1="933" y2="926"/>
-<text font-family="Dialog" font-size="12" x="1042" y="921">
+<text font-family="Dialog" font-size="12" x="1043" y="921">
 Discussion sur l'équipe à envoyer</text>
 <polyline fill="none" points="1336,1050 360,1050" stroke="#000000" stroke-width="1"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="372" x2="360" y1="1043" y2="1050"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="372" x2="360" y1="1057" y2="1050"/>
-<text font-family="Dialog" font-size="12" x="599" y="1045">
+<text font-family="Dialog" font-size="12" x="613" y="1045">
 Rend compte de l'envoi des secours et donne des conseils pour attendre</text>
 <polyline fill="none" points="1972,1090 1356,1090" stroke="#000000" stroke-width="1"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1368" x2="1356" y1="1083" y2="1090"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1368" x2="1356" y1="1097" y2="1090"/>
-<text font-family="Dialog" font-size="12" x="1497" y="1085">
+<text font-family="Dialog" font-size="12" x="1506" y="1085">
 Envoi du bilan (et d'une demande de renfort si besoin)</text>
 <polyline fill="none" points="1356,1130 1648,1130" stroke="#000000" stroke-width="1"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1636" x2="1648" y1="1137" y2="1130"/>
@@ -1993,7 +1993,7 @@ Recherche d'un lieu d'accueil</text>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1645" x2="1648" y1="1258" y2="1258"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1636" x2="1648" y1="1265" y2="1258"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1636" x2="1648" y1="1251" y2="1258"/>
-<text font-family="Dialog" font-size="12" x="1124" y="1251">
+<text font-family="Dialog" font-size="12" x="1125" y="1251">
 Liste des lieux d'accueil conseillés</text>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="2735" x2="2730" y1="1330" y2="1330"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="2725" x2="2720" y1="1330" y2="1330"/>
@@ -2104,11 +2104,11 @@ Liste des lieux d'accueil conseillés</text>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1675" x2="1670" y1="1330" y2="1330"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1680" x2="1668" y1="1323" y2="1330"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1680" x2="1668" y1="1337" y2="1330"/>
-<text font-family="Dialog" font-size="12" x="2096" y="1325">
+<text font-family="Dialog" font-size="12" x="2100" y="1325">
 Réponse positive ou négative</text>
-<rect fill="#ffffff" height="17" stroke="#ffffff" stroke-width="1" width="217" x="806" y="1166"/>
-<rect fill="none" height="16" stroke="#000000" stroke-width="1" width="216" x="806" y="1166"/>
-<text font-family="Dialog" font-size="12" x="807" y="1179">
+<rect fill="#ffffff" height="18" stroke="#ffffff" stroke-width="1" width="189" x="806" y="1166"/>
+<rect fill="none" height="17" stroke="#000000" stroke-width="1" width="188" x="806" y="1166"/>
+<text font-family="Dialog" font-size="12" x="807" y="1180">
 jusqu'à avoir une réponse positive</text>
 <polyline fill="none" points="1648,1414 1356,1414" stroke="#000000" stroke-width="1"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1368" x2="1356" y1="1407" y2="1414"/>
@@ -2118,55 +2118,55 @@ Transmission du lieu d'accueil</text>
 <polyline fill="none" points="1356,1462 1972,1462" stroke="#000000" stroke-width="1"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1960" x2="1972" y1="1469" y2="1462"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1960" x2="1972" y1="1455" y2="1462"/>
-<text font-family="Dialog" font-size="12" x="1564" y="1457">
+<text font-family="Dialog" font-size="12" x="1568" y="1457">
 Transmission du lieu d'accueil</text>
-<rect fill="#ffffff" height="17" stroke="#ffffff" stroke-width="1" width="85" x="606" y="422"/>
-<rect fill="none" height="16" stroke="#000000" stroke-width="1" width="84" x="606" y="422"/>
-<text font-family="Dialog" font-size="12" x="607" y="435">
+<rect fill="#ffffff" height="18" stroke="#ffffff" stroke-width="1" width="77" x="606" y="422"/>
+<rect fill="none" height="17" stroke="#000000" stroke-width="1" width="76" x="606" y="422"/>
+<text font-family="Dialog" font-size="12" x="607" y="436">
 si nécessaire</text>
 <polyline fill="none" points="360,102 648,102" stroke="#000000" stroke-width="1"/>
 <polygon fill="#000000" points="648,102 636,109 636,95" stroke="#000000" stroke-width="1"/>
 <polygon fill="none" points="648,102 636,109 636,95" stroke="#000000" stroke-width="1"/>
-<text font-family="Dialog" font-size="12" x="459" y="97">
+<text font-family="Dialog" font-size="12" x="460" y="97">
 Appel du 15</text>
 <polyline fill="none" points="648,142 360,142" stroke="#000000" stroke-width="1"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="372" x2="360" y1="135" y2="142"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="372" x2="360" y1="149" y2="142"/>
-<text font-family="Dialog" font-size="12" x="463" y="137">
+<text font-family="Dialog" font-size="12" x="465" y="137">
 Mise en attente</text>
 <polyline fill="none" points="668,342 915,342" stroke="#000000" stroke-width="1"/>
 <polygon fill="#000000" points="915,342 903,349 903,335" stroke="#000000" stroke-width="1"/>
 <polygon fill="none" points="915,342 903,349 903,335" stroke="#000000" stroke-width="1"/>
-<text font-family="Dialog" font-size="12" x="635" y="337">
+<text font-family="Dialog" font-size="12" x="651" y="337">
 Établissement du dossier informatique patient</text>
 <polyline fill="none" points="668,462 2368,462" stroke="#000000" stroke-width="1"/>
 <polygon fill="#000000" points="2368,462 2356,469 2356,455" stroke="#000000" stroke-width="1"/>
 <polygon fill="none" points="2368,462 2356,469 2356,455" stroke="#000000" stroke-width="1"/>
-<text font-family="Dialog" font-size="12" x="1459" y="457">
+<text font-family="Dialog" font-size="12" x="1474" y="457">
 Déclenchement d'autres secours (Gendamerie, Pompiers, Sauveteurs ...) si nécessaire</text>
 <polyline fill="none" points="668,534 1648,534" stroke="#000000" stroke-width="1"/>
 <polygon fill="#000000" points="1648,534 1636,541 1636,527" stroke="#000000" stroke-width="1"/>
 <polygon fill="none" points="1648,534 1636,541 1636,527" stroke="#000000" stroke-width="1"/>
-<text font-family="Dialog" font-size="12" x="1106" y="529">
+<text font-family="Dialog" font-size="12" x="1114" y="529">
 Transfert du dossier (voire de l'appel) au médecin régulateur</text>
 <polyline fill="none" points="1356,1018 1972,1018" stroke="#000000" stroke-width="1"/>
 <polygon fill="#000000" points="1972,1018 1960,1025 1960,1011" stroke="#000000" stroke-width="1"/>
 <polygon fill="none" points="1972,1018 1960,1025 1960,1011" stroke="#000000" stroke-width="1"/>
-<text font-family="Dialog" font-size="12" x="1616" y="1013">
+<text font-family="Dialog" font-size="12" x="1620" y="1013">
 Mobilisation d'effectifs apropriés</text>
 <polyline fill="none" points="1668,1290 2735,1290" stroke="#000000" stroke-width="1"/>
 <polygon fill="#000000" points="2735,1290 2723,1297 2723,1283" stroke="#000000" stroke-width="1"/>
 <polygon fill="none" points="2735,1290 2723,1297 2723,1283" stroke="#000000" stroke-width="1"/>
-<text font-family="Dialog" font-size="12" x="2082" y="1285">
+<text font-family="Dialog" font-size="12" x="2086" y="1285">
 Vérification de la disponibilité du lieu</text>
 <polyline fill="none" points="668,966 1336,966" stroke="#000000" stroke-width="1"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1324" x2="1336" y1="973" y2="966"/>
 <line fill="#000000" stroke="#000000" stroke-width="1" x1="1324" x2="1336" y1="959" y2="966"/>
-<text font-family="Dialog" font-size="12" x="954" y="961">
+<text font-family="Dialog" font-size="12" x="958" y="961">
 Transmission du dossier</text>
 <polyline fill="none" points="1992,1478 2735,1478" stroke="#000000" stroke-width="1"/>
 <polygon fill="#000000" points="2735,1478 2723,1485 2723,1471" stroke="#000000" stroke-width="1"/>
 <polygon fill="none" points="2735,1478 2723,1485 2723,1471" stroke="#000000" stroke-width="1"/>
-<text font-family="Dialog" font-size="12" x="2277" y="1473">
+<text font-family="Dialog" font-size="12" x="2278" y="1473">
 Évacuation</text>
 </svg>
