@@ -12,10 +12,12 @@ Tâches
 Diagrammes
 ----------
 
-* *diagramme de classe* (pour le matériel et les actions des acteurs dessus) : en cours, Valentin
-* diagramme d'activité : fait, à **relire**, **valider**
-* diagramme de séquence : fait, à **expliquer**
-* diagramme de cas d'utilisation : exporté, explications à **valider**
+Diagrammes *ok*, et *exportés*.
+
+* diagramme de classe : à **expliquer**
+* diagramme de séquence : à **expliquer**
+* diagramme de cas d'utilisation : fini
+* diagramme d'activité : fini
 
 
 Annulation
