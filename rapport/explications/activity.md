@@ -14,7 +14,7 @@ document susmentionné. Ce diagramme s'éloigne un peu du sujet,
 puisqu'il précise les activités du côté du SDIS (les pompiers) ; cela
 est justifié par l'extrême intrication de ces deux systèmes.
 
-![Diagramme d'activité](../export/activity.svg)
+![Diagramme d'activité](../exports/activity.svg)
 
 Les deux cadres représentent les deux systèmes, SAMU et SDIS
 (pompiers). Horizontalement, on peut lire les interactions entre les
@@ -26,7 +26,7 @@ systèmes ; de haut en bas, le déroulement des opérations.
 Traitement de l'appel et premiers secours
 -----------------------------------------
 
-![Activité -- premiers secours](../export/activity-1.svg)
+![Activité -- premiers secours](../exports/activity-1.svg)
 
 Selon le numéro composé, l'appelant va être orienté soit vers le
 Centre de réception et de régulation des appels (CRRA) du SAMU en
@@ -55,7 +55,7 @@ compte-rendu au CTA et au SAMU.
 Régulation médicale et envoi de secours adaptés
 -----------------------------------------------
 
-![Activité -- régulation](../export/activity-2.svg)
+![Activité -- régulation](../exports/activity-2.svg)
 
 Pendant l'envoi de prompts secours, l'appel parvenu au SAMU est
 transféré à un médecin régulateur, qui va s'entretenir avec
@@ -81,7 +81,7 @@ important, surtout en situation de carence.
 Évacuation et fin de l'intervention
 -----------------------------------
 
-![Activité -- évacuation](../export/activity-3.svg)
+![Activité -- évacuation](../exports/activity-3.svg)
 
 En tenant compte des souhaits de la victime, transmis lors du bilan
 secouriste, le médecin trouve un hôpital capable de la recevoir, et
