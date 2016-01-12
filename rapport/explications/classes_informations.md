@@ -3,7 +3,7 @@ Diagramme de classes - Informations
 
 Ce diagramme présente la structures du système d'information utilisé par le SAMU pour stocker les informations relatives aux interventions. Il y a deux classes principales : *Dossier* et *Bilan*.
 
-!(Diagrammes de classes - Informations)["../exports/classes_informations.png"]
+![Diagrammes de classes - Informations](../exports/classes_informations.png "Diagrammes de classes - Informations")
 
 La classe *Dossier*
 -------------------
