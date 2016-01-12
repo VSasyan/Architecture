@@ -1,0 +1,2 @@
+pandoc -N --template=pandoc/mytemplate.tex --variable mainfont="Palatino" --variable sansfont="Century Gothic" --variable monofont="Consolas" --variable fontsize=12pt --variable version=1.15.2 *.md --toc -o rapport.pdf
+# --latex-engine=xelatex
