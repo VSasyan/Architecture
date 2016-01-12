@@ -18,4 +18,4 @@ Les transports publics dépendent des pompiers (VSAV) ou du SMUR, qui vont respe
 Autres cas
 ----------
 
-Dans des cas extrèmes et selon la position géographique, des moyens supplémentaires peuvent être envoyés. Par exemple, lors d'intervention en montagne un hélicoptère de la gendarmerie sera utilisé (de la marine en mer). Ces cas, différents pour chaque région, ne sont pas spécifiés sur le diagramme.
+Dans des cas extrèmes et selon la position géographique, des moyens supplémentaires peuvent être envoyés. Par exemple, lors d'intervention en montagne (respectivement, mer) un hélicoptère de la gendarmerie (marine) pourra être utilisé. Ces cas, différents pour chaque région, ne sont pas spécifiés sur le diagramme.
