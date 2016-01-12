@@ -21,6 +21,7 @@ Les deux cadres représentent les deux systèmes, SAMU et SDIS
 systèmes ; de haut en bas, le déroulement des opérations.
 
 
+[convention-samu-sdis]: ../../data/convention_sdis_samu_231109__007576500_1759_08122010.pdf "Convention entre le SAMU et le SDIS 85"
 
 
 Traitement de l'appel et premiers secours
