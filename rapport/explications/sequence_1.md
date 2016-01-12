@@ -12,5 +12,6 @@ Dans un premier temps, il demande les informations sur l'idendité du patient, s
 L'appelant à son tour, demande les informations dont il ne dispose pas, au patient. Une fois les informations recueillies, elles sont par la suite transmises à l'**ARM** qui établit systématiquement un dossier médicale dans le **Systeme d'information du 15**.
 Sur la base des informations recueillies, l' **ARM** indique **les premiers conseils ou gestes de secourisme** à effetuer au patient.
 L'**Apellant** essaye de reproduire les indications données par l'**ARM**. Chaque **ressenti du patient** est transmi en temps réel à l'**ARM**. 
+---------------------------------------------------------------------------------------------------------------------------------------
 
 ![Diagramme de séquence - 1ère Partie](../exports/sequence_1.png)
