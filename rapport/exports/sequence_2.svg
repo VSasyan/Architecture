@@ -362,7 +362,7 @@
 <rect x="2199" y="-291" class="st1" width="20" height="753"/>
 <rect x="2114" y="-302" class="st0" width="191" height="50"/>
 <rect x="2114" y="-302" class="st1" width="191" height="50"/>
-<text transform="matrix(1 0 0 1 2130 -288.0799)" class="st2 st3">:Systeme d&apos;information du 15</text>
+<text transform="matrix(1 0 0 1 2130 -288.0799)" class="st2 st3">:Système d&apos;information du 15</text>
 <line class="st1" x1="2630" y1="-270" x2="2630" y2="-265"/>
 <path class="st1" d="M2630-305"/>
 <line class="st1" x1="2630" y1="-300" x2="2630" y2="-295"/>
@@ -612,8 +612,8 @@
 <line class="st1" x1="3186" y1="440" x2="3186" y2="445"/>
 <line class="st1" x1="3186" y1="450" x2="3186" y2="455"/>
 <line class="st1" x1="3186" y1="460" x2="3186" y2="461"/>
-<rect x="3176" y="385" class="st0" width="20" height="76"/>
-<rect x="3176" y="385" class="st1" width="20" height="76"/>
+<rect x="3176" y="370" class="st0" width="20" height="91"/>
+<rect x="3176" y="370" class="st1" width="20" height="91"/>
 <rect x="3111" y="-302" class="st0" width="150" height="50"/>
 <rect x="3111" y="-302" class="st1" width="150" height="50"/>
 <text transform="matrix(1 0 0 1 3161 -288.0799)" class="st2 st3">:Secours</text>
@@ -1112,10 +1112,10 @@
 <line class="st1" x1="1964" y1="286" x2="1952" y2="293"/>
 <line class="st1" x1="1964" y1="300" x2="1952" y2="293"/>
 <text transform="matrix(1 0 0 1 2327 287.9201)" class="st2 st3">Discussion sur l&apos;équipe à envoyer</text>
-<line class="st1" x1="2620" y1="417" x2="1644" y2="417"/>
-<line class="st1" x1="1656" y1="410" x2="1644" y2="417"/>
-<line class="st1" x1="1656" y1="424" x2="1644" y2="417"/>
-<text transform="matrix(1 0 0 1 1897 411.9201)" class="st2 st3">Rend compte de l&apos;envoi des secours et donne des conseils pour attendre</text>
+<line class="st1" x1="2620" y1="417" x2="1952" y2="417"/>
+<line class="st1" x1="1964" y1="410" x2="1952" y2="417"/>
+<line class="st1" x1="1964" y1="424" x2="1952" y2="417"/>
+<text transform="matrix(1 0 0 1 2107 411.9201)" class="st2 st3">Rend compte de l&apos;envoi des secours et donne des conseils pour attendre</text>
 <rect x="1890" y="-211" class="st0" width="77" height="18"/>
 <rect x="1890" y="-211" class="st1" width="76" height="17"/>
 <text transform="matrix(1 0 0 1 1891 -197.08)" class="st2 st3">si nécessaire</text>
@@ -1127,12 +1127,16 @@
 <polygon class="st4" points="2932,-99 2920,-92 2920,-106 "/>
 <polygon class="st1" points="2932,-99 2920,-92 2920,-106 "/>
 <text transform="matrix(1 0 0 1 2398 -104.08)" class="st2 st3">Transfert du dossier (voire de l&apos;appel) au médecin régulateur</text>
-<line class="st1" x1="2640" y1="385" x2="3176" y2="385"/>
-<polygon class="st4" points="3176,385 3164,392 3164,378 "/>
-<polygon class="st1" points="3176,385 3164,392 3164,378 "/>
-<text transform="matrix(1 0 0 1 2814 379.9201)" class="st2 st3">Mobilisation d&apos;effectifs apropriés</text>
+<line class="st1" x1="2640" y1="370" x2="3176" y2="370"/>
+<polygon class="st4" points="3176,370 3164,377 3164,363 "/>
+<polygon class="st1" points="3176,370 3164,377 3164,363 "/>
+<text transform="matrix(1 0 0 1 2814 364.9201)" class="st2 st3">Mobilisation d&apos;effectifs apropriés</text>
 <line class="st1" x1="1952" y1="333" x2="2620" y2="333"/>
 <line class="st1" x1="2608" y1="340" x2="2620" y2="333"/>
 <line class="st1" x1="2608" y1="326" x2="2620" y2="333"/>
 <text transform="matrix(1 0 0 1 2242 327.9201)" class="st2 st3">Transmission du dossier</text>
+<line class="st1" x1="1932" y1="446" x2="1644.5" y2="446"/>
+<text transform="matrix(1 0 0 1 1629 442.4599)" class="st2 st3">Rend compte de l&apos;envoi des secours et transmet les conseils</text>
+<line class="st1" x1="1656" y1="439" x2="1644" y2="446"/>
+<line class="st1" x1="1656" y1="453" x2="1644" y2="446"/>
 </svg>
