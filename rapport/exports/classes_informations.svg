@@ -1,197 +1,1061 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg height="408" version="1.1" width="840" xmlns="http://www.w3.org/2000/svg">
-<rect fill="#ffffff" height="88" stroke="#ffffff" stroke-width="1" width="139" x="254" y="182"/>
-<rect fill="none" height="88" stroke="#000000" stroke-width="1" width="139" x="254" y="182"/>
-<text font-family="Dialog" font-size="12" x="301" y="196">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="408"
+   version="1.1"
+   width="840"
+   id="svg2"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="classes_informations.svg"
+   inkscape:export-filename="/home/alban/docs/IT3/TSI/Architecture/rapport/exports/classes_informations.png"
+   inkscape:export-xdpi="179"
+   inkscape:export-ydpi="179">
+  <metadata
+     id="metadata278">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs276" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     id="namedview274"
+     showgrid="false"
+     inkscape:zoom="1.43"
+     inkscape:cx="373.74175"
+     inkscape:cy="259.99632"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <rect
+     fill="#ffffff"
+     height="88"
+     stroke="#ffffff"
+     stroke-width="1"
+     width="139"
+     x="254"
+     y="182"
+     id="rect4" />
+  <rect
+     fill="none"
+     height="88"
+     stroke="#000000"
+     stroke-width="1"
+     width="139"
+     x="254"
+     y="182"
+     id="rect6" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="301"
+     y="196"
+     id="text8">
 Dossier</text>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="139" x="254" y="206"/>
-<text font-family="Dialog" font-size="12" x="258" y="221">
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="139"
+     x="254"
+     y="206"
+     id="rect10" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="258"
+     y="221"
+     id="text12">
 motif_appel : string</text>
-<text font-family="Dialog" font-size="12" x="258" y="238">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="258"
+     y="238"
+     id="text14">
 degré_urgence : integer</text>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="139" x="254" y="248"/>
-<rect fill="#ffffff" height="139" stroke="#ffffff" stroke-width="1" width="111" x="270" y="14"/>
-<rect fill="none" height="139" stroke="#000000" stroke-width="1" width="111" x="270" y="14"/>
-<text font-family="Dialog" font-size="12" x="295" y="28">
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="139"
+     x="254"
+     y="248"
+     id="rect16" />
+  <rect
+     fill="#ffffff"
+     height="139"
+     stroke="#ffffff"
+     stroke-width="1"
+     width="111"
+     x="270"
+     y="14"
+     id="rect18" />
+  <rect
+     fill="none"
+     height="139"
+     stroke="#000000"
+     stroke-width="1"
+     width="111"
+     x="270"
+     y="14"
+     id="rect20" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="295"
+     y="28"
+     id="text22">
 Info patient</text>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="111" x="270" y="38"/>
-<text font-family="Dialog" font-size="12" x="274" y="53">
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="111"
+     x="270"
+     y="38"
+     id="rect24" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="274"
+     y="53"
+     id="text26">
 nom : string</text>
-<text font-family="Dialog" font-size="12" x="274" y="70">
-prenom : string</text>
-<text font-family="Dialog" font-size="12" x="274" y="87">
+  <text
+     font-size="12"
+     x="274"
+     y="70"
+     id="text28"
+     style="font-size:12px;font-family:Dialog">prénom : string</text>
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="274"
+     y="87"
+     id="text30">
 sexe : string</text>
-<text font-family="Dialog" font-size="12" x="274" y="104">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="274"
+     y="104"
+     id="text32">
 âge : integer</text>
-<text font-family="Dialog" font-size="12" x="274" y="121">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="274"
+     y="121"
+     id="text34">
 localisation : string</text>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="111" x="270" y="131"/>
-<rect fill="#ffffff" height="88" stroke="#ffffff" stroke-width="1" width="103" x="70" y="278"/>
-<rect fill="none" height="88" stroke="#000000" stroke-width="1" width="103" x="70" y="278"/>
-<text font-family="Dialog" font-size="12" x="97" y="292">
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="111"
+     x="270"
+     y="131"
+     id="rect36" />
+  <rect
+     fill="#ffffff"
+     height="88"
+     stroke="#ffffff"
+     stroke-width="1"
+     width="103"
+     x="70"
+     y="278"
+     id="rect38" />
+  <rect
+     fill="none"
+     height="88"
+     stroke="#000000"
+     stroke-width="1"
+     width="103"
+     x="70"
+     y="278"
+     id="rect40" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="97"
+     y="292"
+     id="text42">
 Appelant</text>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="103" x="70" y="302"/>
-<text font-family="Dialog" font-size="12" x="74" y="317">
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="103"
+     x="70"
+     y="302"
+     id="rect44" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="74"
+     y="317"
+     id="text46">
 nom : string</text>
-<text font-family="Dialog" font-size="12" x="74" y="334">
-telephone : string</text>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="103" x="70" y="344"/>
-<rect fill="#ffffff" height="122" stroke="#ffffff" stroke-width="1" width="159" x="654" y="110"/>
-<rect fill="none" height="122" stroke="#000000" stroke-width="1" width="159" x="654" y="110"/>
-<text font-family="Dialog" font-size="12" x="698" y="124">
+  <text
+     font-size="12"
+     x="74"
+     y="334"
+     id="text48"
+     style="font-size:12px;font-family:Dialog">téléphone : string</text>
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="103"
+     x="70"
+     y="344"
+     id="rect50" />
+  <rect
+     fill="#ffffff"
+     height="122"
+     stroke="#ffffff"
+     stroke-width="1"
+     width="159"
+     x="654"
+     y="110"
+     id="rect52" />
+  <rect
+     fill="none"
+     height="122"
+     stroke="#000000"
+     stroke-width="1"
+     width="159"
+     x="654"
+     y="110"
+     id="rect54" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="698"
+     y="124"
+     id="text56">
 Info chiffrées</text>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="159" x="654" y="134"/>
-<text font-family="Dialog" font-size="12" x="658" y="149">
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="159"
+     x="654"
+     y="134"
+     id="rect58" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="658"
+     y="149"
+     id="text60">
 fr_cardiaque : Integer</text>
-<text font-family="Dialog" font-size="12" x="658" y="166">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="658"
+     y="166"
+     id="text62">
 fr_respiratoire : Integer</text>
-<text font-family="Dialog" font-size="12" x="658" y="183">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="658"
+     y="183"
+     id="text64">
 tension_artérielle : Float</text>
-<text font-family="Dialog" font-size="12" x="658" y="200">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="658"
+     y="200"
+     id="text66">
 saturation : Integer</text>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="159" x="654" y="210"/>
-<rect fill="#ffffff" height="122" stroke="#ffffff" stroke-width="1" width="160" x="654" y="270"/>
-<rect fill="none" height="122" stroke="#000000" stroke-width="1" width="160" x="654" y="270"/>
-<text font-family="Dialog" font-size="12" x="674" y="284">
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="159"
+     x="654"
+     y="210"
+     id="rect68" />
+  <rect
+     fill="#ffffff"
+     height="122"
+     stroke="#ffffff"
+     stroke-width="1"
+     width="160"
+     x="654"
+     y="270"
+     id="rect70" />
+  <rect
+     fill="none"
+     height="122"
+     stroke="#000000"
+     stroke-width="1"
+     width="160"
+     x="654"
+     y="270"
+     id="rect72" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="674"
+     y="284"
+     id="text74">
 Info complémentaires</text>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="160" x="654" y="294"/>
-<text font-family="Dialog" font-size="12" x="658" y="309">
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="160"
+     x="654"
+     y="294"
+     id="rect76" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="658"
+     y="309"
+     id="text78">
 glycémie : Integer</text>
-<text font-family="Dialog" font-size="12" x="658" y="326">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="658"
+     y="326"
+     id="text80">
 hémoglobine : Integer</text>
-<text font-family="Dialog" font-size="12" x="658" y="343">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="658"
+     y="343"
+     id="text82">
 évaluation_douleur : Integer</text>
-<text font-family="Dialog" font-size="12" x="658" y="360">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="658"
+     y="360"
+     id="text84">
 autre... : string</text>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="160" x="654" y="370"/>
-<rect fill="#ffffff" height="208" stroke="#ffffff" stroke-width="1" width="215" x="14" y="14"/>
-<rect fill="none" height="208" stroke="#000000" stroke-width="1" width="215" x="14" y="14"/>
-<text font-family="Dialog" font-size="12" x="75" y="28">
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="160"
+     x="654"
+     y="370"
+     id="rect86" />
+  <rect
+     fill="#ffffff"
+     height="208"
+     stroke="#ffffff"
+     stroke-width="1"
+     width="215"
+     x="14"
+     y="14"
+     id="rect88" />
+  <rect
+     fill="none"
+     height="208"
+     stroke="#000000"
+     stroke-width="1"
+     width="215"
+     x="14"
+     y="14"
+     id="rect90" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="75"
+     y="28"
+     id="text92">
 Signes cliniques</text>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="215" x="14" y="38"/>
-<text font-family="Dialog" font-size="12" x="18" y="53">
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="215"
+     x="14"
+     y="38"
+     id="rect94" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="18"
+     y="53"
+     id="text96">
 position : string</text>
-<text font-family="Dialog" font-size="12" x="18" y="70">
-tient : string</text>
-<text font-family="Dialog" font-size="12" x="18" y="87">
+  <text
+     font-size="12"
+     x="18"
+     y="70"
+     id="text98"
+     style="font-size:12px;font-family:Dialog">teint : string</text>
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="18"
+     y="87"
+     id="text100">
 sueurs : booléen</text>
-<text font-family="Dialog" font-size="12" x="18" y="104">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="18"
+     y="104"
+     id="text102">
 mouvement : booléen</text>
-<text font-family="Dialog" font-size="12" x="18" y="121">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="18"
+     y="121"
+     id="text104">
 propos_incompréhensibles : booléen</text>
-<text font-family="Dialog" font-size="12" x="18" y="138">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="18"
+     y="138"
+     id="text106">
 visage_déformé : booléen</text>
-<text font-family="Dialog" font-size="12" x="18" y="155">
-voie : booléen</text>
-<text font-family="Dialog" font-size="12" x="18" y="172">
+  <text
+     font-size="12"
+     x="18"
+     y="155"
+     id="text108"
+     style="font-size:12px;font-family:Dialog">voix : booléen</text>
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="18"
+     y="172"
+     id="text110">
 respiration : booléen</text>
-<text font-family="Dialog" font-size="12" x="18" y="189">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="18"
+     y="189"
+     id="text112">
 autre... : string</text>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="215" x="14" y="199"/>
-<rect fill="#ffffff" height="105" stroke="#ffffff" stroke-width="1" width="195" x="422" y="182"/>
-<rect fill="none" height="105" stroke="#000000" stroke-width="1" width="195" x="422" y="182"/>
-<text font-family="Dialog" font-size="12" x="505" y="196">
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="215"
+     x="14"
+     y="199"
+     id="rect114" />
+  <rect
+     fill="#ffffff"
+     height="105"
+     stroke="#ffffff"
+     stroke-width="1"
+     width="195"
+     x="422"
+     y="182"
+     id="rect116" />
+  <rect
+     fill="none"
+     height="105"
+     stroke="#000000"
+     stroke-width="1"
+     width="195"
+     x="422"
+     y="182"
+     id="rect118" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="505"
+     y="196"
+     id="text120">
 Bilan</text>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="195" x="422" y="206"/>
-<text font-family="Dialog" font-size="12" x="426" y="221">
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="195"
+     x="422"
+     y="206"
+     id="rect122" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="426"
+     y="221"
+     id="text124">
 choix_structure_accueil : string</text>
-<text font-family="Dialog" font-size="12" x="426" y="238">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="426"
+     y="238"
+     id="text126">
 circonstances_intervention : string</text>
-<text font-family="Dialog" font-size="12" x="426" y="255">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="426"
+     y="255"
+     id="text128">
 motifs_interventation : string</text>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="195" x="422" y="265"/>
-<rect fill="#ffffff" height="68" stroke="#ffffff" stroke-width="1" width="71" x="518" y="14"/>
-<rect fill="none" height="68" stroke="#000000" stroke-width="1" width="71" x="518" y="14"/>
-<text font-family="Dialog" font-size="12" x="523" y="28">
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="195"
+     x="422"
+     y="265"
+     id="rect130" />
+  <rect
+     fill="#ffffff"
+     height="68"
+     stroke="#ffffff"
+     stroke-width="1"
+     width="71"
+     x="518"
+     y="14"
+     id="rect132" />
+  <rect
+     fill="none"
+     height="68"
+     stroke="#000000"
+     stroke-width="1"
+     width="71"
+     x="518"
+     y="14"
+     id="rect134" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="523"
+     y="28"
+     id="text136">
 Antécédent</text>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="71" x="518" y="38"/>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="71" x="518" y="59"/>
-<rect fill="#ffffff" height="68" stroke="#ffffff" stroke-width="1" width="69" x="438" y="78"/>
-<rect fill="none" height="68" stroke="#000000" stroke-width="1" width="69" x="438" y="78"/>
-<text font-family="Dialog" font-size="12" x="443" y="92">
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="71"
+     x="518"
+     y="38"
+     id="rect138" />
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="71"
+     x="518"
+     y="59"
+     id="rect140" />
+  <rect
+     fill="#ffffff"
+     height="68"
+     stroke="#ffffff"
+     stroke-width="1"
+     width="69"
+     x="438"
+     y="78"
+     id="rect142" />
+  <rect
+     fill="none"
+     height="68"
+     stroke="#000000"
+     stroke-width="1"
+     width="69"
+     x="438"
+     y="78"
+     id="rect144" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="443"
+     y="92"
+     id="text146">
 Traitement</text>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="69" x="438" y="102"/>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="69" x="438" y="123"/>
-<rect fill="#ffffff" height="72" stroke="#ffffff" stroke-width="1" width="157" x="654" y="14"/>
-<rect fill="none" height="72" stroke="#000000" stroke-width="1" width="157" x="654" y="14"/>
-<text font-family="Dialog" font-size="12" x="679" y="28">
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="69"
+     x="438"
+     y="102"
+     id="rect148" />
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="69"
+     x="438"
+     y="123"
+     id="rect150" />
+  <rect
+     fill="#ffffff"
+     height="72"
+     stroke="#ffffff"
+     stroke-width="1"
+     width="157"
+     x="654"
+     y="14"
+     id="rect152" />
+  <rect
+     fill="none"
+     height="72"
+     stroke="#000000"
+     stroke-width="1"
+     width="157"
+     x="654"
+     y="14"
+     id="rect154" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="679"
+     y="28"
+     id="text156">
 Lésion traumatique</text>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="157" x="654" y="38"/>
-<text font-family="Dialog" font-size="12" x="658" y="53">
-newAttr : Integer</text>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="157" x="654" y="63"/>
-<rect fill="#ffffff" height="68" stroke="#ffffff" stroke-width="1" width="84" x="414" y="326"/>
-<rect fill="none" height="68" stroke="#000000" stroke-width="1" width="84" x="414" y="326"/>
-<text font-family="Dialog" font-size="12" x="419" y="340">
-Diagnostique</text>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="84" x="414" y="350"/>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="84" x="414" y="371"/>
-<rect fill="#ffffff" height="67" stroke="#ffffff" stroke-width="1" width="104" x="518" y="326"/>
-<rect fill="none" height="67" stroke="#000000" stroke-width="1" width="104" x="518" y="326"/>
-<text font-family="Dialog" font-size="12" x="524" y="340">
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="157"
+     x="654"
+     y="38"
+     id="rect158" />
+  <text
+     font-size="12"
+     x="658"
+     y="53"
+     id="text160"
+     style="font-size:12px;font-family:Dialog">nombre : Integer</text>
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="157"
+     x="654"
+     y="63"
+     id="rect162" />
+  <rect
+     fill="#ffffff"
+     height="68"
+     stroke="#ffffff"
+     stroke-width="1"
+     width="84"
+     x="414"
+     y="326"
+     id="rect164" />
+  <rect
+     fill="none"
+     height="68"
+     stroke="#000000"
+     stroke-width="1"
+     width="84"
+     x="414"
+     y="326"
+     id="rect166" />
+  <text
+     font-size="12"
+     x="419"
+     y="340"
+     id="text168"
+     style="font-size:12px;font-family:Dialog"
+     inkscape:export-xdpi="179"
+     inkscape:export-ydpi="179">Diagnostic</text>
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="84"
+     x="414"
+     y="350"
+     id="rect170" />
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="84"
+     x="414"
+     y="371"
+     id="rect172" />
+  <rect
+     fill="#ffffff"
+     height="67"
+     stroke="#ffffff"
+     stroke-width="1"
+     width="104"
+     x="518"
+     y="326"
+     id="rect174" />
+  <rect
+     fill="none"
+     height="67"
+     stroke="#000000"
+     stroke-width="1"
+     width="104"
+     x="518"
+     y="326"
+     id="rect176" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="524"
+     y="340"
+     id="text178">
 Gestes entrepris</text>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="104" x="518" y="350"/>
-<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="104" x="518" y="371"/>
-<polyline fill="none" points="392,222 422,222" stroke="#000000" stroke-width="1"/>
-<polyline fill="none" points="654,222 616,222" stroke="#000000" stroke-width="1"/>
-<polyline fill="none" points="734,231 734,270" stroke="#000000" stroke-width="1"/>
-<polygon fill="#ffffff" points="734,231 739,241 734,251 729,241" stroke="#ffffff" stroke-width="1"/>
-<polygon fill="none" points="734,231 739,241 734,251 729,241" stroke="#000000" stroke-width="1"/>
-<text font-family="Dialog" font-size="12" x="712" y="268">
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="104"
+     x="518"
+     y="350"
+     id="rect180" />
+  <rect
+     fill="#000000"
+     height="1"
+     stroke="#000000"
+     stroke-width="1"
+     width="104"
+     x="518"
+     y="371"
+     id="rect182" />
+  <polyline
+     fill="none"
+     points="392,222 422,222"
+     stroke="#000000"
+     stroke-width="1"
+     id="polyline184" />
+  <polyline
+     fill="none"
+     points="654,222 616,222"
+     stroke="#000000"
+     stroke-width="1"
+     id="polyline186" />
+  <polyline
+     fill="none"
+     points="734,231 734,270"
+     stroke="#000000"
+     stroke-width="1"
+     id="polyline188" />
+  <polygon
+     fill="#ffffff"
+     points="734,231 739,241 734,251 729,241"
+     stroke="#ffffff"
+     stroke-width="1"
+     id="polygon190" />
+  <polygon
+     fill="none"
+     points="734,231 739,241 734,251 729,241"
+     stroke="#000000"
+     stroke-width="1"
+     id="polygon192" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="712"
+     y="268"
+     id="text194">
 *</text>
-<text font-family="Dialog" font-size="12" x="711" y="250">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="711"
+     y="250"
+     id="text196">
 1</text>
-<polyline fill="none" points="566,286 566,326" stroke="#000000" stroke-width="1"/>
-<polygon fill="#ffffff" points="566,286 571,296 566,306 561,296" stroke="#ffffff" stroke-width="1"/>
-<polygon fill="none" points="566,286 571,296 566,306 561,296" stroke="#000000" stroke-width="1"/>
-<text font-family="Dialog" font-size="12" x="542" y="303">
+  <polyline
+     fill="none"
+     points="566,286 566,326"
+     stroke="#000000"
+     stroke-width="1"
+     id="polyline198" />
+  <polygon
+     fill="#ffffff"
+     points="566,286 571,296 566,306 561,296"
+     stroke="#ffffff"
+     stroke-width="1"
+     id="polygon200" />
+  <polygon
+     fill="none"
+     points="566,286 571,296 566,306 561,296"
+     stroke="#000000"
+     stroke-width="1"
+     id="polygon202" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="542"
+     y="303"
+     id="text204">
 1</text>
-<text font-family="Dialog" font-size="12" x="544" y="327">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="544"
+     y="327"
+     id="text206">
 *</text>
-<polyline fill="none" points="454,286 454,326" stroke="#000000" stroke-width="1"/>
-<polygon fill="#ffffff" points="454,286 459,296 454,306 449,296" stroke="#ffffff" stroke-width="1"/>
-<polygon fill="none" points="454,286 459,296 454,306 449,296" stroke="#000000" stroke-width="1"/>
-<text font-family="Dialog" font-size="12" x="430" y="304">
+  <polyline
+     fill="none"
+     points="454,286 454,326"
+     stroke="#000000"
+     stroke-width="1"
+     id="polyline208" />
+  <polygon
+     fill="#ffffff"
+     points="454,286 459,296 454,306 449,296"
+     stroke="#ffffff"
+     stroke-width="1"
+     id="polygon210" />
+  <polygon
+     fill="none"
+     points="454,286 459,296 454,306 449,296"
+     stroke="#000000"
+     stroke-width="1"
+     id="polygon212" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="430"
+     y="304"
+     id="text214">
 1</text>
-<text font-family="Dialog" font-size="12" x="424" y="324">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="424"
+     y="324"
+     id="text216">
 0..1</text>
-<polyline fill="none" points="558,182 558,81" stroke="#000000" stroke-width="1"/>
-<polygon fill="#ffffff" points="558,182 553,172 558,162 563,172" stroke="#ffffff" stroke-width="1"/>
-<polygon fill="none" points="558,182 553,172 558,162 563,172" stroke="#000000" stroke-width="1"/>
-<text font-family="Dialog" font-size="12" x="534" y="175">
+  <polyline
+     fill="none"
+     points="558,182 558,81"
+     stroke="#000000"
+     stroke-width="1"
+     id="polyline218" />
+  <polygon
+     fill="#ffffff"
+     points="558,182 553,172 558,162 563,172"
+     stroke="#ffffff"
+     stroke-width="1"
+     id="polygon220" />
+  <polygon
+     fill="none"
+     points="558,182 553,172 558,162 563,172"
+     stroke="#000000"
+     stroke-width="1"
+     id="polygon222" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="534"
+     y="175"
+     id="text224">
 1</text>
-<text font-family="Dialog" font-size="12" x="573" y="101">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="573"
+     y="101"
+     id="text226">
 *</text>
-<polyline fill="none" points="478,182 478,145" stroke="#000000" stroke-width="1"/>
-<polygon fill="#ffffff" points="478,182 473,172 478,162 483,172" stroke="#ffffff" stroke-width="1"/>
-<polygon fill="none" points="478,182 473,172 478,162 483,172" stroke="#000000" stroke-width="1"/>
-<text font-family="Dialog" font-size="12" x="491" y="177">
+  <polyline
+     fill="none"
+     points="478,182 478,145"
+     stroke="#000000"
+     stroke-width="1"
+     id="polyline228" />
+  <polygon
+     fill="#ffffff"
+     points="478,182 473,172 478,162 483,172"
+     stroke="#ffffff"
+     stroke-width="1"
+     id="polygon230" />
+  <polygon
+     fill="none"
+     points="478,182 473,172 478,162 483,172"
+     stroke="#000000"
+     stroke-width="1"
+     id="polygon232" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="491"
+     y="177"
+     id="text234">
 1</text>
-<text font-family="Dialog" font-size="12" x="492" y="164">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="492"
+     y="164"
+     id="text236">
 *</text>
-<polyline fill="none" points="438,110 380,110" stroke="#000000" stroke-width="1"/>
-<polygon fill="#ffffff" points="438,110 428,115 418,110 428,105" stroke="#ffffff" stroke-width="1"/>
-<polygon fill="none" points="438,110 428,115 418,110 428,105" stroke="#000000" stroke-width="1"/>
-<text font-family="Dialog" font-size="12" x="429" y="129">
+  <polyline
+     fill="none"
+     points="438,110 380,110"
+     stroke="#000000"
+     stroke-width="1"
+     id="polyline238" />
+  <polygon
+     fill="#ffffff"
+     points="438,110 428,115 418,110 428,105"
+     stroke="#ffffff"
+     stroke-width="1"
+     id="polygon240" />
+  <polygon
+     fill="none"
+     points="438,110 428,115 418,110 428,105"
+     stroke="#000000"
+     stroke-width="1"
+     id="polygon242" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="429"
+     y="129"
+     id="text244">
 *</text>
-<text font-family="Dialog" font-size="12" x="384" y="125">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="384"
+     y="125"
+     id="text246">
 1</text>
-<polyline fill="none" points="318,269 318,334 172,334" stroke="#000000" stroke-width="1"/>
-<polyline fill="none" points="334,182 334,152" stroke="#000000" stroke-width="1"/>
-<polyline fill="none" points="606,182 606,54 654,54" stroke="#000000" stroke-width="1"/>
-<polygon fill="#ffffff" points="606,182 601,172 606,162 611,172" stroke="#ffffff" stroke-width="1"/>
-<polygon fill="none" points="606,182 601,172 606,162 611,172" stroke="#000000" stroke-width="1"/>
-<text font-family="Dialog" font-size="12" x="582" y="180">
+  <polyline
+     fill="none"
+     points="318,269 318,334 172,334"
+     stroke="#000000"
+     stroke-width="1"
+     id="polyline248" />
+  <polyline
+     fill="none"
+     points="334,182 334,152"
+     stroke="#000000"
+     stroke-width="1"
+     id="polyline250" />
+  <polyline
+     fill="none"
+     points="606,182 606,54 654,54"
+     stroke="#000000"
+     stroke-width="1"
+     id="polyline252" />
+  <polygon
+     fill="#ffffff"
+     points="606,182 601,172 606,162 611,172"
+     stroke="#ffffff"
+     stroke-width="1"
+     id="polygon254" />
+  <polygon
+     fill="none"
+     points="606,182 601,172 606,162 611,172"
+     stroke="#000000"
+     stroke-width="1"
+     id="polygon256" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="582"
+     y="180"
+     id="text258">
 1</text>
-<text font-family="Dialog" font-size="12" x="640" y="70">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="640"
+     y="70"
+     id="text260">
 *</text>
-<polyline fill="none" points="228,86 270,86" stroke="#000000" stroke-width="1"/>
-<polyline fill="none" points="380,54 518,54" stroke="#000000" stroke-width="1"/>
-<polygon fill="#ffffff" points="380,54 390,49 400,54 390,59" stroke="#ffffff" stroke-width="1"/>
-<polygon fill="none" points="380,54 390,49 400,54 390,59" stroke="#000000" stroke-width="1"/>
-<text font-family="Dialog" font-size="12" x="399" y="69">
+  <polyline
+     fill="none"
+     points="228,86 270,86"
+     stroke="#000000"
+     stroke-width="1"
+     id="polyline262" />
+  <polyline
+     fill="none"
+     points="380,54 518,54"
+     stroke="#000000"
+     stroke-width="1"
+     id="polyline264" />
+  <polygon
+     fill="#ffffff"
+     points="380,54 390,49 400,54 390,59"
+     stroke="#ffffff"
+     stroke-width="1"
+     id="polygon266" />
+  <polygon
+     fill="none"
+     points="380,54 390,49 400,54 390,59"
+     stroke="#000000"
+     stroke-width="1"
+     id="polygon268" />
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="399"
+     y="69"
+     id="text270">
 1</text>
-<text font-family="Dialog" font-size="12" x="502" y="70">
+  <text
+     font-family="Dialog"
+     font-size="12"
+     x="502"
+     y="70"
+     id="text272">
 *</text>
 </svg>
