@@ -1,14 +1,14 @@
 Diagramme de classes - Moyens de transport
 ==========================================
 
-Ce diagramme à pour but de récapituler les différents types de transports disponibles et quelle entité les fournis.
+Ce diagramme a pour but de récapituler les différents types de transports disponibles et quelle entité les fournis.
 
 ![Diagramme de classes - Moyens de transport](../exports/classes_transports.png "Diagramme de classes - Moyens de transport")
 
 Transporteurs privés
 --------------------
 
-Une partie des transports possible sont *privés*, ces transports sont envoyés lors d'intervention chez un particulier ou sur un lieu privé. Cela peut-être une ambulance ou un médecin (ou paramédical) privés.
+Une partie des transports sont privés, ces transports sont envoyés lors d'intervention chez un particulier ou sur un lieu privé. Cela peut-être une ambulance ou un médecin (ou paramédical) privés.
 
 Transporteurs publics
 ---------------------
