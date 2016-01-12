@@ -1,3 +1,6 @@
+Diagramme de séquence - 1ère Partie -
+=======================================
+
 
 La première partie du diagramme de séquences récapitule les prémières interactions entre **le patient**,  **l'appelant** et ** l'Auxilliaire de Régulation Médicale** (ARM) 
 
@@ -10,4 +13,4 @@ L'appelant à son tour, demande les informations dont il ne dispose pas, au pati
 Sur la base des informations recueillies, l' **ARM** indique **les premiers conseils ou gestes de secourisme** à effetuer au patient.
 L'**Apellant** essaye de reproduire les indications données par l'**ARM**. Chaque **ressenti du patient** est transmi en temps réel à l'**ARM**. 
 
-
+![Diagramme de séquence - 1ère Partie](../exports/sequence_1.png)
