@@ -8,7 +8,7 @@ Première partie
 
 ![Diagramme de séquence -- 1ère Partie](../exports/sequence_1.png "Diagramme de séquence -- 1ère Partie")
 
-La première partie du diagramme de séquences récapitule les premières intéractions entre le **Patient**,  l'**Appelant** et l'**ARM** (Auxilliaire de Régulation Médicale**.
+La première partie du diagramme de séquences récapitule les premières intéractions entre le **Patient**,  l'**Appelant** et l'**ARM** (Auxilliaire de Régulation Médicale).
 
 Tout démarre par l'*appel du 15*. L'appelant peut être le patient ou une tout autre personne (**Appelant**).
 Ce dernier est *mis en attente* (temps d'attente très court de l'ordre de quelques secondes) afin de rependre ses esprits et d'être en mesure de donner des informations sur le patient.
