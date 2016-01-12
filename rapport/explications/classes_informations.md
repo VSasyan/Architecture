@@ -18,8 +18,14 @@ Dès la prise de l'appel, l'ARM crée un *Dossier* qui contiendra les informatio
 La classe *Bilan*
 -----------------
 
-Lors de son intervention sur place, l'équipe de secours envoyée fait un bilan de son intervention. Certaines données vont recouper les informations contenues dans le *Dossier* initial, d'autres vont ajouter des informations. Le *Bilan* est composé des classes :
+Lors de son intervention sur place, l'équipe de secours envoyée fait un bilan de son intervention. Certaines données vont recouper les informations contenues dans le *Dossier* initial alors que d'autres vont ajouter de l'information. Le *Bilan* est composé des classes :
 * *Diagnostique*, si un diagnostique a été fait, c'est-à-dire qu'un médecin fait partie de l'équipe envoyée ;
 * *Gestes entrepris*, cette classe permet de lister les gestes de premeirs secours effectués par l'équipe ;
 * *Lésion traumatique*, cette classe permet d'intiquer si des lésions ont été remarquées au cours de l'intervention ;
 * et la classe *Info chiffrées*, qui est composé de plusieurs variables à mesurer par l'équipe. Cette classe peut aussi être complétée par des *Info complémentaires* (liste non exaustive).
+ 
+
+Association entre ces classes
+-----------------------------
+
+Les informations de la classe *Dossier* sont celles demandées à l'appelant ou au patient alors que celles contenues dans la classe *Bilan* sont fournies par l'équipe de secours envoyée. Ces données sont associées dans le système, d'où le lien entre les classes *Dossier* et *Bilan*.
