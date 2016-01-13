@@ -6,19 +6,33 @@ Tâches
 ------
 
 * **FAIRE la présentation**
-* **COMPILER le rapport**
+* Intro + Conclu + **COMPILER le rapport**
 
 
-Diagrammes
-----------
-
-Diagrammes *ok*, et *exportés*.
-
-
-Explications
+Présentation
 ------------
 
-* Explications diagramme de classe : à **vérifier**
-* Explications diagramme de séquence : 2, et 3 à **vérifier**
-* Explications diagramme de cas d'utilisation : fini
-* Explications diagramme d'activité : fini
+Contexte **Alaban**
+
+* SAMU quezaco
+* pk c'est relié aux pompiers
+* leurs missions
+
+Use-case : juste l'image + commentaires oraux **val**
+
+Séquence coupé en 3 + commentaires lights **max**
+
+Activité coupé en 3 + commentaires lights **alban**
+
+Diagramme de classes informations + commentaire lights **val**
+
+Diagramme de classes moyens transports avec photos véhicules !!! **val**
+
+Gestion de projet : **max**
+
+* recherche documentaire
+* résumé du doc ensemble
+* diagramme séoraméent au brouillon, mise au point enseble et numérisation séparement
+* distribution de la rédaction du rapport par parties
+
+Conclu **val**
