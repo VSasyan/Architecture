@@ -1,4 +1,4 @@
 Activité -- Régulation
 ======================
 
-![](../../rapport/exports/activity-2.png)
+![Diagramme d'activité (partie 2)](../../rapport/exports/activity-2.png)

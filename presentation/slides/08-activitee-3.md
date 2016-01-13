@@ -1,4 +1,4 @@
 Activité -- Évacuation
 ======================
 
-![](../../rapport/exports/activity-3.png)
+![Diagramme d'activité (partie 3)](../../rapport/exports/activity-3.png)
