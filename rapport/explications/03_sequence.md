@@ -15,7 +15,7 @@ Ce dernier est *mis en attente* (temps d'attente très court de l'ordre de quelq
 
 L'Auxilliaire de Régulation Médicale (**ARM**) *répond à l'appel*. 
 Dans un premier temps, il *demande des informations* sur l'identité du patient, sa localisaton, son état et ses antécédents médicaux).
-L'appelant, à son tour, *demande les informations dont il ne dispose pas au patient*. Une fois les informations recueillies, elles sont par la suite transmises à l'**ARM** qui *établit systématiquement un dossier médical* dans le **Système d'information du 15**.  
+L'appelant, à son tour, *demande les informations dont il ne dispose pas* au **Patient**. Une fois les informations recueillies, elles sont par la suite transmises à l'**ARM** qui *établit systématiquement un dossier médical* dans le **Système d'information du 15**.  
 Sur la base des informations recueillies, l'**ARM** indique *les premiers conseils ou gestes de secourisme* à administrer au **Patient**.
 L'**Appelant** *essaye de reproduire les indications données* par l'**ARM**. Chaque **ressenti du patient** est transmis en temps réel à l'**ARM**.
 
@@ -39,7 +39,7 @@ Troisème partie
 
 ![Diagramme de séquence -- 3ème Partie](../exports/sequence_3.png "Diagramme de séquence -- 3ème Partie")
 
-Une fois sur les lieux, l'équipe de *Secours* s'assure de mettre la vie du **Patient** hors danger, fait un bilan de la situation et de son intervention puis l'envoie à l'*ARM Gestionnaire de moyens*. Si besoin, elle effectue aussi une demande de renforts. Ce bilan est retransmis au *Médecin régulateur*.
+Une fois sur les lieux, l'équipe de **Secours** s'assure dans la mesure du possible de *mettre la vie du* **Patient** *hors danger*, *fait un bilan de la situation et de son intervention puis l'envoie* à l'**ARM Gestionnaire de moyens**. Si besoin, elle effectue aussi une *demande de renforts*. Ce bilan est retransmis au *Médecin régulateur*.
 
 Ce Bilan contient le choix du patient (ou de sa famille) en ce qui concerne le lieu d'accueil, le *Médecin régulateur* va alors tenter de trouver une place dans cet établissement ou à défaut dans un plus proche/adapté. Il contacte ensuite la *Structure d'accueil* concernée pour en vérifier la disponibilité.
 
