@@ -35,6 +35,6 @@ Présentation
 * diagramme séoraméent au brouillon, mise au point enseble et numérisation séparement
 * distribution de la rédaction du rapport par parties
 
-12 Conclu **val**
+12 Conclu
 
-13 Merci **val**
+13 Merci
