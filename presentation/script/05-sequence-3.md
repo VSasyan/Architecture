@@ -1,3 +1,6 @@
+Diagramme de séquence -- 3^ème^ partie
+======================================
+
 - l'équipe de Secours s'assure dans la mesure du possible de mettre la vie du Patient hors danger
 - l'équipe de Secours fait un bilan de la situation et de son intervention puis l'envoie à l'ARM Gestionnaire de moyens. 
   Si besoin, elle effectue aussi une demande de renforts.

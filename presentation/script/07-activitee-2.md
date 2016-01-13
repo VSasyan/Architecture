@@ -10,3 +10,4 @@ En attendant bilan de terrain, transfert au médecin régulateur.
 Réception du bilan + choix opérationnels
 
 (ambulance, SMUR, VSAV, ...)
+

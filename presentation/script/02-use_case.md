@@ -27,3 +27,4 @@ Le système permet :
 - le médecin de régulation, avec l'ARM, *décide de l'équipe adaptée* à envoyer ;
 - l'AMR gestionnaire des moyens *envoie l'équipe* ;
 - les secours vont sur le terrain et *font un rapport*.
+

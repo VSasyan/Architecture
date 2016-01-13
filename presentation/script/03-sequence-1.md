@@ -1,3 +1,6 @@
+Diagramme de séquence -- 1^ère^ partie
+======================================
+
 Pour des raisons de présentation et de lisibilité nous avons fait le choix de scinder le diagrammme de séquences en 3 parties.
 
 La premiére partie du diagramme de séquence présente les intéractions entre les 4 premiers intervenants à savoir :

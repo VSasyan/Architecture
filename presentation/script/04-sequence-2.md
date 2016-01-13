@@ -1,3 +1,6 @@
+Diagramme de séquence -- 2^ème^ partie
+======================================
+
 -  l'ARM déclenche si nécessaire d'Autres Secours (Gendarmerie, Police, Sapeurs Pompiers...). 
 -  L'ARM transfère le dossier médical informatique du patient voire son appel Si nécessaire, au Médecin régulateur.
 -  Le Médecin régulateur procède à la consultation du dossier médical du Patient. 
