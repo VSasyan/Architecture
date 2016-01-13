@@ -2,6 +2,7 @@ Diagrammes d'activité
 =====================
 
 Orienté processus / choix à faire
+---------------------------------
 
 1. Numéro
 
@@ -13,3 +14,4 @@ interconnectés, échanges d'appels
 2. Situations ordinaires => réponses types « prompts secours »
 
 3. Sécuriser la zone, secourisme, compte-rendu
+

@@ -12,3 +12,4 @@ Déroulement du projet
     - établissement des différents diagrammes, mise au point, numérisation
     - séparation de la rédaction du rapport.
 
+
