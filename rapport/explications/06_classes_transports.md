@@ -1,9 +1,9 @@
-Diagramme de classes - Moyens de transport
+Diagramme de classes -- Moyens de transport
 ==========================================
 
 Ce diagramme a pour but de récapituler les différents types de transports disponibles et quelle entité les fournit.
 
-![Diagramme de classes - Moyens de transport](../exports/classes_transports.png "Diagramme de classes - Moyens de transport")
+![Diagramme de classes -- Moyens de transport](../exports/classes_transports.png "Diagramme de classes -- Moyens de transport")
 
 Transporteurs privés
 --------------------

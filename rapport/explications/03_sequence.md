@@ -6,7 +6,7 @@ Première partie
 ---------------
 
 
-![Diagramme de séquence -- 1ère Partie](../exports/sequence_1.png "Diagramme de séquence -- 1ère Partie")
+![Diagramme de séquence -- 1^ère^ Partie](../exports/sequence_1.png "Diagramme de séquence -- 1^ère^ Partie")
 
 La première partie du diagramme de séquence récapitule les premières interactions entre le **Patient**,  l'**Appelant** et l'**ARM** (Auxiliaire de Régulation Médicale).
 
@@ -24,7 +24,7 @@ Deuxième partie
 ---------------
 
 
-![Diagramme de séquence -- 2ème Partie](../exports/sequence_2.png "Diagramme de séquence -- 2ème Partie")
+![Diagramme de séquence -- 2^ème^ Partie](../exports/sequence_2.png "Diagramme de séquence -- 2^ème^ Partie")
 
 Suite aux informations reçues par l'**ARM** et sur son libre appréciation, l'**ARM** déclenche si nécessaire d'**Autres Secours** (Gendarmerie, Police, Sapeurs Pompiers...). L'**ARM** *transfère dans l'immédiat le dossier médical informatique* du patient voire son *appel* au **Médecin régulateur**, si cela est nécessaire.  
 Le **Médecin régulateur** procède à *la consultation du dossier médical* du **Patient**.
@@ -37,7 +37,7 @@ Troisième partie
 ----------------
 
 
-![Diagramme de séquence -- 3ème Partie](../exports/sequence_3.png "Diagramme de séquence -- 3ème Partie")
+![Diagramme de séquence -- 3^ème^ Partie](../exports/sequence_3.png "Diagramme de séquence -- 3^ème^ Partie")
 
 Une fois sur les lieux, l'équipe de **Secours** s'assure dans la mesure du possible de *mettre la vie du* **Patient** *hors danger*, *fait un bilan de la situation et de son intervention puis l'envoie* à l'**ARM Gestionnaire de moyens**. Si besoin, elle effectue aussi une *demande de renforts*. Ce bilan est retransmis au **Médecin régulateur**.
 

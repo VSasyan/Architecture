@@ -12,6 +12,7 @@ Les particuliers :
 - le patient : c'est la personne ayant besoin d'assistance ;
 - l'appelant : c'est la personne qui va contacter le SAM en composant le 15 (elle peut être aussi le patient).
 
+
 Les professionnels :
 
 - l'ARM : Assistant de régulation médicale, c'est la première personne à décrocher au téléphone, il prend les premières décisions pour savoir vers qui diriger l'appelant ;
