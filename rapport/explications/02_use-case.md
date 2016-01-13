@@ -4,7 +4,7 @@ Diagramme de cas d'utilisation
 
 ![Diagramme de cas d'utilisation](../exports/use_case.png "Diagramme de cas d'utilisation")
 
-Les acteurs du stystème
+Les acteurs du système
 -----------------------
 
 Les particuliers :

@@ -14,7 +14,7 @@ document susmentionné. Ce diagramme s'éloigne un peu du sujet,
 puisqu'il précise les activités du côté du SDIS (les pompiers) ; cela
 est justifié par l'extrême intrication de ces deux systèmes.
 
-![Diagramme d'activité](../exports/activity.png)
+![Diagramme d’activité](../exports/activity.png)
 
 Les deux cadres représentent les deux systèmes, SAMU et SDIS
 (pompiers). Horizontalement, on peut lire les interactions entre les
