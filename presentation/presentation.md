@@ -16,24 +16,24 @@ Cas d'utilisation
 
 ---
 
-Diagramme de séquence -- 1^ère^ partie
+Diagramme de séquence – 1<sup>ère</sup> partie
 ======================================
 
-![Diagramme de séquence -- 1^ère^ Partie](../rapport/exports/sequence_1.png "Diagramme de séquence -- 1^ère^ Partie")
+![Diagramme de séquence – 1<sup>ère</sup> Partie](../rapport/exports/sequence_1.png "Diagramme de séquence – 1<sup>ère</sup> Partie")
 
 ---
 
-Diagramme de séquence -- 2^ème^ partie
+Diagramme de séquence – 2<sup>ème</sup> partie
 ======================================
 
-![Diagramme de séquence -- 2^ème^ Partie](../rapport/exports/sequence_2.png "Diagramme de séquence -- 2^ème^")
+![Diagramme de séquence – 2<sup>ème</sup> Partie](../rapport/exports/sequence_2.png "Diagramme de séquence – 2<sup>ème</sup>")
 
 ---
 
-Diagramme de séquence -- 3^ème^ partie
+Diagramme de séquence – 3<sup>ème</sup> partie
 ======================================
 
-![Diagramme de séquence -- 3^ème^ Partie](../rapport/exports/sequence_3.png "Diagramme de séquence -- 3^ème^")
+![Diagramme de séquence – 3<sup>ème</sup> Partie](../rapport/exports/sequence_3.png "Diagramme de séquence – 3<sup>ème</sup>")
 
 ---
 
@@ -44,31 +44,31 @@ Activité : appel, premiers secours
 
 ---
 
-Activité -- Régulation
+Activité – Régulation
 ======================
 
 ![Diagramme d'activité (partie 2)](../rapport/exports/activity-2.png)
 
 ---
 
-Activité -- Évacuation
+Activité – Évacuation
 ======================
 
 ![Diagramme d'activité (partie 3)](../rapport/exports/activity-3.png)
 
 ---
 
-Diagramme de classes -- Informations
+Diagramme de classes – Informations
 ====================================
 
-![Diagramme de classes -- Informations](../rapport/exports/classes_informations.png "Diagramme de classes -- Informations")
+![Diagramme de classes – Informations](../rapport/exports/classes_informations.png "Diagramme de classes – Informations")
 
 ---
 
-Diagramme de classes -- Transports
+Diagramme de classes – Transports
 ==================================
 
-![Diagramme de classes -- Transports](../images/10-classes-2.png "Diagramme de classes -- Transports")
+![Diagramme de classes – Transports](../images/10-classes-2.png "Diagramme de classes – Transports")
 
 ---
 
