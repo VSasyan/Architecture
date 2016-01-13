@@ -3,24 +3,101 @@ class: center, middle
 # Projet Architecture
 ## Le système de fonctionnement du SAMU
 
-![Logo UML](http://grssocial.com/wp-content/uploads/2014/05/UML-logo1.jpg "Logo UML")
+![Logo SAMU](../rapport/logo-samu.png "Logo SAMU")
 
 **Maxwell Hountonhadja**, **Alban Kraus**, **Valentin Sasyan**
 
 ---
 
-# Plan
+Cas d'utilisation
+=================
 
-1. Instroduction
-2. Diagramme de cas d'utilisation
-3. Diagramme de séquence
-4. Diagramme d'activité
-5. Diagramme de classe
+![Diagramme de cas d'utilisation](../rapport/exports/use_case.png "Diagramme de cas d'utilisation")
 
 ---
 
-# Introduction
+Diagramme de séquence -- 1^ère^ partie
+======================================
 
-1. Le 15
-2. Équipes mises en jeu
-3. Solutions techniques
+![Diagramme de séquence -- 1^ère^ Partie](../rapport/exports/sequence_1.png "Diagramme de séquence -- 1^ère^ Partie")
+
+---
+
+Diagramme de séquence -- 2^ème^ partie
+======================================
+
+![Diagramme de séquence -- 2^ème^ Partie](../rapport/exports/sequence_2.png "Diagramme de séquence -- 2^ème^")
+
+---
+
+Diagramme de séquence -- 3^ème^ partie
+======================================
+
+![Diagramme de séquence -- 3^ème^ Partie](../rapport/exports/sequence_3.png "Diagramme de séquence -- 3^ème^")
+
+---
+
+Activité : appel, premiers secours
+==================================
+
+![Diagramme d'activité (partie 1)](../rapport/exports/activity-1.png)
+
+---
+
+Activité -- Régulation
+======================
+
+![Diagramme d'activité (partie 2)](../rapport/exports/activity-2.png)
+
+---
+
+Activité -- Évacuation
+======================
+
+![Diagramme d'activité (partie 3)](../rapport/exports/activity-3.png)
+
+---
+
+Diagramme de classes -- Informations
+====================================
+
+![Diagramme de classes -- Informations](../rapport/exports/classes_informations.png "Diagramme de classes -- Informations")
+
+---
+
+Diagramme de classes -- Transports
+==================================
+
+![Diagramme de classes -- Transports](../images/10-classes-2.png "Diagramme de classes -- Transports")
+
+---
+
+Déroulement du projet
+=====================
+
+* Premier choix de sujet :  les égouts de Paris. (Visite)
+
+* Second choix de sujet : le SAMU
+    - recherche documentaire
+    - résumé de la documentation
+    - établissement des différents diagrammes, mise au point, numérisation
+    - séparation de la rédaction du rapport.
+
+---
+
+Conclusion
+==========
+
+* Difficultés à trouver notre sujet
+* Modélisation UML par forcément adaptée
+* Résultat non exhaustif
+* GitHub : [https://github.com/VSasyan/Architecture](https://github.com/VSasyan/Architecture)
+
+---
+
+Merci de votre attention !
+==========================
+
+![Avez-vous des questions ?](../images/13-merci.jpg "Avez-vous des questions ?")
+
+***Avez-vous des questions ?***
