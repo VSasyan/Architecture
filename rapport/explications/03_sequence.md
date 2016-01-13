@@ -28,6 +28,10 @@ Deuxième partie
 
 Suite aux informations reçues par l'**ARM** et sur son libre appréciation, l'**ARM** déclenche si nécessaire d'**Autres Secours** ( Gendamerie, Police, Sapeurs Pompiers...). L'**ARM** *transfère dans l'immédiat le dossier médical informatique* du patient voire son *appel* au **Médecin régulateur**, si cela est nécessaire.  
 Le **Médecin régulateur** procède à *la consultation du dossier médical* du **Patient**.
+Selon le cas, le **Médecin régulateur** est mise en communication avec le **Patient** ou l'**Appelant** si le **Patient** n'est pas en mesure de parler. Le **Médecin régulateur** pose des questions médicales à son interlocuteur afin de connaître au maximum les signes cliniques que présente le **Patient** afin d'établir un diagnostic le plus prècis possible.
+Le **Médecin régulateur** et l'**ARM** *décident conjointement de l'équipe* à envoyer pour secourir le **Patient**.
+L'**ARM** transmet la décision d'envoi de secours à l'**ARM Gestionnaire de moyens**. Ce dernier transfere le dossier du patient aux **Secours**, s'assure de la disponibilité et de la mobilisation de l'équipe à envoyer sur les lieux.
+L'**ARM Gestionnaire des moyens** rend compte de l'envoi des secours à l'**ARM** qui a son tour rend compte à l'**Appelant**.
 
 Troisème partie
 ---------------
