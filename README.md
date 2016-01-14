@@ -34,6 +34,8 @@ Index des répertoires
     * `script` : notes pour la présentation
     * `slides` : sources de la présentation
     * `presentation.pdf` : présentation LaTeX
+    * `presentation.md` : compilation de la présentation en Markdown
+    * `index.html` : viewer web de la présentation (stand-alone avec connexion web)
 - `rapport` :
     * `explications` : sources du rapport
     * `exports` : les diagrammes UML
