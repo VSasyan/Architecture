@@ -3,7 +3,7 @@ class: center, middle
 # Projet Architecture
 ## Le système de fonctionnement du SAMU
 
-![Logo SAMU](../rapport/explications/logo-samu.png "Logo SAMU")
+![Logo SAMU](../rapport/explications/logo-samu_.png "Logo SAMU")
 
 **Maxwell Hountonhadja**, **Alban Kraus**, **Valentin Sasyan**
 
@@ -12,7 +12,7 @@ class: center, middle
 Cas d'utilisation
 =================
 
-![Diagramme de cas d'utilisation](../rapport/exports/use_case.png "Diagramme de cas d'utilisation")
+![Diagramme de cas d'utilisation](../rapport/exports/use_case_.png "Diagramme de cas d'utilisation")
 
 ---
 
@@ -47,7 +47,7 @@ Activité : appel, premiers secours
 Activité – Régulation
 ======================
 
-![Diagramme d'activité (partie 2)](../rapport/exports/activity-2.png)
+![Diagramme d'activité (partie 2)](../rapport/exports/activity-2_.png)
 
 ---
 
@@ -68,7 +68,7 @@ Diagramme de classes – Informations
 Diagramme de classes – Transports
 ==================================
 
-![Diagramme de classes – Transports](images/10-classes-2.png "Diagramme de classes – Transports")
+![Diagramme de classes – Transports](images/10-classes-2_.png "Diagramme de classes – Transports")
 
 ---
 
@@ -98,6 +98,6 @@ Conclusion
 Merci de votre attention !
 ==========================
 
-![Avez-vous des questions ?](images/13-merci.jpg "Avez-vous des questions ?")
+![Avez-vous des questions ?](images/13-merci_.jpg "Avez-vous des questions ?")
 
 ***Avez-vous des questions ?***
