@@ -98,6 +98,6 @@ Conclusion
 Merci de votre attention !
 ==========================
 
-![Avez-vous des questions ?](images/13-merci_.jpg "Avez-vous des questions ?")
+![Avez-vous des questions ?](images/13-merci_.png "Avez-vous des questions ?")
 
 ***Avez-vous des questions ?***
